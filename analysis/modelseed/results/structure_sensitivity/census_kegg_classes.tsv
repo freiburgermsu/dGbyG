@@ -1,0 +1,13 @@
+cause	n_compounds	pct
+identical	9587	63.02
+residual charge	2053	13.5
+tautomer	1344	8.84
+residual charge+tautomer	1127	7.41
+stereo	551	3.62
+residual charge+stereo	209	1.37
+isomer/C-H tautomer	181	1.19
+protonation	81	0.53
+residual charge+protonation	31	0.2
+different constitution	21	0.14
+residual charge+isomer/C-H tautomer	20	0.13
+residual charge+different constitution	7	0.05

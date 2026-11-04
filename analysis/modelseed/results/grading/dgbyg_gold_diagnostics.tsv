@@ -1,0 +1,3 @@
+run	live_gold_baseline	live_gold_with_dgbyg	newly_gold	newly_gold_only_dgbyg_gold	newly_gold_other_source_gold	lost_gold	dgbyg_gold	dgbyg_gold_sigma0_dg0	dgbyg_sigma0_dg0	newly_gold_only_dgbyg_sigma0_dg0	dgbyg_only_graded
+dgb_last	4073	6255	2196	1976	220	14	2812	413	428	148	155
+heldout_dgb_last	4073	6242	2182	1963	219	13	2777	413	428	148	155

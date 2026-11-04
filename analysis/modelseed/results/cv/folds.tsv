@@ -1,0 +1,672 @@
+row	key	fold	type
+0	F:(('CC(O)(CC(=O)O)C(=O)O', -1.0),)	1	formation dg
+1	F:(('O=C(O)CCC(O)C(=O)O', -1.0),)	0	formation dg
+2	F:(('CC(O)C(=O)O', -1.0),)	1	formation dg
+3	F:(('O=C(O)CC(O)C(=O)O', -1.0),)	3	formation dg
+4	F:(('ClCC(Cl)(Cl)Cl', -1.0),)	8	formation dg
+5	F:(('CC(Cl)(Cl)Cl', -1.0),)	8	formation dg
+6	F:(('ClC(Cl)C(Cl)Cl', -1.0),)	7	formation dg
+7	F:(('ClCC(Cl)Cl', -1.0),)	1	formation dg
+8	F:(('CC(Cl)Cl', -1.0),)	0	formation dg
+9	F:(('C=C(Cl)Cl', -1.0),)	4	formation dg
+10	F:(('Clc1ccc(Cl)c(Cl)c1Cl', -1.0),)	0	formation dg
+11	F:(('Clc1cc(Cl)c(Cl)c(Cl)c1', -1.0),)	5	formation dg
+12	F:(('Clc1cccc(Cl)c1Cl', -1.0),)	5	formation dg
+13	F:(('ClCC(Cl)CCl', -1.0),)	8	formation dg
+14	F:(('Clc1cc(Cl)c(Cl)cc1Cl', -1.0),)	6	formation dg
+15	F:(('Clc1ccc(Cl)c(Cl)c1', -1.0),)	2	formation dg
+16	F:(('Clc1ccccc1Cl', -1.0),)	4	formation dg
+17	F:(('ClCCCl', -1.0),)	5	formation dg
+18	F:(('CC(Cl)CCl', -1.0),)	5	formation dg
+19	F:(('Clc1cc(Cl)cc(Cl)c1', -1.0),)	3	formation dg
+20	F:(('Clc1cccc(Cl)c1', -1.0),)	6	formation dg
+21	F:(('ClCCCCl', -1.0),)	5	formation dg
+22	F:(('Clc1ccc(Cl)cc1', -1.0),)	1	formation dg
+23	F:(('CCCCO', -1.0),)	6	formation dg
+24	F:(('CCCCCl', -1.0),)	6	formation dg
+25	F:(('CCCCCCl', -1.0),)	7	formation dg
+26	F:(('CCCCl', -1.0),)	8	formation dg
+27	F:(('O=C(O)c1cc(Cl)cc(Cl)c1Cl', -1.0),)	1	formation dg
+28	F:(('O=C(O)c1cccc(Cl)c1Cl', -1.0),)	7	formation dg
+29	F:(('O=C(O)c1ccc(Cl)cc1Cl', -1.0),)	3	formation dg
+30	F:(('O=C(O)c1cc(Cl)ccc1Cl', -1.0),)	9	formation dg
+31	F:(('O=C(O)c1c(Cl)cccc1Cl', -1.0),)	3	formation dg
+32	F:(('Nc1ccc(Cl)cc1C(=O)O', -1.0),)	2	formation dg
+33	F:(('O=C(O)c1ccccc1Br', -1.0),)	0	formation dg
+34	F:(('O=C(O)c1ccccc1Cl', -1.0),)	6	formation dg
+35	F:(('CCC(C)Cl', -1.0),)	6	formation dg
+36	F:(('O=CCC(O)C(O)COP(=O)(O)O', -1.0),)	2	formation dg
+37	F:(('O=C(O)c1ccccc1F', -1.0),)	3	formation dg
+38	F:(('O=C(O)c1cc(Cl)ccc1O', -1.0),)	9	formation dg
+39	F:(('CCC(O)C(=O)O', -1.0),)	7	formation dg
+40	F:(('O=C(O)c1ccccc1I', -1.0),)	2	formation dg
+41	F:(('Cc1ccc(Cl)cc1C(=O)O', -1.0),)	1	formation dg
+42	F:(('CC(=CC(=O)O)C(=O)O', -1.0),)	6	formation dg
+43	F:(('O=C(O)CCC(=O)C(=O)O', -1.0),)	3	formation dg
+44	F:(('O=C(O)C(CO)OP(=O)(O)O', -1.0),)	4	formation dg
+45	F:(('Nc1ncnc2c1ncn2C1OC2COP(=O)(O)OC2C1O', -1.0),)	6	formation dg
+46	F:(('O=C(O)c1cc(Cl)c(Cl)c(Cl)c1', -1.0),)	4	formation dg
+47	F:(('O=C(O)c1ccc(Cl)c(Cl)c1', -1.0),)	2	formation dg
+48	F:(('O=C(O)c1cc(Cl)cc(Cl)c1', -1.0),)	7	formation dg
+49	F:(('O=C(O)c1cccc(Br)c1', -1.0),)	1	formation dg
+50	F:(('O=C(O)c1cccc(Cl)c1', -1.0),)	7	formation dg
+51	F:(('O=C(O)c1cccc(F)c1', -1.0),)	9	formation dg
+52	F:(('O=C(O)CCO', -1.0),)	9	formation dg
+53	F:(('O=C(O)c1cccc(I)c1', -1.0),)	9	formation dg
+54	F:(('O=C(O)C(O)COP(=O)(O)O', -1.0),)	1	formation dg
+55	F:(('O=C(OP(=O)(O)O)C(O)COP(=O)(O)O', -1.0),)	8	formation dg
+56	F:(('O=C(O)C(=O)COP(=O)(O)O', -1.0),)	8	formation dg
+57	F:(('O=C(O)c1ccc(Br)cc1', -1.0),)	3	formation dg
+58	F:(('O=C(O)c1ccc(Cl)cc1', -1.0),)	0	formation dg
+59	F:(('O=C(O)c1ccc(F)cc1', -1.0),)	4	formation dg
+60	F:(('O=C(O)C(=O)CC(O)C(=O)O', -1.0),)	5	formation dg
+61	F:(('O=C(O)c1ccc(I)cc1', -1.0),)	1	formation dg
+62	F:(('CC(C)CC(=O)C(=O)O', -1.0),)	0	formation dg
+63	F:(('NC(=O)C(=O)CCC(=O)O', -1.0),)	4	formation dg
+64	F:(('O=P(O)(O)OCC1OC(OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0),)	5	formation dg
+65	F:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0),)	0	formation dg
+66	F:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', -1.0),)	8	formation dg
+67	F:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0),)	2	formation dg
+68	F:(('CC=O', -1.0),)	9	formation dg
+69	F:(('CC(=O)O', -1.0),)	7	formation dg
+70	F:(('CC(=O)CC(=O)O', -1.0),)	6	formation dg
+71	F:(('CC(C)=O', -1.0),)	9	formation dg
+72	F:(('CC(=O)OP(=O)(O)O', -1.0),)	5	formation dg
+73	F:(('Nc1ncnc2nc[nH]c12', -1.0),)	7	formation dg
+74	F:(('Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O', -1.0),)	2	formation dg
+75	F:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OS(=O)(=O)O)C(O)C1O', -1.0),)	0	formation dg
+76	F:(('CCCC=O', -1.0),)	4	formation dg
+77	F:(('CCCC', -1.0),)	9	formation dg
+78	F:(('CCCC(=O)O', -1.0),)	6	formation dg
+79	F:(('C[N+](C)(C)[O-]', -1.0),)	3	formation dg
+80	F:(('[C-]#[O+]', -1.0),)	0	formation dg
+81	F:(('O=C=O', -1.0),)	1	formation dg
+82	F:(('O=C(O)O', -1.0),)	2	formation dg
+83	F:(('ClC(Cl)(Cl)Cl', -1.0),)	2	formation dg
+84	F:(('CCCl', -1.0),)	6	formation dg
+85	F:(('ClC(Cl)Cl', -1.0),)	5	formation dg
+86	F:(('CCl', -1.0),)	5	formation dg
+87	F:(('O=C(O)CC(O)(CC(=O)O)C(=O)O', -1.0),)	7	formation dg
+88	F:(('CN(CC(=O)O)C(=N)N', -1.0),)	2	formation dg
+89	F:(('CN1CC(=O)NC1=N', -1.0),)	1	formation dg
+90	F:(('N=C=O', -1.0),)	8	formation dg
+91	F:(('OC1COC(O)C(O)C1O', -1.0),)	4	formation dg
+92	F:(('O=CC(O)C(O)C(O)COP(=O)(O)O', -1.0),)	8	formation dg
+93	F:(('O=C(CO)C(O)C(O)C(O)CO', -1.0),)	8	formation dg
+94	F:(('O=P(O)(O)OCC1OC(O)(COP(=O)(O)O)C(O)C1O', -1.0),)	2	formation dg
+95	F:(('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', -1.0),)	0	formation dg
+96	F:(('O=C1OC(C(O)CO)C(O)C1O', -1.0),)	2	formation dg
+97	F:(('OCC1OC(O)C(O)C(O)C1O', -1.0),)	7	formation dg
+98	F:(('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', -1.0),)	7	formation dg
+99	F:(('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', -1.0),)	5	formation dg
+100	F:(('O=C(O)C(O)C(O)C(O)C(O)CO', -1.0),)	2	formation dg
+101	F:(('O=C1OC(CO)C(O)C(O)C1O', -1.0),)	7	formation dg
+102	F:(('O=C1OC(COP(=O)(O)O)C(O)C(O)C1O', -1.0),)	8	formation dg
+103	F:(('OCC1OC(O)C(O)C(O)C1O', -1.0),)	7	formation dg
+104	F:(('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', -1.0),)	7	formation dg
+105	F:(('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', -1.0),)	5	formation dg
+106	F:(('O=CC(O)CO', -1.0),)	3	formation dg
+107	F:(('O=CC(O)COP(=O)(O)O', -1.0),)	9	formation dg
+108	F:(('O=C(O)C(O)CO', -1.0),)	4	formation dg
+109	F:(('OC1COC(O)C(O)C1O', -1.0),)	4	formation dg
+110	F:(('O=P(O)(O)OCC(O)C(O)C(O)C(O)CO', -1.0),)	3	formation dg
+111	F:(('OCC1OC(O)C(O)C(O)C1O', -1.0),)	7	formation dg
+112	F:(('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', -1.0),)	7	formation dg
+113	F:(('O=CC(O)C(O)C(O)C(O)COP(=O)(O)O', -1.0),)	2	formation dg
+114	F:(('OCC1OC(O)C(O)C1O', -1.0),)	1	formation dg
+115	F:(('O=P(O)(O)OCC1OC(O)C(O)C1O', -1.0),)	0	formation dg
+116	F:(('O=C(CO)C(O)C(O)CO', -1.0),)	8	formation dg
+117	F:(('O=C(CO)C(O)C(O)COP(=O)(O)O', -1.0),)	9	formation dg
+118	F:(('OCC(O)C(O)C(O)C(O)CO', -1.0),)	6	formation dg
+119	F:(('O=CC(O)C(O)C(O)CO', -1.0),)	5	formation dg
+120	F:(('O=C(CO)C(O)C(O)CO', -1.0),)	8	formation dg
+121	F:(('ClCCl', -1.0),)	6	formation dg
+122	F:(('CNC', -1.0),)	0	formation dg
+123	F:(('O=P(O)(O)OP(=O)(O)O', -1.0),)	3	formation dg
+124	F:(('CC', -1.0),)	6	formation dg
+125	F:(('CCO', -1.0),)	5	formation dg
+126	F:(('CCOC(C)=O', -1.0),)	1	formation dg
+127	F:(('C=C', -1.0),)	0	formation dg
+128	F:(('[Fe+2]', -1.0),)	5	formation dg
+129	F:(('[Fe+3]', -1.0),)	5	formation dg
+130	F:(('C=O', -1.0),)	3	formation dg
+131	F:(('O=CO', -1.0),)	4	formation dg
+132	F:(('O=C(O)C=CC(=O)O', -1.0),)	2	formation dg
+133	F:(('OCC(O)CO', -1.0),)	8	formation dg
+134	F:(('O=C(CO)CO', -1.0),)	4	formation dg
+135	F:(('O=C(CO)COP(=O)(O)O', -1.0),)	0	formation dg
+136	F:(('NCC(=O)O', -1.0),)	6	formation dg
+137	F:(('O=C(O)CO', -1.0),)	4	formation dg
+138	F:(('NCC(=O)NCC(=O)O', -1.0),)	2	formation dg
+139	F:(('O=CC(=O)O', -1.0),)	1	formation dg
+140	F:empty:140	0	formation dg
+141	F:(('Clc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl', -1.0),)	0	formation dg
+142	F:(('ClC(Cl)(Cl)C(Cl)(Cl)Cl', -1.0),)	4	formation dg
+143	F:(('CCCCCCCCCCCCCCCC(=O)O', -1.0),)	0	formation dg
+144	F:(('NN', -1.0),)	4	formation dg
+145	F:(('[H][H]', -1.0),)	1	formation dg
+146	F:(('C#N', -1.0),)	7	formation dg
+147	F:(('OO', -1.0),)	9	formation dg
+148	F:(('S', -1.0),)	5	formation dg
+149	F:(('O=c1[nH]cnc2[nH]cnc12', -1.0),)	6	formation dg
+150	F:(('c1ccc2[nH]ccc2c1', -1.0),)	4	formation dg
+151	F:(('O=c1[nH]cnc2c1ncn2C1OC(CO)C(O)C1O', -1.0),)	9	formation dg
+152	F:(('[Fe]', -1.0),)	4	formation dg
+153	F:(('O=C(O)CC(C(=O)O)C(O)C(=O)O', -1.0),)	5	formation dg
+154	F:(('OCC1OC(OCC2OC(O)C(O)C(O)C2O)C(O)C(O)C1O', -1.0),)	6	formation dg
+155	F:(('CC(N)C(=O)O', -1.0),)	5	formation dg
+156	F:(('NC(=O)CC(N)C(=O)O', -1.0),)	5	formation dg
+157	F:(('NC(CC(=O)O)C(=O)O', -1.0),)	6	formation dg
+158	F:(('NC(CS)C(=O)O', -1.0),)	4	formation dg
+159	F:(('NC(CSSCC(N)C(=O)O)C(=O)O', -1.0),)	9	formation dg
+160	F:(('NC(CCC(=O)O)C(=O)O', -1.0),)	7	formation dg
+161	F:(('NC(=O)CCC(N)C(=O)O', -1.0),)	2	formation dg
+162	F:(('OCC(O)C(O)C(O)C(O)CO', -1.0),)	6	formation dg
+163	F:(('CCC(C)C(N)C(=O)O', -1.0),)	2	formation dg
+164	F:(('CC(C)CC(N)C(=O)O', -1.0),)	3	formation dg
+165	F:(('NC(Cc1ccccc1)C(=O)O', -1.0),)	6	formation dg
+166	F:(('NC(CO)C(=O)O', -1.0),)	5	formation dg
+167	F:(('O=C(CO)C(O)C(O)C(O)CO', -1.0),)	8	formation dg
+168	F:(('CC(O)C(N)C(=O)O', -1.0),)	4	formation dg
+169	F:(('NC(Cc1c[nH]c2ccccc12)C(=O)O', -1.0),)	8	formation dg
+170	F:(('NC(Cc1ccc(O)cc1)C(=O)O', -1.0),)	4	formation dg
+171	F:(('CC(C)C(N)C(=O)O', -1.0),)	2	formation dg
+172	F:(('OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O', -1.0),)	8	formation dg
+173	F:(('[Mg+2]', -1.0),)	0	formation dg
+174	F:(('O=C(O)C=CC(=O)O', -1.0),)	2	formation dg
+175	F:(('OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O', -1.0),)	8	formation dg
+176	F:(('[Mn]', -1.0),)	2	formation dg
+177	F:(('OCC(O)C(O)C(O)C(O)CO', -1.0),)	6	formation dg
+178	F:(('C', -1.0),)	7	formation dg
+179	F:(('CO', -1.0),)	8	formation dg
+180	F:(('CN', -1.0),)	7	formation dg
+181	F:(('Clc1ccccc1', -1.0),)	4	formation dg
+182	F:(('N', -1.0),)	3	formation dg
+183	F:(('O=[N+]([O-])O', -1.0),)	8	formation dg
+184	F:(('[N]=O', -1.0),)	9	formation dg
+185	F:(('O=NO', -1.0),)	9	formation dg
+186	F:(('N#N', -1.0),)	4	formation dg
+187	F:(('N#[N+][O-]', -1.0),)	7	formation dg
+188	F:(('NC(COP(=O)(O)O)C(=O)O', -1.0),)	9	formation dg
+189	F:(('O=P(O)(O)O', -1.0),)	6	formation dg
+190	F:(('O=C(O)C(=O)O', -1.0),)	7	formation dg
+191	F:(('O=C(O)CC(=O)C(=O)O', -1.0),)	0	formation dg
+192	F:(('O=O', -1.0),)	8	formation dg
+193	F:(('Clc1cc(Cl)c(Cl)c(Cl)c1Cl', -1.0),)	8	formation dg
+194	F:(('ClC(Cl)C(Cl)(Cl)Cl', -1.0),)	8	formation dg
+195	F:(('CCCCC', -1.0),)	2	formation dg
+196	F:(('C=C(OP(=O)(O)O)C(=O)O', -1.0),)	7	formation dg
+197	F:(('CC(C)O', -1.0),)	3	formation dg
+198	F:(('CCC', -1.0),)	5	formation dg
+199	F:(('CCCO', -1.0),)	0	formation dg
+200	F:(('CC(=O)C(=O)O', -1.0),)	7	formation dg
+201	F:(('O=P(O)(O)OCC(O)C(O)C(O)C(O)CO', -1.0),)	3	formation dg
+202	F:(('O=C(O)CCC(=O)O', -1.0),)	2	formation dg
+203	F:(('OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O', -1.0),)	8	formation dg
+204	F:(('O=S(=O)(O)O', -1.0),)	6	formation dg
+205	F:(('O=S(O)O', -1.0),)	2	formation dg
+206	F:(('[S]', -1.0),)	3	formation dg
+207	F:(('O=S=O', -1.0),)	3	formation dg
+208	F:(('ClC(Cl)=C(Cl)Cl', -1.0),)	0	formation dg
+209	F:(('N#CS', -1.0),)	0	formation dg
+210	F:(('ClC=C(Cl)Cl', -1.0),)	0	formation dg
+211	F:(('CN(C)C', -1.0),)	2	formation dg
+212	F:(('O=c1[nH]c(=O)c2[nH]c(=O)[nH]c2[nH]1', -1.0),)	4	formation dg
+213	F:(('NC(N)=O', -1.0),)	1	formation dg
+214	F:(('C=CCl', -1.0),)	4	formation dg
+215	F:(('OCC(O)C(O)C(O)CO', -1.0),)	7	formation dg
+216	F:(('OCC1OC(OC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O', -1.0),)	5	formation dg
+217	F:(('O=P(O)(O)OC1OC(CO)C(O)C1O', -1.0),)	6	formation dg
+218	F:(('ClC=CCl', -1.0),)	3	formation dg
+219	F:(('O=C(O)C=C(CC(=O)O)C(=O)O', -1.0),)	6	formation dg
+220	F:(('O=P(O)(O)OCC(O)CO', -1.0),)	1	formation dg
+221	F:(('ClC=CCl', -1.0),)	3	formation dg
+222	R:(('NC(=O)NC(O)C(=O)O', -1.0), ('NC(N)=O', 1.0), ('O=CC(=O)O', 1.0))	8	reaction dg
+223	R:(('CC(=O)C(=O)O', -1.0), ('CC(N)C(=O)O', 1.0), ('NCCP(=O)(O)O', -1.0), ('O=CCP(=O)(O)O', 1.0))	4	reaction dg
+224	R:(('CC(C(=O)O)=C(C)C(=O)O', -1.0), ('CC(C(=O)O)C(C)(O)C(=O)O', 1.0))	8	reaction dg
+225	R:(('CC(C)=CCCC(C)C1CCC2C3=C(CCC21C)C1(C)CCC(O)CC1CC3', -1.0), ('CC(C)=CCCC(C)C1CCC2C3=CCC4CC(O)CCC4(C)C3CCC21C', 1.0))	8	reaction dg
+226	R:(('CC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0))	1	reaction dg
+227	R:(('*SC(=O)C=CC', -1.0), ('*SC(=O)CC(C)O', 1.0))	9	reaction dg
+228	R:(('CC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0))	1	reaction dg
+229	R:(('CCCC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0))	1	reaction dg
+230	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)CCC(=O)C(=O)O', -1.0), ('O=C(O)CCC(O)C(=O)O', 1.0))	6	reaction dg
+231	R:(('CC(=CC(=O)O)C(=O)O', -1.0), ('CC(O)(CC(=O)O)C(=O)O', 1.0))	7	reaction dg
+232	R:(('CC(=O)CC(=O)O', -1.0), ('CC(O)CC(=O)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	1	reaction dg
+233	R:(('O=C(O)C(O)CO', -1.0), ('O=C(O)C(O)COP(=O)(O)O', 1.0), ('O=P(O)(O)O', -1.0))	3	reaction dg
+234	R:(('CC(=O)C=O', -1.0), ('CC(O)C(=O)SCC(NC(=O)CCC(N)C(=O)O)C(=O)NCC(=O)O', 1.0), ('NC(CCC(=O)NC(CS)C(=O)NCC(=O)O)C(=O)O', -1.0))	5	reaction dg
+235	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C(O)CO', 1.0), ('O=CC(O)C(=O)O', -1.0))	1	reaction dg
+236	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C(=O)CO', -1.0), ('O=C(O)C(O)CO', 1.0))	9	reaction dg
+237	R:(('CC(=O)C(=O)O', -1.0), ('CC(O)C(=O)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	0	reaction dg
+238	R:(('O=C(O)C=CC(=O)O', -1.0), ('O=C(O)CC(O)C(=O)O', 1.0))	6	reaction dg
+239	R:empty:239	2	reaction dg
+240	R:(('CC(C(=O)O)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCSC(=O)CCC(=O)O', 1.0))	7	reaction dg
+241	R:(('CC(C)(CO)C(=O)C(=O)O', -1.0), ('CC(C)(CO)C(O)C(=O)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0))	1	reaction dg
+242	R:(('CC(=O)C(C)O', -1.0), ('CC(O)C(C)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	7	reaction dg
+243	R:(('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(O)C(=O)O', 1.0), ('O=CC(=O)O', -1.0))	6	reaction dg
+244	R:(('CC(=CC(=O)O)C(=O)O', -1.0), ('CC(O)(CC(=O)O)C(=O)O', 1.0))	7	reaction dg
+245	R:(('CC(=O)C(=O)O', -1.0), ('CC(=O)O', -1.0), ('CC(O)(CC(=O)O)C(=O)O', 1.0))	1	reaction dg
+246	R:(('CC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	5	reaction dg
+247	R:(('CCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CCCC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	3	reaction dg
+248	R:(('CC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('CC(=O)c1ccc[n+](C2OC(COP(=O)([O-])OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)c1cc(=O)[nH]c(=O)[nH]1', -1.0), ('O=C1CC(C(=O)O)NC(=O)N1', 1.0))	7	reaction dg
+249	R:(('NC(=O)NC(CC(=O)O)C(=O)O', -1.0), ('O=C1CC(C(=O)O)NC(=O)N1', 1.0))	0	reaction dg
+250	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)c1cc(=O)[nH]c(=O)[nH]1', -1.0), ('O=C1CC(C(=O)O)NC(=O)N1', 1.0))	9	reaction dg
+251	R:(('CC(=O)C(=O)O', -1.0), ('CC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('CC(=O)c1ccc[n+](C2OC(COP(=O)([O-])OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('CC(O)C(=O)O', 1.0))	0	reaction dg
+252	R:(('CC(=O)C(=O)O', -1.0), ('CC(O)C(=O)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	0	reaction dg
+253	R:(('CC(=O)C(=O)O', -1.0), ('CC(O)C(=O)O', 1.0), ('O=C(O)CC(=O)C(=O)O', 1.0), ('O=C(O)CC(O)C(=O)O', -1.0))	0	reaction dg
+254	R:(('CC(=O)C(=O)O', -1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)CC(O)C(=O)O', 1.0), ('O=C(O)O', -1.0))	2	reaction dg
+255	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)CC(=O)C(=O)O', -1.0), ('O=C(O)CC(O)C(=O)O', 1.0))	7	reaction dg
+256	R:(('CC(=O)C(=O)O', -1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)CC(O)C(=O)O', 1.0), ('O=C(O)O', -1.0))	7	reaction dg
+257	R:(('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', 1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', -1.0), ('O=C(O)CC(O)(CC(=O)O)C(=O)O', 1.0), ('O=C(O)CC(O)C(=O)O', -1.0))	2	reaction dg
+258	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C1=NCCC1', -1.0), ('O=C(O)C1CCCN1', 1.0))	8	reaction dg
+259	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C1CCC=N1', -1.0), ('O=C(O)C1CCCN1', 1.0))	4	reaction dg
+260	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(OC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O', -1.0))	6	reaction dg
+261	R:(('OCC1OC(O)C(O)C(O)C1O', -2.0), ('OCC1OC(OC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O', 1.0))	3	reaction dg
+262	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', 1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0), ('OCC1OC(OC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O', -1.0))	9	reaction dg
+263	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C(=O)Cc1cc(I)c(O)c(I)c1', -1.0), ('O=C(O)C(O)Cc1cc(I)c(O)c(I)c1', 1.0))	5	reaction dg
+264	R:empty:264	2	reaction dg
+265	R:(('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', -1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', 1.0))	1	reaction dg
+266	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C1OC(CO)C(O)C(O)C1O', -1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0))	1	reaction dg
+267	R:(('OCC1OC(O)C(O)C(O)C1O', -2.0), ('OCC1OC(OCC2OC(O)C(O)C(O)C2O)C(O)C(O)C1O', 1.0))	9	reaction dg
+268	R:(('OCC1OC(O)C(O)C(O)C1O', -2.0), ('OCC1OC(OCC2OC(O)C(O)C(O)C2O)C(O)C(O)C1O', 1.0))	9	reaction dg
+269	R:(('CC(O)C=O', -1.0), ('CC(O)CO', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0))	2	reaction dg
+270	R:(('NC(=O)c1ncn(C2OC(COP(=O)(O)O)C(O)C2O)c1N', -1.0), ('Nc1c(C(=O)NC(CC(=O)O)C(=O)O)ncn1C1OC(COP(=O)(O)O)C(O)C1O', 1.0), ('O=C(O)C=CC(=O)O', -1.0))	2	reaction dg
+271	R:(('OC1C(O)C(O)C(O)C(O)C1O', -1.0), ('OCC1OC(OC2C(O)C(O)C(O)C(O)C2O)C(O)C(O)C1O', 1.0), ('OCC1OC(OCC2OC(OC3(CO)OC(CO)C(O)C3O)C(O)C(O)C2O)C(O)C(O)C1O', 1.0), ('OCC1OC(OCC2OC(OCC3OC(OC4(CO)OC(CO)C(O)C4O)C(O)C(O)C3O)C(O)C(O)C2O)C(O)C(O)C1O', -1.0))	3	reaction dg
+272	R:(('CCCC=O', -1.0), ('CCCCO', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	0	reaction dg
+273	R:(('CCCCCCCC=O', -1.0), ('CCCCCCCCO', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	7	reaction dg
+274	R:(('O=C(O)C1OC(OP(=O)(O)O)C(O)C(O)C1O', -1.0), ('O=C(O)C1OC(OP(=O)(O)OP(=O)(O)OCC2OC(n3ccc(=O)[nH]c3=O)C(O)C2O)C(O)C(O)C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', -1.0))	2	reaction dg
+275	R:(('NC(=O)c1ncn(C2OC(COP(=O)(O)O)C(O)C2O)c1N', -1.0), ('NC(=O)c1ncn(C2OC(COP(=O)(O)O)C(O)C2O)c1NC=O', 1.0), ('Nc1nc2c(c(=O)[nH]1)NC(CN(C=O)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', -1.0), ('Nc1nc2c(c(=O)[nH]1)NC(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', 1.0))	4	reaction dg
+276	R:(('Nc1nc2c(c(=O)[nH]1)N=C(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', -2.0), ('Nc1nc2c(c(=O)[nH]1)NC(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', 1.0), ('Nc1nc2ncc(CNc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)nc2c(=O)[nH]1', 1.0))	3	reaction dg
+277	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 2.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	2	reaction dg
+278	R:(('CC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 2.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0))	5	reaction dg
+279	R:(('Nc1ncnc2c1ncn2C1CC(O)C(COP(=O)(O)O)O1', -1.0), ('Nc1ncnc2c1ncn2C1CC(O)C(COP(=O)(O)OP(=O)(O)O)O1', 2.0), ('Nc1ncnc2c1ncn2C1CC(O)C(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O1', -1.0))	6	reaction dg
+280	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('NC(CCC(=O)NC(CS)C(=O)NCC(=O)O)C(=O)O', 2.0), ('NC(CCC(=O)NC(CSSCC(NC(=O)CCC(N)C(=O)O)C(=O)NCC(=O)O)C(=O)NCC(=O)O)C(=O)O', -1.0))	5	reaction dg
+281	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('NC(CCC(=O)NC(CS)C(=O)NCC(=O)O)C(=O)O', 2.0), ('NC(CCC(=O)NC(CSSCC(NC(=O)CCC(N)C(=O)O)C(=O)NCC(=O)O)C(=O)NCC(=O)O)C(=O)O', -1.0))	0	reaction dg
+282	R:(('Nc1ncnc2[nH]cnc12', -1.0), ('Nc1ncnc2c1ncn2C1CC(O)C(CO)O1', 1.0), ('O=c1[nH]cnc2[nH]cnc12', 1.0), ('O=c1[nH]cnc2c1ncn2C1CC(O)C(CO)O1', -1.0))	1	reaction dg
+283	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OC1CC(O)C(CO)O1', 1.0), ('O=c1[nH]cnc2[nH]cnc12', 1.0), ('O=c1[nH]cnc2c1ncn2C1CC(O)C(CO)O1', -1.0))	6	reaction dg
+284	R:(('CC(=O)C(=O)O', -1.0), ('CC(N)C(=O)O', -1.0), ('CC(NC(C)C(=O)O)C(=O)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	6	reaction dg
+285	R:(('CC(=O)C(=O)O', -1.0), ('CC(C(=O)O)C(C)(O)C(=O)O', 1.0), ('CCC(=O)O', -1.0))	9	reaction dg
+286	R:(('CC(=O)CC(N)C(=O)O', -1.0), ('CC(N)CC(N)C(=O)O', 1.0), ('N', -1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	5	reaction dg
+287	R:(('O=C(O)C=CC=CC(=O)O', -1.0), ('O=C(O)CC1C=CC(=O)O1', 1.0))	4	reaction dg
+288	R:(('CC(=O)C(=O)O', -1.0), ('CC(O)C(O)CC(=O)C(=O)O', 1.0), ('CC(O)C=O', -1.0))	9	reaction dg
+289	R:(('CC(=O)C(=O)O', -1.0), ('O=C(O)C(=O)CC(O)C(O)COP(=O)(O)O', 1.0), ('O=CC(O)COP(=O)(O)O', -1.0))	4	reaction dg
+290	R:(('CC(=O)C(=O)O', -1.0), ('O=C(O)C(=O)CC(O)CO', 1.0), ('O=CCO', -1.0))	3	reaction dg
+291	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)CC(=O)C(O)C(O)CO', -1.0), ('O=C(O)CC(O)C(O)C(O)CO', 1.0))	3	reaction dg
+292	R:(('CC=O', -1.0), ('O=CC(O)COP(=O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)CC1O', 1.0))	2	reaction dg
+293	R:(('NC(CO)(CO)C(=O)O', -1.0), ('NC(CO)C(=O)O', 1.0), ('Nc1nc2c(c(=O)[nH]1)N1CN(c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)CC1CN2', 1.0), ('Nc1nc2c(c(=O)[nH]1)NC(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', -1.0))	3	reaction dg
+294	R:(('C=O', -1.0), ('NC(CO)(CO)C(=O)O', 1.0), ('NC(CO)C(=O)O', -1.0))	3	reaction dg
+295	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C(=O)C(O)C(O)C(=O)CO', -1.0), ('O=C(O)C(=O)C(O)C(O)C(O)CO', 1.0))	8	reaction dg
+296	R:(('Cc1ncc(COP(=O)(O)OP(=O)(O)O)c(N)n1', -1.0), ('Cc1ncc(C[n+]2csc(CCOP(=O)(O)O)c2C)c(N)n1', 1.0), ('Cc1ncsc1CCOP(=O)(O)O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	3	reaction dg
+297	R:(('C=C(C(=O)O)C(C)C(=O)O', -1.0), ('C=C(CCC(=O)O)C(=O)O', 1.0))	8	reaction dg
+298	R:(('CC(N)(CO)C(=O)O', -1.0), ('CC(N)C(=O)O', 1.0), ('Nc1nc2c(c(=O)[nH]1)N1CN(c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)CC1CN2', 1.0), ('Nc1nc2c(c(=O)[nH]1)NC(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', -1.0))	8	reaction dg
+299	R:(('C=O', -1.0), ('CC(N)(CO)C(=O)O', 1.0), ('CC(N)C(=O)O', -1.0))	5	reaction dg
+300	R:(('CC(=O)C(=O)O', -1.0), ('O=C(O)C(=O)CC(O)C(O)CO', 1.0), ('O=CC(O)CO', -1.0))	9	reaction dg
+301	R:(('O=C(O)C(CO)OP(=O)(O)O', -1.0), ('O=C(O)C(O)COP(=O)(O)O', 1.0))	7	reaction dg
+302	R:(('C=C(OP(=O)(O)O)C(=O)O', -1.0), ('O=C(O)C(CO)OP(=O)(O)O', 1.0))	0	reaction dg
+303	R:(('CC(C)=O', -1.0), ('CC(C)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	6	reaction dg
+304	R:(('CC(C)=O', -1.0), ('CC(C)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0))	3	reaction dg
+305	R:(('O=C(O)C1=CC(=O)C(O)C(O)C1', -1.0), ('O=C1CC(O)(C(=O)O)CC(O)C1O', 1.0))	6	reaction dg
+306	R:(('CC(C=O)C(=O)O', -1.0), ('CC(CO)C(=O)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	7	reaction dg
+307	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=Cc1cccc(O)c1', -1.0), ('OCc1cccc(O)c1', 1.0))	6	reaction dg
+308	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)CCO', 1.0), ('O=CCC(=O)O', -1.0))	3	reaction dg
+309	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C(=O)COP(=O)(O)O', -1.0), ('O=C(O)C(O)COP(=O)(O)O', 1.0))	1	reaction dg
+310	R:(('NC(CCC(=O)O)C(=O)O', -1.0), ('NC(COP(=O)(O)O)C(=O)O', 1.0), ('O=C(O)C(=O)COP(=O)(O)O', -1.0), ('O=C(O)CCC(=O)C(=O)O', 1.0))	9	reaction dg
+311	R:(('NC(CCC(=O)O)C(=O)O', -1.0), ('NCCCC(=O)O', 1.0), ('O=C(O)CCC(=O)C(=O)O', 1.0), ('O=CCCC(=O)O', -1.0))	6	reaction dg
+312	R:(('CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12', -1.0), ('CC12CCC3C(CCC4=CC(=O)CCC43C)C1CCC2=O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', 1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', -1.0))	0	reaction dg
+313	R:(('CC(=O)C(=O)O', -1.0), ('O=C(O)C(=O)CC(O)C(=O)O', 1.0), ('O=CC(=O)O', -1.0))	0	reaction dg
+314	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)CCCO', 1.0), ('O=CCCC(=O)O', -1.0))	9	reaction dg
+315	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)CCCO', 1.0), ('O=CCCC(=O)O', -1.0))	6	reaction dg
+316	R:(('CSCC1OC(OP(=O)(O)O)C(O)C1O', -1.0), ('CSCC1OC(n2cnc3c(N)ncnc32)C(O)C1O', 1.0), ('Nc1ncnc2[nH]cnc12', -1.0), ('O=P(O)(O)O', 1.0))	3	reaction dg
+317	R:(('Nc1nc2c(c(=O)[nH]1)NC(CN(C=O)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', -1.0), ('Nc1nc2c(c(=O)[nH]1)[N+]1=CN(c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)CC1CN2', 1.0))	3	reaction dg
+318	R:(('CC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('CC(=O)c1ccc[n+](C2OC(COP(=O)([O-])OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('Nc1nc2c(c(=O)[nH]1)N1CN(c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)CC1CN2', 1.0), ('Nc1nc2c(c(=O)[nH]1)[N+]1=CN(c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)CC1CN2', -1.0))	0	reaction dg
+319	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('Nc1nc2c(c(=O)[nH]1)N1CN(c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)CC1CN2', 1.0), ('Nc1nc2c(c(=O)[nH]1)[N+]1=CN(c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)CC1CN2', -1.0))	7	reaction dg
+320	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('Nc1nc2c(c(=O)[nH]1)N1CN(c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)CC1CN2', 1.0), ('Nc1nc2c(c(=O)[nH]1)[N+]1=CN(c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)CC1CN2', -1.0))	5	reaction dg
+321	R:(('NC(CO)C(=O)O', -1.0), ('NCC(=O)O', 1.0), ('Nc1nc2c(c(=O)[nH]1)N1CN(c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)CC1CN2', 1.0), ('Nc1nc2c(c(=O)[nH]1)NC(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', -1.0))	1	reaction dg
+322	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('Nc1nc2c(c(=O)[nH]1)N=C(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', -1.0), ('Nc1nc2c(c(=O)[nH]1)NC(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', 1.0))	7	reaction dg
+323	R:(('NC(=O)NCCC(=O)O', -1.0), ('O=C1CCNC(=O)N1', 1.0))	5	reaction dg
+324	R:(('N=CN1c2c(nc(N)[nH]c2=O)NCC1CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1', -1.0), ('N=CNC(CCC(=O)O)C(=O)O', 1.0), ('NC(CCC(=O)O)C(=O)O', -1.0), ('Nc1nc2c(c(=O)[nH]1)NC(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', 1.0))	2	reaction dg
+325	R:(('N=CN1c2c(nc(N)[nH]c2=O)NCC1CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1', -1.0), ('N=CNCC(=O)O', 1.0), ('NCC(=O)O', -1.0), ('Nc1nc2c(c(=O)[nH]1)NC(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', 1.0))	0	reaction dg
+326	R:(('CN1c2c(nc(N)[nH]c2=O)NCC1CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1', -1.0), ('Cc1cc2c(cc1C)N(CC(O)C(O)C(O)COP(=O)(O)OP(=O)(O)OCC1OC(n3cnc4c(N)ncnc43)C(O)C1O)c1[nH]c(=O)[nH]c(=O)c1N2', 1.0), ('Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(CC(O)C(O)C(O)COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)c2cc1C', -1.0), ('Nc1nc2c(c(=O)[nH]1)N1CN(c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)CC1CN2', 1.0))	8	reaction dg
+327	R:(('CC(=O)C(=O)O', -1.0), ('O=C(O)C(=O)CC(O)C(O)COP(=O)(O)O', 1.0), ('O=CC(O)COP(=O)(O)O', -1.0))	4	reaction dg
+328	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(CO)C(O)C(O)COP(=O)(O)O', -1.0), ('O=C(O)C(O)C(O)C(O)C(O)COP(=O)(O)O', 1.0), ('O=C(O)O', -1.0))	4	reaction dg
+329	R:(('CC(O)C(=O)C1=Nc2c(nc(N)[nH]c2=O)NC1', -1.0), ('CC(O)C(O)C1=Nc2c(nc(N)[nH]c2=O)NC1', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0))	6	reaction dg
+330	R:(('CCCCCC=CCC=CCCCCCCCC(=O)O', -1.0), ('CCCCCCC=CC=CCCCCCCCC(=O)O', 1.0))	2	reaction dg
+331	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OC2OC(CO)C(O)C(O)C2O)C(O)C1O', 1.0), ('O=P(O)(O)O', 1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', -1.0))	8	reaction dg
+332	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OC2OC(CO)C(O)C(O)C2O)C(O)C1O', 1.0), ('OCC1OC(O)(CO)C(O)C1O', 1.0), ('OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O', -1.0))	9	reaction dg
+333	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OC2OC(CO)C(O)C(O)C2O)C(O)C1O', 1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', -1.0))	1	reaction dg
+334	R:(('Nc1ncnc2[nH]cnc12', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(O)C(O)C1O', -1.0))	2	reaction dg
+335	R:(('Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)O', -1.0))	6	reaction dg
+336	R:(('Nc1ncnc2[nH]cnc12', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	6	reaction dg
+337	R:(('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)([O-])O)C(O)C2O)c1', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', -1.0))	5	reaction dg
+338	R:(('CC(O)(CCOP(=O)(O)O)CC(=O)O', -1.0), ('CC(O)(CCOP(=O)(O)OP(=O)(O)O)CC(=O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	8	reaction dg
+339	R:(('*C(=O)OCC(COP(=O)(O)OC1C(O)C(O)C(O)C(O)C1O)OC(*)=O', -1.0), ('*C(=O)OCC(COP(=O)(O)OC1C(O)C(O)C(OP(=O)(O)O)C(O)C1O)OC(*)=O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	5	reaction dg
+340	R:(('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	3	reaction dg
+341	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=C(O)C(O)COP(=O)(O)O', 1.0), ('O=C(OP(=O)(O)O)C(O)COP(=O)(O)O', -1.0))	5	reaction dg
+342	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	3	reaction dg
+343	R:(('Nc1ccn(C2OC(COP(=O)(O)O)C(O)C2O)c(=O)n1', -1.0), ('Nc1ccn(C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)n1', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	8	reaction dg
+344	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(O)(COP(=O)(O)O)C(O)C1O', -1.0))	4	reaction dg
+345	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', -1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0))	7	reaction dg
+346	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OC2OC(CO)C(O)C(O)C2O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', -1.0))	6	reaction dg
+347	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', -1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0))	7	reaction dg
+348	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	1	reaction dg
+349	R:(('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', -1.0), ('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	2	reaction dg
+350	R:(('Nc1nc2c(ncn2C2OC(COP(=O)(O)O)C(O)C2O)c(=O)[nH]1', -1.0), ('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	5	reaction dg
+351	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)O', -1.0))	4	reaction dg
+352	R:(('N=C(N)NCCCC(N)C(=O)O', -1.0), ('N=C(NCCCC(N)C(=O)O)NP(=O)(O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	6	reaction dg
+353	R:(('NC(CC(=O)O)C(=O)O', -1.0), ('NC(CC(=O)OP(=O)(O)O)C(=O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	9	reaction dg
+354	R:(('N=C(NCCCC(N)C(=O)O)NC(CC(=O)O)C(=O)O', -1.0), ('NC(=O)NCCCC(N)C(=O)O', 1.0), ('NC(CC(=O)O)C(=O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', -1.0))	1	reaction dg
+355	R:(('N', -1.0), ('NC(=O)CCC(N)C(=O)O', 1.0), ('NC(CCC(=O)O)C(=O)O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=P(O)(O)O', 1.0))	2	reaction dg
+356	R:(('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	1	reaction dg
+357	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', -1.0))	1	reaction dg
+358	R:(('*NC(=O)C(Cc1ccc(O)cc1)NC(*)=O', -1.0), ('*NC(=O)C(Cc1ccc(OP(=O)(O)OCC2OC(n3cnc4c(N)ncnc43)C(O)C2O)cc1)NC(*)=O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	9	reaction dg
+359	R:(('CC(=O)O', -1.0), ('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	8	reaction dg
+360	R:(('CC(=O)O', -1.0), ('CC(=O)OP(=O)(O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	5	reaction dg
+361	R:(('NC(=O)O', -1.0), ('NC(=O)OP(=O)(O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	2	reaction dg
+362	R:(('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=C(O)CC(=O)C(=O)O', -1.0), ('O=C(O)CC(O)(CC(=O)O)C(=O)O', 1.0), ('O=P(O)(O)O', -1.0))	3	reaction dg
+363	R:(('CN(CC(=O)O)C(=N)N', -1.0), ('CN(CC(=O)O)C(=N)NP(=O)(O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	1	reaction dg
+364	R:(('Nc1ccn(C2CC(O)C(COP(=O)(O)O)O2)c(=O)n1', -1.0), ('Nc1ccn(C2CC(O)C(COP(=O)(O)OP(=O)(O)O)O2)c(=O)n1', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	3	reaction dg
+365	R:(('Nc1nc2c(ncn2C2CC(O)C(COP(=O)(O)O)O2)c(=O)[nH]1', -1.0), ('Nc1nc2c(ncn2C2CC(O)C(COP(=O)(O)OP(=O)(O)O)O2)c(=O)[nH]1', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	0	reaction dg
+366	R:(('Cc1cn(C2CC(O)C(COP(=O)(O)O)O2)c(=O)[nH]c1=O', -1.0), ('Cc1cn(C2CC(O)C(COP(=O)(O)OP(=O)(O)O)O2)c(=O)[nH]c1=O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	5	reaction dg
+367	R:(('Nc1nc2c(c(=O)[nH]1)NC(CN(C=O)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', -1.0), ('Nc1nc2c(c(=O)[nH]1)NC(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=CO', 1.0), ('O=P(O)(O)O', -1.0))	7	reaction dg
+368	R:(('N=C(N)NCC(=O)O', -1.0), ('N=C(NCC(=O)O)NP(=O)(O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	3	reaction dg
+369	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=c1[nH]cnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=c1[nH]cnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	5	reaction dg
+370	R:(('N=C(N)NCCOP(=O)(O)OCC(N)C(=O)O', -1.0), ('N=C(NCCOP(=O)(O)OCC(N)C(=O)O)NP(=O)(O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	6	reaction dg
+371	R:(('*NC(=O)C(CO)NC(*)=O', -1.0), ('*NC(=O)C(COP(=O)(O)O)NC(*)=O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	8	reaction dg
+372	R:(('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('CCC(=O)O', -1.0), ('CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	6	reaction dg
+373	R:(('CC(C(=O)O)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=C(O)O', 1.0), ('O=P(O)(O)O', -1.0))	1	reaction dg
+374	R:(('C=C(OP(=O)(O)O)C(=O)O', -1.0), ('CC(=O)C(=O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)O', -1.0))	7	reaction dg
+375	R:(('CC(=O)C(=O)O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=C(O)CC(=O)C(=O)O', 1.0), ('O=C(O)O', -1.0), ('O=P(O)(O)O', 1.0))	2	reaction dg
+376	R:(('C=C(OP(=O)(O)O)C(=O)O', -1.0), ('CC(=O)C(=O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)O', 1.0), ('O=P(O)(O)OP(=O)(O)O', -1.0))	5	reaction dg
+377	R:(('C=C(OP(=O)(O)O)C(=O)O', -1.0), ('CC(=O)C(=O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0))	1	reaction dg
+378	R:(('C=C(OP(=O)(O)O)C(=O)O', -1.0), ('CC(=O)C(=O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0))	1	reaction dg
+379	R:(('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCSC(=O)CCC(=O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=C(O)CCC(=O)O', -1.0), ('O=P(O)(O)O', 1.0))	6	reaction dg
+380	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OS(=O)(=O)O)C(O)C1O', 1.0), ('O=P(O)(O)O', 2.0), ('O=S(=O)(O)O', -1.0))	5	reaction dg
+381	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OS(=O)(=O)O)C(O)C1O', 1.0), ('O=P(O)(O)O', 2.0), ('O=S(=O)(O)O', -1.0))	5	reaction dg
+382	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OS(=O)(=O)O)C(O)C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0), ('O=S(=O)(O)O', -1.0))	9	reaction dg
+383	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OS(=O)(=O)O)C(O)C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0), ('O=S(=O)(O)O', -1.0))	9	reaction dg
+384	R:(('N=C(N)NCCS(=O)(=O)O', -1.0), ('N=C(NCCS(=O)(=O)O)NP(=O)(O)O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	1	reaction dg
+385	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC2COP(=O)(O)OC2C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	6	reaction dg
+386	R:(('Nc1c(C(=O)O)ncn1C1OC(COP(=O)(O)O)C(O)C1O', -1.0), ('Nc1cncn1C1OC(COP(=O)(O)O)C(O)C1O', 1.0), ('O=C(O)O', 1.0))	6	reaction dg
+387	R:empty:387	7	reaction dg
+388	R:(('CC(Nc1ccc(CC(O)C(O)C(O)COC2OC(COP(=O)(O)OC(CCC(=O)O)C(=O)O)C(O)C2O)cc1)C1Nc2c(nc(N)[nH]c2=O)NC1C', -1.0), ('CC1Nc2nc(N)[nH]c(=O)c2N2CN(c3ccc(CC(O)C(O)C(O)COC4OC(COP(=O)(O)OC(CCC(=O)O)C(=O)O)C(O)C4O)cc3)C(C)C12', 1.0), ('NC(CO)C(=O)O', -1.0), ('NCC(=O)O', 1.0))	9	reaction dg
+389	R:(('Nc1ccn(C2OC(COP(=O)(O)OP(=O)(O)OC3OC(CO)C(O)C(O)C3O)C(O)C2O)c(=O)n1', -1.0), ('Nc1ccn(C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)n1', 1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', -1.0))	2	reaction dg
+390	R:(('NCCOP(=O)(O)O', -1.0), ('NCCOP(=O)(O)OP(=O)(O)OCC1OC(n2ccc(N)nc2=O)C(O)C1O', 1.0), ('Nc1ccn(C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)n1', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	2	reaction dg
+391	R:(('C[N+](C)(C)CCOP(=O)(O)O', -1.0), ('C[N+](C)(C)CCOP(=O)([O-])OP(=O)(O)OCC1OC(n2ccc(N)nc2=O)C(O)C1O', 1.0), ('Nc1ccn(C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)n1', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	2	reaction dg
+392	R:(('CC(=O)O', -1.0), ('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=P(O)(O)O', 1.0))	2	reaction dg
+393	R:(('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCSSCC(NC(=O)CCC(N)C(=O)O)C(=O)NCC(=O)O', 1.0), ('NC(CCC(=O)NC(CS)C(=O)NCC(=O)O)C(=O)O', 1.0), ('NC(CCC(=O)NC(CSSCC(NC(=O)CCC(N)C(=O)O)C(=O)NCC(=O)O)C(=O)NCC(=O)O)C(=O)O', -1.0))	9	reaction dg
+394	R:(('CCC(=O)C(=O)O', -1.0), ('CCC(O)C(=O)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	1	reaction dg
+395	R:(('C=O', -1.0), ('O=C(C(O)CO)C(O)C(O)COP(=O)(O)O', 1.0), ('O=C(CO)C(O)C(O)COP(=O)(O)O', -1.0))	3	reaction dg
+396	R:(('CC(=O)C(=O)O', -1.0), ('CC(N)C(=O)O', 1.0), ('NC(CCC(=O)O)C(=O)O', -1.0), ('O=C(O)CCC(=O)C(=O)O', 1.0))	1	reaction dg
+397	R:(('O=C(C(O)CO)C(O)C(O)COP(=O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', 1.0))	9	reaction dg
+398	R:(('C=O', -1.0), ('O=C(C(O)CO)C(O)C(O)COP(=O)(O)O', 1.0), ('O=C(CO)C(O)C(O)COP(=O)(O)O', -1.0))	3	reaction dg
+399	R:(('O=C(CO)C(O)C(O)COP(=O)(O)O', -1.0), ('O=CC(O)C(O)C(O)COP(=O)(O)O', 1.0))	7	reaction dg
+400	R:(('OC1COC(O)C(O)C1O', -1.0), ('OCC1OC(O)C(O)C1O', 1.0))	7	reaction dg
+401	R:(('OC1COC(O)C(O)C1O', -1.0), ('OCC1(O)OCC(O)C1O', 1.0))	6	reaction dg
+402	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('OCC(O)C(O)C(O)CO', 1.0), ('OCC1(O)OCC(O)C1O', -1.0))	9	reaction dg
+403	R:(('C[N+](C)(C)CC(=O)CC(=O)O', -1.0), ('C[N+](C)(C)CC(O)CC(=O)[O-]', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	1	reaction dg
+404	R:(('O=C(CO)C(O)CO', -1.0), ('OC1COC(O)C1O', 1.0))	9	reaction dg
+405	R:empty:405	0	reaction dg
+406	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OCC1(O)OC(CO)C(O)C1O', -1.0), ('O=P(O)(O)OCC1OC(O)(COP(=O)(O)O)C(O)C1O', 1.0))	9	reaction dg
+407	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', -1.0), ('O=P(O)(O)OCC1OC(O)(COP(=O)(O)O)C(O)C1O', 1.0))	4	reaction dg
+408	R:(('O=C(CO)COP(=O)(O)O', -2.0), ('O=P(O)(O)OCC1OC(O)(COP(=O)(O)O)C(O)C1O', 1.0))	0	reaction dg
+409	R:(('O=C(CO)COP(=O)(O)O', -1.0), ('O=CC(O)COP(=O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)(COP(=O)(O)O)C(O)C1O', 1.0))	9	reaction dg
+410	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OCC1(O)OC(CO)C(O)C1O', 1.0), ('OCC1OC(O)(CO)C(O)C1O', -1.0))	5	reaction dg
+411	R:(('O=C(CO)COP(=O)(O)O', -1.0), ('O=CC(O)CO', -1.0), ('O=P(O)(O)OCC1(O)OC(CO)C(O)C1O', 1.0))	3	reaction dg
+412	R:(('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', -1.0), ('O=P(O)(O)OCC1OC(O)(COP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(OP(=O)(O)O)C(O)C(O)C1O', -1.0))	9	reaction dg
+413	R:(('O=C(CO)C(O)C(O)COP(=O)(O)O', -1.0), ('O=CC(O)C(O)COP(=O)(O)O', -1.0), ('O=CC(O)COP(=O)(O)O', 1.0), ('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', 1.0))	5	reaction dg
+414	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', 1.0), ('OCC1OC(O)(CO)C(O)C1O', -1.0))	6	reaction dg
+415	R:(('O=C(CO)C(O)CO', -1.0), ('O=CC(O)C(O)COP(=O)(O)O', -1.0), ('O=CCO', 1.0), ('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', 1.0))	8	reaction dg
+416	R:(('O=CC(O)CO', -1.0), ('O=CC(O)COP(=O)(O)O', 1.0), ('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', -1.0), ('OCC1OC(O)(CO)C(O)C1O', 1.0))	2	reaction dg
+417	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(CO)C(O)C(O)C(=O)CO', -1.0), ('OCC1OC(O)(CO)C(O)C1O', 1.0))	7	reaction dg
+418	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', 1.0), ('OCC1OC(O)C(O)C(O)C1O', -1.0))	7	reaction dg
+419	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C1OC(C(O)CO)C(O)C1O', -1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0))	6	reaction dg
+420	R:(('O=C(O)C1OC(O)(CO)C(O)C1O', -1.0), ('O=C(O)C1OC(O)C(O)C(O)C1O', 1.0))	8	reaction dg
+421	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C(=O)C(O)C(O)C(O)CO', -1.0), ('O=C(O)C(O)C(O)C(O)C(O)CO', 1.0))	5	reaction dg
+422	R:(('N', -1.0), ('NC1C(O)OC(COP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', -1.0))	0	reaction dg
+423	R:(('NC1C(O)OC(COP(=O)(O)O)C(O)C1O', -1.0), ('NC1C(OP(=O)(O)O)OC(CO)C(O)C1O', 1.0))	8	reaction dg
+424	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', 1.0), ('OCC1OC(O)C(O)C(O)C1O', -1.0))	7	reaction dg
+425	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C(O)C(O)C(O)C(O)COP(=O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', 1.0))	5	reaction dg
+426	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C1OC(COP(=O)(O)O)C(O)C(O)C1O', -1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', 1.0))	0	reaction dg
+427	R:(('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', -1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', 1.0))	5	reaction dg
+428	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C1OC(CO)C(O)C(O)C1O', -1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0))	2	reaction dg
+429	R:(('OCC1OC(O)(CO)C(O)C1O', -1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0))	1	reaction dg
+430	R:empty:430	1	reaction dg
+431	R:(('O=C(O)C1OC(O)(CO)C(O)C1O', -1.0), ('O=C(O)C1OC(O)C(O)C(O)C1O', 1.0))	8	reaction dg
+432	R:(('NC(CCC(=O)O)C(=O)O', -1.0), ('O=C1CCC(C(=O)O)N1', 1.0))	4	reaction dg
+433	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=C(O)C(O)COP(=O)(O)O', -1.0), ('O=CC(O)COP(=O)(O)O', 1.0), ('O=P(O)(O)O', 1.0))	6	reaction dg
+434	R:(('O=CC(O)COP(=O)(O)O', -1.0), ('O=P(O)(O)OCC(O)C(O)c1c[nH]c2ccccc12', 1.0), ('c1ccc2[nH]ccc2c1', -1.0))	4	reaction dg
+435	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(OP(=O)(O)O)C(O)COP(=O)(O)O', -1.0), ('O=CC(O)COP(=O)(O)O', 1.0), ('O=P(O)(O)O', 1.0))	0	reaction dg
+436	R:(('O=C(CO)COP(=O)(O)O', -1.0), ('O=CC(O)COP(=O)(O)O', 1.0))	2	reaction dg
+437	R:(('OC1COC(O)C(O)C1O', -1.0), ('OCC1(O)OCC(O)C1O', 1.0))	6	reaction dg
+438	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('OCC(O)C(O)C(O)C(O)CO', 1.0), ('OCC1OC(O)(CO)C(O)C1O', -1.0))	3	reaction dg
+439	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('OCC(O)C(O)C(O)C(O)CO', 1.0), ('OCC1OC(O)(CO)C(O)C1O', -1.0))	1	reaction dg
+440	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=P(O)(O)OCC(O)C(O)C(O)C(O)CO', 1.0), ('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', -1.0))	6	reaction dg
+441	R:(('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', -1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', 1.0))	1	reaction dg
+442	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', 1.0), ('OCC1OC(O)C(O)C(O)C1O', -1.0))	7	reaction dg
+443	R:(('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', -1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', 1.0))	5	reaction dg
+444	R:(('OCC1OC(O)(CO)C(O)C1O', -1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0))	1	reaction dg
+445	R:(('CC(N)CC(N)C(=O)O', -1.0), ('NCCCC(N)C(=O)O', 1.0))	5	reaction dg
+446	R:(('OCC1(O)OCC(O)C(O)C1O', -1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0))	1	reaction dg
+447	R:(('OCC1(O)OCC(O)C(O)C1O', -1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0))	1	reaction dg
+448	R:(('O=P(O)(O)OC1OC(CO)C(O)C1O', -1.0), ('O=P(O)(O)OCC1OC(O)C(O)C1O', 1.0))	1	reaction dg
+449	R:(('O=C(CO)C(O)C(O)COP(=O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)C(O)C1O', 1.0))	7	reaction dg
+450	R:(('OCC1(O)OCC(O)C1O', -1.0), ('OCC1OC(O)C(O)C1O', 1.0))	8	reaction dg
+451	R:empty:451	8	reaction dg
+452	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=P(O)(O)OCC(O)C(O)C(O)C(O)CO', 1.0), ('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', -1.0))	6	reaction dg
+453	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=P(O)(O)OCC(O)C(O)C(O)C(O)CO', 1.0), ('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', -1.0))	5	reaction dg
+454	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('OCC(O)C(O)C(O)C(O)CO', 1.0), ('OCC1OC(O)(CO)C(O)C1O', -1.0))	3	reaction dg
+455	R:(('OC1COC(O)C(O)C1O', -1.0), ('OCC1(O)OCC(O)C1O', 1.0))	6	reaction dg
+456	R:empty:456	4	reaction dg
+457	R:(('Nc1nc2[nH]cnc2c(=O)[nH]1', -1.0), ('Nc1nc2c(ncn2C2OC(COP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('O=c1[nH]cnc2[nH]cnc12', 1.0), ('O=c1[nH]cnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', -1.0))	4	reaction dg
+458	R:(('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', -1.0), ('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', 1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0))	4	reaction dg
+459	R:(('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)OC3OC(CO)C(O)C(O)C3O)C(O)C2O)c(=O)[nH]1', -1.0), ('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', -1.0))	0	reaction dg
+460	R:(('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)OC3OC(CO)C(O)C(O)C3O)C(O)C2O)c(=O)[nH]1', -1.0), ('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', -1.0))	0	reaction dg
+461	R:(('Nc1nc(NC2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(NC=O)c(=O)[nH]1', -1.0), ('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0))	6	reaction dg
+462	R:(('NC(CC(=O)O)C(=O)O', -1.0), ('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', -1.0), ('O=C(O)CC(Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O)C(=O)O', 1.0), ('O=P(O)(O)O', 1.0), ('O=c1[nH]cnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', -1.0))	4	reaction dg
+463	R:(('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCSC(=O)CCC(=O)O', 1.0), ('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', -1.0), ('O=C(O)CCC(=O)O', -1.0), ('O=P(O)(O)O', 1.0))	6	reaction dg
+464	R:(('O=P(O)(O)O', -1.0), ('O=c1[nH]cnc2c1ncn2C1OC(CO)C(O)C1O', -1.0), ('O=c1[nH]cnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', 1.0))	1	reaction dg
+465	R:(('O=P(O)(O)OCC1OC(OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0), ('O=c1[nH]cnc2[nH]cnc12', -1.0), ('O=c1[nH]cnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', 1.0))	1	reaction dg
+466	R:(('O=P(O)(O)OP(=O)(O)O', -1.0), ('O=c1[nH]cnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', -1.0), ('O=c1[nH]cnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0))	3	reaction dg
+467	R:(('C=C(OP(=O)(O)O)C(=O)O', -1.0), ('O=C(O)CC(=O)C(=O)O', 1.0), ('O=C(O)O', -1.0), ('O=c1[nH]cnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=c1[nH]cnc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0))	6	reaction dg
+468	R:empty:468	0	reaction dg
+469	R:(('NC(CCC(=O)O)C(=O)O', -1.0), ('NC(CCCC(=O)O)C(=O)O', 1.0), ('O=C(O)CCC(=O)C(=O)O', 1.0), ('O=C(O)CCCC(=O)C(=O)O', -1.0))	5	reaction dg
+470	R:(('NC(=O)NC(CC(=O)O)C(=O)O', -1.0), ('O=C(O)CC1NC(=O)NC1=O', 1.0))	4	reaction dg
+471	R:(('NC(CO)C(=O)O', -1.0), ('NC(COP(=O)(O)O)C(=O)O', 1.0), ('O=P(O)(O)O', -1.0))	7	reaction dg
+472	R:(('CC(=O)C(=O)O', -1.0), ('CC(N)C(=O)O', 1.0), ('NCCC(=O)O', -1.0), ('O=CCC(=O)O', 1.0))	9	reaction dg
+473	R:(('CC(=O)C(=O)O', -1.0), ('CC(N)C(=O)O', 1.0), ('NC(CCC(=O)O)C(=O)O', -1.0), ('O=C(O)CCC(=O)C(=O)O', 1.0))	1	reaction dg
+474	R:(('CC(=O)C(=O)O', -1.0), ('CC(N)C(=O)O', 1.0), ('NCCC=O', 1.0), ('NCCCN', -1.0))	8	reaction dg
+475	R:(('CC(=O)C(=O)O', -1.0), ('CC(N)C(=O)O', 1.0), ('N', -1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	2	reaction dg
+476	R:(('CC(=O)C(=O)O', -1.0), ('CC(N)C(=O)O', 1.0), ('NC(CO)C(=O)O', -1.0), ('O=C(O)C(=O)CO', 1.0))	7	reaction dg
+477	R:empty:477	7	reaction dg
+478	R:(('OC1COC(O)C(O)C1O', -1.0), ('OCC1(O)OCC(O)C1O', 1.0))	6	reaction dg
+479	R:(('N=C(N)NCC(=O)O', -1.0), ('N=C(N)NCCCC(N)C(=O)O', 1.0), ('NCC(=O)O', 1.0), ('NCCCC(N)C(=O)O', -1.0))	4	reaction dg
+480	R:(('NC(CC(=O)O)C(=O)O', -1.0), ('NC(CCC(=O)O)C(=O)O', 1.0), ('O=C(O)CC(=O)C(=O)O', 1.0), ('O=C(O)CCC(=O)C(=O)O', -1.0))	8	reaction dg
+481	R:(('N', -1.0), ('NC(CC(=O)O)C(=O)O', 1.0), ('O=C(O)C=CC(=O)O', -1.0))	4	reaction dg
+482	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('NC(CC(=O)OP(=O)(O)O)C(=O)O', -1.0), ('NC(CC=O)C(=O)O', 1.0), ('O=P(O)(O)O', 1.0))	9	reaction dg
+483	R:(('C[N+](C)(C)CC(=O)CC(=O)O', -1.0), ('C[N+](C)(C)CC(O)CC(=O)[O-]', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	1	reaction dg
+484	R:(('C[N+](C)(C)CC(O)CC(=O)[O-]', -1.0), ('C[N+](C)(C)CC=CC(=O)[O-]', 1.0))	8	reaction dg
+485	R:(('CC(N)CC(=O)CC(=O)O', -1.0), ('CC(N)CC(N)CC(=O)O', 1.0), ('N', -1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	7	reaction dg
+486	R:(('CC(O)C(O)C(O)C(=O)CO', -1.0), ('CC1OC(O)C(O)C(O)C1O', 1.0))	4	reaction dg
+487	R:(('CC(O)C(O)C(O)C(=O)COP(=O)(O)O', -1.0), ('CC(O)C=O', 1.0), ('O=C(CO)COP(=O)(O)O', 1.0))	1	reaction dg
+488	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('NC(CC(=O)O)C(=O)O', -1.0), ('NC(CCC(=O)O)C(=O)O', 1.0), ('O=C(O)CC(O)C(=O)O', 1.0), ('O=C(O)CCC(=O)C(=O)O', -1.0))	8	reaction dg
+489	R:(('CC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('CC(=O)c1ccc[n+](C2OC(COP(=O)([O-])OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('N', -1.0), ('NC(CCC(=O)O)C(=O)O', 1.0), ('O=C(O)CCC(=O)C(=O)O', -1.0))	1	reaction dg
+490	R:(('N', -1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('NC(CCC(=O)O)C(=O)O', 1.0), ('O=C(O)CCC(=O)C(=O)O', -1.0))	2	reaction dg
+491	R:(('N', -1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('NC(CCC(=O)O)C(=O)O', 1.0), ('O=C(O)CCC(=O)C(=O)O', -1.0))	0	reaction dg
+492	R:empty:492	7	reaction dg
+493	R:(('N', -1.0), ('NC(=O)CCC(N)C(=O)O', 1.0), ('NC(CCC(=O)O)C(=O)O', -1.0))	9	reaction dg
+494	R:(('NC(=O)CCC(=O)C(=O)O', -1.0), ('NC(=O)CCC(N)C(=O)O', 1.0), ('NCC(=O)O', -1.0), ('O=CC(=O)O', 1.0))	3	reaction dg
+495	R:(('CC(=O)C(=O)O', -1.0), ('CC(N)C(=O)O', 1.0), ('NC(=O)CCC(=O)C(=O)O', 1.0), ('NC(=O)CCC(N)C(=O)O', -1.0))	0	reaction dg
+496	R:(('N', -1.0), ('NC(Cc1c[nH]cn1)C(=O)O', 1.0), ('O=C(O)C=Cc1c[nH]cn1', -1.0))	1	reaction dg
+497	R:(('NC(CCC(=O)O)C(=O)O', -1.0), ('NC(COP(=O)(O)O)Cc1c[nH]cn1', 1.0), ('O=C(COP(=O)(O)O)Cc1c[nH]cn1', -1.0), ('O=C(O)CCC(=O)C(=O)O', 1.0))	3	reaction dg
+498	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('NC(CC=O)C(=O)O', -1.0), ('NC(CCO)C(=O)O', 1.0))	2	reaction dg
+499	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('NC(CC=O)C(=O)O', -1.0), ('NC(CCO)C(=O)O', 1.0))	2	reaction dg
+500	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('OCC(O)C(O)C(O)C(O)CO', 1.0), ('OCC1(O)OCC(O)C(O)C1O', -1.0))	4	reaction dg
+501	R:(('CC(C)CC(=O)C(=O)O', -1.0), ('CC(C)CC(N)C(=O)O', 1.0), ('NC(CCC(=O)O)C(=O)O', -1.0), ('O=C(O)CCC(=O)C(=O)O', 1.0))	4	reaction dg
+502	R:(('CC(C)CC(=O)C(=O)O', -1.0), ('CC(C)CC(N)C(=O)O', 1.0), ('N', -1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	0	reaction dg
+503	R:empty:503	6	reaction dg
+504	R:(('NCCCC(N)CC(=O)O', -1.0), ('NCCCCC(N)C(=O)O', 1.0))	4	reaction dg
+505	R:empty:505	4	reaction dg
+506	R:(('NC(CCC(=O)O)C(=O)O', -1.0), ('NC(Cc1ccccc1)C(=O)O', 1.0), ('O=C(O)C(=O)Cc1ccccc1', -1.0), ('O=C(O)CCC(=O)C(=O)O', 1.0))	4	reaction dg
+507	R:(('N', -1.0), ('NC(Cc1ccccc1)C(=O)O', 1.0), ('O=C(O)C=Cc1ccccc1', -1.0))	5	reaction dg
+508	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C1=NCCCC1', -1.0), ('O=C(O)C1CCCCN1', 1.0))	8	reaction dg
+509	R:(('CC(O)C(O)C(O)C(=O)CO', -1.0), ('CC1OC(O)C(O)C(O)C1O', 1.0))	4	reaction dg
+510	R:(('CC(O)C(O)C(O)C(=O)COP(=O)(O)O', -1.0), ('CC(O)C=O', 1.0), ('O=C(CO)COP(=O)(O)O', 1.0))	1	reaction dg
+511	R:empty:511	4	reaction dg
+512	R:(('CC(=CC(=O)O)C(=O)O', -1.0), ('CC(C(=O)O)C(N)C(=O)O', 1.0), ('N', -1.0))	7	reaction dg
+513	R:(('CC(C(=O)O)C(N)C(=O)O', -1.0), ('NC(CCC(=O)O)C(=O)O', 1.0))	9	reaction dg
+514	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C(O)C(=O)CO', -1.0), ('O=C(O)C(O)C(O)CO', 1.0))	1	reaction dg
+515	R:(('CC(=O)C(=O)O', -1.0), ('N', -1.0), ('NC(Cc1c[nH]c2ccccc12)C(=O)O', 1.0), ('c1ccc2[nH]ccc2c1', -1.0))	2	reaction dg
+516	R:(('NC(CCC(=O)O)C(=O)O', -1.0), ('NC(Cc1ccc(O)cc1)C(=O)O', 1.0), ('O=C(O)C(=O)Cc1ccc(O)cc1', -1.0), ('O=C(O)CCC(=O)C(=O)O', 1.0))	6	reaction dg
+517	R:(('CC(C)C(N)C(=O)O', -1.0), ('CCCC(=O)C(=O)O', 1.0), ('NC(CCC(=O)O)C(=O)O', 1.0), ('O=C(O)CCC(=O)C(=O)O', -1.0))	4	reaction dg
+518	R:(('N=C(N)NCCCC(N)C(=O)O', -1.0), ('N=C(NCCCC(N)C(=O)O)NC(CC(=O)O)C(=O)O', 1.0), ('O=C(O)C=CC(=O)O', -1.0))	8	reaction dg
+519	R:(('CC(=O)C(=O)O', -1.0), ('CC(NC(CCCNC(=N)N)C(=O)O)C(=O)O', 1.0), ('N=C(N)NCCCC(N)C(=O)O', -1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	3	reaction dg
+520	R:(('CC(=O)NC(CCC(=O)O)C(=O)O', -1.0), ('CC(=O)NC(CCCN)C(=O)O', 1.0), ('NC(CCC(=O)O)C(=O)O', 1.0), ('NCCCC(N)C(=O)O', -1.0))	9	reaction dg
+521	R:(('CC(=O)NC1C(O)OC(COP(=O)(O)O)C(O)C1O', -1.0), ('CC(=O)NC1C(OP(=O)(O)O)OC(CO)C(O)C1O', 1.0))	3	reaction dg
+522	R:empty:522	5	reaction dg
+523	R:empty:523	3	reaction dg
+524	R:(('CC(=O)O', -1.0), ('CSCCC(N)C(=O)O', -1.0), ('CSCCC(NC(C)=O)C(=O)O', 1.0))	9	reaction dg
+525	R:(('CC(=O)O', -1.0), ('CSCCC(N)C(=O)O', -1.0), ('CSCCC(NC(C)=O)C(=O)O', 1.0))	9	reaction dg
+526	R:(('CC(=O)C(=O)O', -1.0), ('CC(=O)NC1C(O)CC(O)(C(=O)O)OC1C(O)C(O)CO', 1.0), ('CC(=O)NC1C(O)OC(CO)C(O)C1O', -1.0))	1	reaction dg
+527	R:(('CC(=O)C(=O)O', -1.0), ('O=C(CO)NC1C(O)CC(O)(C(=O)O)OC1C(O)C(O)CO', 1.0), ('O=C(CO)NC1C(O)OC(CO)C(O)C1O', -1.0))	4	reaction dg
+528	R:(('NC(CCC(=O)O)C(=O)O', -1.0), ('NC(CCCC(NC(=O)CCC(=O)O)C(=O)O)C(=O)O', 1.0), ('O=C(O)CCC(=O)C(=O)O', 1.0), ('O=C(O)CCC(=O)NC(CCCC(=O)C(=O)O)C(=O)O', -1.0))	3	reaction dg
+529	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('NC(CCCCNC(CCC(=O)O)C(=O)O)C(=O)O', 1.0), ('NCCCCC(N)C(=O)O', -1.0), ('O=C(O)CCC(=O)C(=O)O', -1.0))	0	reaction dg
+530	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', 1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', -1.0))	4	reaction dg
+531	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', 1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', -1.0))	4	reaction dg
+532	R:(('O=C(O)c1ccc[n+](C2OC(COP(=O)(O)O)C(O)C2O)c1', -1.0), ('O=C(O)c1cccnc1', 1.0), ('O=P(O)(O)OCC1OC(OP(=O)(O)OP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', -1.0))	2	reaction dg
+533	R:(('NC(CCC(=O)O)C(=O)O', -1.0), ('NC(COP(=O)(O)O)C(=O)O', 1.0), ('O=C(O)C(=O)COP(=O)(O)O', -1.0), ('O=C(O)CCC(=O)C(=O)O', 1.0))	9	reaction dg
+534	R:(('NC(CCS)C(=O)O', -1.0), ('Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O', -1.0), ('Nc1ncnc2c1ncn2C1OC(CSCCC(N)C(=O)O)C(O)C1O', 1.0))	9	reaction dg
+535	R:empty:535	7	reaction dg
+536	R:empty:536	5	reaction dg
+537	R:empty:537	7	reaction dg
+538	R:(('O=P(O)(O)OCC1OC(O)C(O)C(O)C1O', -1.0), ('O=P(O)(O)OCC1OC(OC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O', 1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)OC3OC(CO)C(O)C(O)C3O)C(O)C2O)c(=O)[nH]1', -1.0))	3	reaction dg
+539	R:(('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', -1.0), ('O=P(O)(O)OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O', 1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)OC3OC(CO)C(O)C(O)C3O)C(O)C2O)c(=O)[nH]1', -1.0))	6	reaction dg
+540	R:(('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', -1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)OC3OC(CO)C(O)C(O)C3O)C(O)C2O)c(=O)[nH]1', 1.0), ('OCC1OC(O)(CO)C(O)C1O', 1.0), ('OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O', -1.0))	0	reaction dg
+541	R:empty:541	9	reaction dg
+542	R:(('COc1cc(C=CC(=O)O)cc(OC)c1O', -1.0), ('COc1cc(C=CC(=O)OC2OC(CO)C(O)C(O)C2O)cc(OC)c1O', 1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)OC3OC(CO)C(O)C(O)C3O)C(O)C2O)c(=O)[nH]1', -1.0))	2	reaction dg
+543	R:empty:543	1	reaction dg
+544	R:(('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)OC3OC(CO)C(O)C(O)C3O)C(O)C2O)c(=O)[nH]1', 1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', -1.0))	3	reaction dg
+545	R:(('CC(=O)NC1C(OP(=O)(O)O)OC(CO)C(O)C1O', -1.0), ('CC(=O)NC1C(OP(=O)(O)OP(=O)(O)OCC2OC(n3ccc(=O)[nH]c3=O)C(O)C2O)OC(CO)C(O)C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', -1.0))	3	reaction dg
+546	R:(('O=c1ccn(C2OC(COP(=O)(O)O)C(O)C2O)c(=O)[nH]1', -1.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 2.0), ('O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1', -1.0))	3	reaction dg
+547	R:(('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', 1.0), ('CC=O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	5	reaction dg
+548	R:(('CC(=O)OP(=O)(O)O', -1.0), ('CC(=O)n1ccnc1', 1.0), ('O=P(O)(O)O', 1.0), ('c1c[nH]cn1', -1.0))	1	reaction dg
+549	R:(('CC(=O)OC(CC(=O)O)C[N+](C)(C)C', -1.0), ('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('C[N+](C)(C)CC(O)CC(=O)[O-]', 1.0))	1	reaction dg
+550	R:(('CC(=O)OCC(N)C(=O)O', -1.0), ('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('NC(CO)C(=O)O', 1.0))	8	reaction dg
+551	R:(('CC(=O)CC(=O)O', -1.0), ('CC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('CC(=O)O', 1.0), ('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0))	7	reaction dg
+552	R:(('*S', -1.0), ('*SC(C)=O', 1.0), ('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', 1.0))	4	reaction dg
+553	R:(('CC(=O)OCC[N+](C)(C)C', -1.0), ('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('C[N+](C)(C)CCO', 1.0))	1	reaction dg
+554	R:(('*C1=C2N=C(C(*)=C3[N]([Co+][CH3])C(*)(C(*)(*)C3(*)*)C3(*)N=C(C(*)=C4N=C1C(*)(*)C4(*)*)C(*)(*)C3(*)*)C(*)(*)C2(*)*', -1.0), ('*C1=C2N=C(C(*)=C3[N]([Co])C(*)(C(*)(*)C3(*)*)C3(*)N=C(C(*)=C4N=C1C(*)(*)C4(*)*)C(*)(*)C3(*)*)C(*)(*)C2(*)*', 1.0), ('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('[C-]#[O+]', -1.0))	8	reaction dg
+555	R:(('CC(=O)C(=O)O', -1.0), ('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('O=CO', 1.0))	7	reaction dg
+556	R:(('CC(=O)OP(=O)(O)O', -1.0), ('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('O=P(O)(O)O', 1.0))	5	reaction dg
+557	R:(('CC(=O)O', -1.0), ('CC(=O)OCC[N+](C)(C)C', 1.0), ('C[N+](C)(C)CCO', -1.0))	0	reaction dg
+558	R:(('Nc1ncnc2[nH]cnc12', -1.0), ('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	6	reaction dg
+559	R:(('Nc1ncnc2[nH]cnc12', -1.0), ('Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O', 1.0), ('OCC1OC(O)C(O)C1O', -1.0))	0	reaction dg
+560	R:(('N', -1.0), ('Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O', 1.0), ('O=c1[nH]cnc2c1ncn2C1OC(CO)C(O)C1O', -1.0))	3	reaction dg
+561	R:(('Nc1ncnc2[nH]cnc12', -1.0), ('Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O', 1.0), ('O=P(O)(O)O', 1.0), ('O=P(O)(O)OC1OC(CO)C(O)C1O', -1.0))	9	reaction dg
+562	R:(('Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', -1.0), ('O=C(O)C=CC(=O)O', -1.0), ('O=C(O)CC(Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O)C(=O)O', 1.0))	0	reaction dg
+563	R:empty:563	0	reaction dg
+564	R:(('NC(=O)NC(NC(N)=O)C(=O)O', -1.0), ('NC(=O)NC(O)C(=O)O', 1.0), ('NC(N)=O', 1.0))	5	reaction dg
+565	R:empty:565	0	reaction dg
+566	R:(('CC1(C)SC2C(N)C(=O)N2C1C(=O)O', -1.0), ('CC1(C)SC2C(NC(=O)C(N)c3ccc(O)cc3)C(=O)N2C1C(=O)O', 1.0), ('NC(C(=O)O)c1ccc(O)cc1', -1.0))	9	reaction dg
+567	R:(('CCCCCC=CCC=CCC=CCC=CCCCC(=O)NCCO', -1.0), ('CCCCCC=CCC=CCC=CCC=CCCCC(=O)O', 1.0), ('NCCO', 1.0))	5	reaction dg
+568	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=Cc1ccccc1', -1.0), ('OCc1ccccc1', 1.0))	8	reaction dg
+569	R:(('N', -1.0), ('NC(=O)O', 1.0), ('O=C(O)O', -1.0))	4	reaction dg
+570	R:(('NC(=O)NC(CC(=O)O)C(=O)O', -1.0), ('NC(=O)OP(=O)(O)O', 1.0), ('NC(CC(=O)O)C(=O)O', 1.0), ('O=P(O)(O)O', -1.0))	2	reaction dg
+571	R:(('NC(=O)NCCCC(N)C(=O)O', -1.0), ('NC(=O)OP(=O)(O)O', 1.0), ('NCCCC(N)C(=O)O', 1.0), ('O=P(O)(O)O', -1.0))	8	reaction dg
+572	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', 1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0), ('OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O', -1.0))	0	reaction dg
+573	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', 1.0), ('OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O', 1.0), ('OCC1OC(OC2C(CO)OC(OC3C(CO)OC(O)C(O)C3O)C(O)C2O)C(O)C(O)C1O', -1.0))	9	reaction dg
+574	R:(('CC(=O)OCC1=C(C(=O)O)N2C(=O)C(N)C2SC1', -1.0), ('CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)Cc3cccs3)C2SC1', 1.0), ('O=C(O)Cc1cccs1', -1.0))	4	reaction dg
+575	R:(('C=C(OC1C=C(C(=O)O)C=CC1O)C(=O)O', -1.0), ('C=C(OC1C=CC=C(C(=O)O)C1N)C(=O)O', 1.0), ('N', -1.0))	3	reaction dg
+576	R:(('C=C(OC1C=C(C(=O)O)C=CC1N)C(=O)O', -1.0), ('C=C(OC1C=C(C(=O)O)C=CC1O)C(=O)O', 1.0), ('N', 1.0))	4	reaction dg
+577	R:(('C=C(OC1C=C(C(=O)O)C=CC1O)C(=O)O', -1.0), ('C=C(OC1C=CC=C(C(=O)O)C1O)C(=O)O', 1.0))	7	reaction dg
+578	R:(('CCC=CCC=O', -1.0), ('CCC=CCCO', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	4	reaction dg
+579	R:(('CC(=O)O', -1.0), ('O=C(O)CC(=O)C(=O)O', -1.0), ('O=C(O)CC(O)(CC(=O)O)C(=O)O', 1.0))	3	reaction dg
+580	R:(('O=C(O)C=C(CC(=O)O)C(=O)O', -1.0), ('O=C(O)CC(O)(CC(=O)O)C(=O)O', 1.0))	3	reaction dg
+581	R:(('COc1cc(C=CC=O)ccc1O', -1.0), ('COc1cc(C=CCO)ccc1O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0))	8	reaction dg
+582	R:(('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCSC(=O)C1=CCCC=C1', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCSC(=O)C1=CCCCC1O', 1.0))	3	reaction dg
+583	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C1CCCCC1', -1.0), ('OC1CCCCC1', 1.0))	6	reaction dg
+584	R:(('N', -1.0), ('Nc1ccn(C2OC(CO)C(O)C2O)c(=O)n1', 1.0), ('O=c1ccn(C2OC(CO)C(O)C2O)c(=O)[nH]1', -1.0))	2	reaction dg
+585	R:(('Cc1cn(C2CC(O)C(COP(=O)(O)OP(=O)(O)OC3OC(C)C(=O)C(O)C3O)O2)c(=O)[nH]c1=O', -1.0), ('Cc1cn(C2CC(O)C(COP(=O)(O)OP(=O)(O)OC3OC(C)C(N)C(O)C3O)O2)c(=O)[nH]c1=O', 1.0), ('NC(CCC(=O)O)C(=O)O', -1.0), ('O=C(O)CCC(=O)C(=O)O', 1.0))	0	reaction dg
+586	R:(('Cc1cn(C2CC(O)C(COP(=O)(O)OP(=O)(O)OC3OC(CO)C(O)C(O)C3O)O2)c(=O)[nH]c1=O', -1.0), ('Cc1cn(C2CC(O)C(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O2)c(=O)[nH]c1=O', 1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', 1.0), ('O=P(O)(O)OP(=O)(O)O', -1.0))	5	reaction dg
+587	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)CCCCC(S)CCS', 1.0), ('O=C(O)CCCCC1CCSS1', -1.0))	9	reaction dg
+588	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)CCCCC(S)CCS', 1.0), ('NC(=O)CCCCC1CCSS1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	9	reaction dg
+589	R:(('C=C(OP(=O)(O)O)C(=O)O', -1.0), ('O=C(O)CC(=O)C(=O)O', 1.0), ('O=C(O)O', -1.0), ('O=P(O)(O)O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	1	reaction dg
+590	R:(('NC(C(=O)O)C(O)C(=O)O', -1.0), ('NC(CCC(=O)O)C(=O)O', 1.0), ('O=C(O)C(=O)C(O)C(=O)O', 1.0), ('O=C(O)CCC(=O)C(=O)O', -1.0))	8	reaction dg
+591	R:(('C=O', -1.0), ('O=C(CO)COP(=O)(O)O', -1.0), ('O=C(COP(=O)(O)O)C(O)CO', 1.0))	8	reaction dg
+592	R:(('CC12CCC3c4ccc(O)cc4CCC3C1CCC2=O', -1.0), ('CC12CCC3c4ccc(O)cc4CCC3C1CCC2O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	5	reaction dg
+593	R:(('CC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('CC(=O)c1ccc[n+](C2OC(COP(=O)([O-])OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('CC=O', -1.0), ('CCO', 1.0))	7	reaction dg
+594	R:(('CC=O', -1.0), ('CCO', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	2	reaction dg
+595	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)O', -1.0), ('O=CO', 1.0))	9	reaction dg
+596	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)O', -1.0), ('O=CO', 1.0))	2	reaction dg
+597	R:(('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCSC=O', 1.0), ('O=COP(=O)(O)O', -1.0), ('O=P(O)(O)O', 1.0))	9	reaction dg
+598	R:(('O=C(O)C=CC(=O)O', -1.0), ('O=C(O)CC(O)C(=O)O', 1.0))	6	reaction dg
+599	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('OCC(O)C(O)C(O)C(O)CO', 1.0), ('OCC1(O)OCC(O)C(O)C1O', -1.0))	4	reaction dg
+600	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(CO)CO', -1.0), ('OCC(O)CO', 1.0))	9	reaction dg
+601	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=CC(O)CO', -1.0), ('OCC(O)CO', 1.0))	1	reaction dg
+602	R:(('CC(O)C(N)C(=O)O', -1.0), ('CC=O', 1.0), ('NCC(=O)O', 1.0))	3	reaction dg
+603	R:(('C=O', -1.0), ('NC(CO)C(=O)O', 1.0), ('NCC(=O)O', -1.0))	8	reaction dg
+604	R:(('NC(CC(=O)O)C(=O)O', -1.0), ('NCC(=O)O', 1.0), ('O=C(O)CC(=O)C(=O)O', 1.0), ('O=CC(=O)O', -1.0))	8	reaction dg
+605	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)CO', 1.0), ('O=CC(=O)O', -1.0))	6	reaction dg
+606	R:(('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCSC(=O)C(=O)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', 1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', -1.0), ('O=CC(=O)O', -1.0))	1	reaction dg
+607	R:(('Nc1nc2[nH]cnc2c(=O)[nH]1', -1.0), ('Nc1nc2c(ncn2C2OC(COP(=O)(O)O)C(O)C2O)c(=O)[nH]1', 1.0), ('O=P(O)(O)OCC1OC(OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	6	reaction dg
+608	R:(('Nc1nc2[nH]cnc2c(=O)[nH]1', -1.0), ('Nc1nc2c(ncn2C2OC(CO)C(O)C2O)c(=O)[nH]1', 1.0), ('O=P(O)(O)O', 1.0), ('O=P(O)(O)OC1OC(CO)C(O)C1O', -1.0))	3	reaction dg
+609	R:(('O=P(O)(O)OCC1OC(OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0), ('O=c1[nH]cnc2[nH]cnc12', -1.0), ('O=c1[nH]cnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O', 1.0))	1	reaction dg
+610	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C(=O)Cc1c[nH]c2ccccc12', -1.0), ('O=C(O)C(O)Cc1c[nH]c2ccccc12', 1.0))	4	reaction dg
+611	R:(('O=c1[nH]cnc2[nH]cnc12', -1.0), ('O=c1[nH]cnc2c1ncn2C1OC(CO)C(O)C1O', 1.0), ('OCC1OC(O)C(O)C1O', -1.0))	3	reaction dg
+612	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OC1OC(CO)C(O)C1O', 1.0), ('O=c1[nH]cnc2[nH]cnc12', 1.0), ('O=c1[nH]cnc2c1ncn2C1OC(CO)C(O)C1O', -1.0))	2	reaction dg
+613	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)CC(C(=O)O)C(O)C(=O)O', 1.0), ('O=C(O)CCC(=O)C(=O)O', -1.0), ('O=C(O)O', -1.0))	0	reaction dg
+614	R:(('O=C(O)C=C(CC(=O)O)C(=O)O', -1.0), ('O=C(O)CC(C(=O)O)C(O)C(=O)O', 1.0))	5	reaction dg
+615	R:(('O=C(O)CC(C(=O)O)C(O)C(=O)O', -1.0), ('O=C(O)CC(O)(CC(=O)O)C(=O)O', 1.0))	4	reaction dg
+616	R:(('O=C(O)CC(C(=O)O)C(O)C(=O)O', -1.0), ('O=C(O)CCC(=O)O', 1.0), ('O=CC(=O)O', 1.0))	8	reaction dg
+617	R:(('OCC1OC(O)C(O)C(O)C1O', -2.0), ('OCC1OC(OCC2OC(O)C(O)C(O)C2O)C(O)C(O)C1O', 1.0))	9	reaction dg
+618	R:(('C=C(C)CCOP(=O)(O)OP(=O)(O)O', -1.0), ('CC(C)=CCOP(=O)(O)OP(=O)(O)O', 1.0))	9	reaction dg
+619	R:(('O=C(O)C=C(O)C(=O)O', -1.0), ('O=C(O)CC(=O)C(=O)O', 1.0))	0	reaction dg
+620	R:(('O=C(O)C(=O)Cc1ccccc1', -1.0), ('O=C(O)C(O)=Cc1ccccc1', 1.0))	9	reaction dg
+621	R:(('*NC(=O)C(CSC(C)C1=C(C)C2=Cc3c(C(C)SCC(NC(*)=O)C(=O)N*)c(C)c4[n]3[Fe+][n]3c(c(C)c(CCC(=O)O)c3=CC3=NC(=C4)C(C)=C3CCC(=O)O)=CC1=N2)NC(*)=O', -2.0), ('*NC(=O)C(CSC(C)C1=C(C)C2=Cc3c(C(C)SCC(NC(*)=O)C(=O)N*)c(C)c4[n]3[Fe][n]3c(c(C)c(CCC(=O)O)c3=CC3=NC(=C4)C(C)=C3CCC(=O)O)=CC1=N2)NC(*)=O', 2.0), ('O=C1C(O)C(CO)OC(OC2C(CO)OC(O)C(O)C2O)C1O', 1.0), ('OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O', -1.0))	0	reaction dg
+622	R:(('OCC1OC(O)C(O)C(O)C1O', -2.0), ('OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O', 1.0))	2	reaction dg
+623	R:(('OCC1OC(O)(CO)C(O)C1O', -1.0), ('OCC1OC(O)C(O)C(O)C1O', -1.0), ('OCC1OC(OC2C(CO)OC(O)(CO)C2O)C(O)C(O)C1O', 1.0))	6	reaction dg
+624	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', 1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0), ('OCC1OC(OC2C(O)C(O)OC(CO)C2O)C(O)C(O)C1O', -1.0))	4	reaction dg
+625	R:(('*S', -1.0), ('*SC(=O)CC(=O)O', 1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', 1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(=O)O', -1.0))	4	reaction dg
+626	R:(('OCC1OC(O)C(O)C(O)C1O', -2.0), ('OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O', 1.0))	2	reaction dg
+627	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', 1.0), ('OCC1OC(O)C(O)C(O)C1O', 1.0), ('OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O', -1.0))	0	reaction dg
+628	R:(('OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O', -2.0), ('OCC1OC(OC2C(CO)OC(OC3C(CO)OC(OC4C(CO)OC(O)C(O)C4O)C(O)C3O)C(O)C2O)C(O)C(O)C1O', 1.0))	7	reaction dg
+629	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C(O)=C(O)C(=O)O', -1.0), ('O=C(O)C(O)C(O)C(=O)O', 1.0))	8	reaction dg
+630	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C(=O)C(O)C(=O)O', -1.0), ('O=C(O)C(O)C(O)C(=O)O', 1.0))	5	reaction dg
+631	R:(('C=C(C(=O)O)C(C)C(=O)O', -1.0), ('CC(C(=O)O)=C(C)C(=O)O', 1.0))	0	reaction dg
+632	R:(('NC(=O)c1ccc[n+](C2OC(CO)C(O)C2O)c1', -1.0), ('NC(=O)c1cccnc1', 1.0), ('O=P(O)(O)O', -1.0), ('O=P(O)(O)OC1OC(CO)C(O)C1O', 1.0))	7	reaction dg
+633	R:(('O=C(O)c1cc(=O)[nH]c(=O)[nH]1', -1.0), ('O=C(O)c1cc(=O)[nH]c(=O)n1C1OC(COP(=O)(O)O)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(OP(=O)(O)OP(=O)(O)O)C(O)C1O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	7	reaction dg
+634	R:(('CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', 1.0), ('O=C(O)CC(=O)C(=O)O', -1.0), ('O=C(O)CC(O)(CC(=O)O)C(=O)O', 1.0))	8	reaction dg
+635	R:(('CC(=O)C(=O)O', -1.0), ('CC(C(=O)O)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', -1.0), ('CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('O=C(O)CC(=O)C(=O)O', 1.0))	7	reaction dg
+636	R:(('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('CCCCCCCCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C', -1.0), ('CCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('C[N+](C)(C)CC(O)CC(=O)[O-]', 1.0))	3	reaction dg
+637	R:(('CCCCCCCCCCCCCCCC(=O)NCCO', -1.0), ('CCCCCCCCCCCCCCCC(=O)O', 1.0), ('NCCO', 1.0))	0	reaction dg
+638	R:(('CC(C)(CO)C(O)C(=O)NCCC(=O)O', -1.0), ('CC(C)(CO)C(O)C(=O)O', 1.0), ('NCCC(=O)O', 1.0))	7	reaction dg
+639	R:(('CC1(C)SC2C(N)C(=O)N2C1C(=O)O', -1.0), ('CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O', 1.0), ('O=C(O)Cc1ccccc1', -1.0))	7	reaction dg
+640	R:(('NCC(=O)O', -1.0), ('O=C(O)CNC(=O)Cc1ccccc1', 1.0), ('O=C(O)Cc1ccccc1', -1.0))	2	reaction dg
+641	R:(('C=C(OP(=O)(O)O)C(=O)O', -1.0), ('O=C(O)C(=O)CP(=O)(O)O', 1.0))	5	reaction dg
+642	R:(('C[N+](C)(C)CCO', -1.0), ('C[N+](C)(C)CCOP(=O)(O)O', 1.0), ('O=P(O)(O)O', -1.0))	3	reaction dg
+643	R:(('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS', -1.0), ('CCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C', -1.0), ('CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('C[N+](C)(C)CC(O)CC(=O)[O-]', 1.0))	8	reaction dg
+644	R:(('CCCCCC(=O)C=CC1C(O)CC(=O)C1CCCCCCC(=O)O', -1.0), ('CCCCCC(O)C=CC1C(O)CC(=O)C1CCCCCCC(=O)O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0))	4	reaction dg
+645	R:(('CC(=O)C(=O)O', -1.0), ('CC(N)C(=O)O', 1.0), ('Cc1ncc(CO)c(C=O)c1O', 1.0), ('Cc1ncc(CO)c(CN)c1O', -1.0))	0	reaction dg
+646	R:(('Cc1ncc(CO)c(C=O)c1O', -1.0), ('Cc1ncc(CO)c(CO)c1O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0))	4	reaction dg
+647	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', 1.0), ('O=P(O)(O)OCC1OC(O)(COP(=O)(O)O)C(O)C1O', -1.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	9	reaction dg
+648	R:(('O=P(O)(O)O', -2.0), ('O=P(O)(O)OP(=O)(O)O', 1.0))	1	reaction dg
+649	R:(('NC(CO)C(=O)O', -1.0), ('NC(COP(=O)(O)O)C(=O)O', 1.0), ('O=P(O)(O)O', 1.0), ('O=P(O)(O)OP(=O)(O)O', -1.0))	1	reaction dg
+650	R:(('CC(=O)C(=O)O', -1.0), ('CC(=O)OP(=O)(O)O', 1.0), ('O=CO', 1.0), ('O=P(O)(O)O', -1.0))	0	reaction dg
+651	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C1(O)CC(O)C(O)C(O)C1', 1.0), ('O=C1CC(O)(C(=O)O)CC(O)C1O', -1.0))	7	reaction dg
+652	R:(('*NC(CS)C(=O)NC(*)C(=O)NC(*)C(=O)NC(CS)C(*)=O', -1.0), ('*NC1CSSCC(C(*)=O)NC(=O)C(*)NC(=O)C(*)NC1=O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', 1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', -1.0))	8	reaction dg
+653	R:(('CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CCO', -1.0), ('CCCCCCCCCCCCCCCC(=O)O', -1.0), ('CCCCCCCCCCCCCCCC(=O)OCC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C', 1.0))	6	reaction dg
+654	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('OCC(O)C(O)C(O)CO', 1.0), ('OCC1(O)OCC(O)C1O', -1.0))	9	reaction dg
+655	R:(('O=C(CO)C(O)C(O)C(O)C(O)COP(=O)(O)O', -1.0), ('O=CC(O)C(O)COP(=O)(O)O', 1.0), ('O=CC(O)COP(=O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)(CO)C(O)C1O', 1.0))	3	reaction dg
+656	R:(('O=C(CO)C(O)C(O)C(O)C(O)COP(=O)(O)O', -1.0), ('O=C(CO)C(O)C(O)COP(=O)(O)O', 1.0), ('O=CC(O)COP(=O)(O)O', -1.0), ('O=P(O)(O)OCC1OC(O)C(O)C1O', 1.0))	9	reaction dg
+657	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('O=C(O)C1=CC(=O)C(O)C(O)C1', -1.0), ('O=C(O)C1=CC(O)C(O)C(O)C1', 1.0))	8	reaction dg
+658	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('O=C(CO)COP(=O)(O)O', -1.0), ('O=P(O)(O)OCC(O)CO', 1.0))	6	reaction dg
+659	R:(('CC(=O)CC(=O)O', -1.0), ('CC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O', 1.0), ('CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCSC(=O)CCC(=O)O', -1.0), ('O=C(O)CCC(=O)O', 1.0))	0	reaction dg
+660	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OC1OC(CO)C(O)C(O)C1O', 1.0), ('OCC1OC(O)(CO)C(O)C1O', 1.0), ('OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O', -1.0))	9	reaction dg
+661	R:(('O=C(O)c1nc2[nH]c(=O)[nH]c(=O)c2[nH]1', -1.0), ('Oc1nc(O)c2nc(O)c(O)nc2n1', 1.0))	9	reaction dg
+662	R:(('Cc1c[nH]c(=O)[nH]c1=O', -1.0), ('Cc1cn(C2CC(O)C(CO)O2)c(=O)[nH]c1=O', 1.0), ('Nc1ncnc2[nH]cnc12', 1.0), ('Nc1ncnc2c1ncn2C1CC(O)C(CO)O1', -1.0))	5	reaction dg
+663	R:empty:663	7	reaction dg
+664	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OC1OC(CO)C(O)C1O', 1.0), ('O=c1cc[nH]c(=O)[nH]1', 1.0), ('O=c1ccn(C2OC(CO)C(O)C2O)c(=O)[nH]1', -1.0))	1	reaction dg
+665	R:(('O=C(O)C=Cc1c[nH]cn1', -1.0), ('O=C(O)CCC1NC=NC1=O', 1.0))	2	reaction dg
+666	R:(('CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CCO', -1.0), ('CC(C=CC=C(C)C=CC1=C(C)CCCC1(C)C)=CC=O', 1.0), ('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', 1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', -1.0))	8	reaction dg
+667	R:(('O=P(O)(O)O', -1.0), ('O=P(O)(O)OC1OC(CO)C(O)C1O', 1.0), ('O=c1[nH]c(=O)c2[nH]cnc2[nH]1', 1.0), ('O=c1[nH]c(=O)c2ncn(C3OC(CO)C(O)C3O)c2[nH]1', -1.0))	5	reaction dg
+668	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)c1', 1.0), ('OCC(O)C(O)C(O)CO', 1.0), ('OCC1(O)OCC(O)C1O', -1.0))	9	reaction dg
+669	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('OC1COC(O)C(O)C1O', -1.0), ('OCC(O)C(O)C(O)CO', 1.0))	8	reaction dg
+670	R:(('NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)C=CC1', -1.0), ('NC(=O)c1ccc[n+](C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(OP(=O)(O)O)C3O)C(O)C2O)c1', 1.0), ('OCC(O)C(O)C(O)CO', 1.0), ('OCC1(O)OCC(O)C1O', -1.0))	9	reaction dg

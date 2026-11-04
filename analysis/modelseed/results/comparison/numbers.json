@@ -1,0 +1,310 @@
+{
+ "live": 48384,
+ "dgbyg_status_live": {
+  "ok": 23141,
+  "wildcard": 9946,
+  "missing_structure": 10314,
+  "unbalanced": 1398,
+  "unbalanced_water": 742,
+  "compound_failed": 90,
+  "null_net": 2752,
+  "no_stoichiometry": 1
+ },
+ "union": {
+  "live": 48384,
+  "union_paper3": 24594,
+  "none_paper3": 23790,
+  "union_with_dgbyg": 25888,
+  "none_with_dgbyg": 22496,
+  "dgbyg_stated_in_none3": 1294,
+  "dgbyg_committed_in_none3": 707,
+  "dgbyg_covered_in_none3": 2616,
+  "llm_stated_in_none3": 22738,
+  "llm_stated_in_none4": 21460,
+  "union_with_dgbyg_repaired": 26101,
+  "dgbyg_repaired_stated_in_none3": 1507,
+  "dgbyg_repaired_committed_in_none3": 768,
+  "none3_by_dgbyg_status": {
+   "missing_structure": 10072,
+   "wildcard": 9941,
+   "null_net": 823,
+   "ok": 2616,
+   "compound_failed": 75,
+   "unbalanced_water": 80,
+   "unbalanced": 182,
+   "no_stoichiometry": 1
+  },
+  "none3_dgbyg_ops": {
+   "?": 1322,
+   "=": 587,
+   ">": 580,
+   "<": 127
+  }
+ },
+ "anchor_in_training": {
+  "exact": 363
+ },
+ "anchor_common_n": 362,
+ "llm_tiers": {
+  "none_paper3": {
+   "n": 23790,
+   "llm_any": 22963,
+   "llm_stated": 22738,
+   "llm_committed": 21506
+  },
+  "none_with_dgbyg": {
+   "n": 22496,
+   "llm_any": 21669,
+   "llm_stated": 21460,
+   "llm_committed": 20278
+  },
+  "dgbyg_new_vs_llm": {
+   "dgbyg_newly_stated": 1294,
+   "both_commit": 673,
+   "agree_pct": 90.04457652303121,
+   "chance_pct": 81.38140856513935,
+   "kappa": 0.4652966357955154
+  }
+ },
+ "silver_sigma_band": {
+  "eQuilibrator": [
+   0.38,
+   1.98,
+   11458
+  ],
+  "dGPredictor": [
+   2.32,
+   42.69,
+   14053
+  ],
+  "Group contribution": [
+   2.0,
+   26.05,
+   13934
+  ],
+  "dGbyG": [
+   0.22,
+   10.12,
+   13387
+  ],
+  "dGbyG (repaired)": [
+   0.16,
+   7.14,
+   13400
+  ]
+ },
+ "zero_sigma": {
+  "dGbyG": {
+   "n_sigma_zero": 428,
+   "n_dg_zero_too": 428,
+   "ops": {
+    "=": 428
+   },
+   "eq_covers": 413,
+   "eq_abs_gt1": 91,
+   "resolved_pct_all": 71.97182489952898,
+   "resolved_pct_excl_sigma0": 71.44366662263901,
+   "median_sigma_excl_sigma0": 2.87,
+   "examples": [
+    "GTP:GTP guanylyltransferase",
+    "raffinose:raffinose 1F-alpha-D-galactosyltransferase",
+    "bilirubin-glucuronoside:bilirubin-glucuronoside D-glucuronosyltransferase",
+    "NADPH:NAD+ oxidoreductase",
+    "glutamate racemase",
+    "UDP-glucose 4-epimerase",
+    "alanine racemase",
+    "UDP-N-acetyl-D-glucosamine 4-epimerase"
+   ]
+  },
+  "dGbyG (repaired)": {
+   "n_sigma_zero": 450,
+   "n_dg_zero_too": 450,
+   "ops": {
+    "=": 450
+   },
+   "eq_covers": 430,
+   "eq_abs_gt1": 101,
+   "resolved_pct_all": 87.74594408008285,
+   "resolved_pct_excl_sigma0": 87.50330018481036,
+   "median_sigma_excl_sigma0": 1.02,
+   "examples": [
+    "GTP:GTP guanylyltransferase",
+    "raffinose:raffinose 1F-alpha-D-galactosyltransferase",
+    "bilirubin-glucuronoside:bilirubin-glucuronoside D-glucuronosyltransferase",
+    "NADPH:NAD+ oxidoreductase",
+    "polyphosphate kinase",
+    "ATP:2'-deoxy-5-hydroxymethylcytidine-5'-diphosphate phosphotransferase",
+    "ATP:UDP phosphotransferase",
+    "glutamate racemase"
+   ]
+  }
+ },
+ "covered_and_modelseed_CI": {
+  "eQuilibrator": 1156,
+  "dGPredictor": 2877,
+  "Group contribution": 2469,
+  "dGbyG": 1646,
+  "dGbyG (repaired)": 1681,
+  "dGbyG_ok_and_CI": 1646
+ },
+ "extra": {
+  "gc_by_net_H": [
+   {
+    "other": "dGbyG",
+    "net_H": -3,
+    "n": 574,
+    "median_gc_minus_other": 10.275,
+    "median_abs": 15.57
+   },
+   {
+    "other": "dGbyG",
+    "net_H": -2,
+    "n": 1783,
+    "median_gc_minus_other": 10.450000000000003,
+    "median_abs": 10.939999999999998
+   },
+   {
+    "other": "dGbyG",
+    "net_H": -1,
+    "n": 1566,
+    "median_gc_minus_other": 6.529999999999999,
+    "median_abs": 9.57
+   },
+   {
+    "other": "dGbyG",
+    "net_H": 0,
+    "n": 7166,
+    "median_gc_minus_other": -0.14000000000000007,
+    "median_abs": 2.729999999999999
+   },
+   {
+    "other": "dGbyG",
+    "net_H": 1,
+    "n": 5406,
+    "median_gc_minus_other": -4.23,
+    "median_abs": 5.81
+   },
+   {
+    "other": "dGbyG",
+    "net_H": 2,
+    "n": 2703,
+    "median_gc_minus_other": -10.26,
+    "median_abs": 10.36
+   },
+   {
+    "other": "dGbyG",
+    "net_H": 3,
+    "n": 884,
+    "median_gc_minus_other": -11.044999999999998,
+    "median_abs": 11.059999999999999
+   },
+   {
+    "other": "eQuilibrator",
+    "net_H": -3,
+    "n": 375,
+    "median_gc_minus_other": 17.579999999999984,
+    "median_abs": 18.340000000000003
+   },
+   {
+    "other": "eQuilibrator",
+    "net_H": -2,
+    "n": 1573,
+    "median_gc_minus_other": 8.790000000000006,
+    "median_abs": 9.269999999999996
+   },
+   {
+    "other": "eQuilibrator",
+    "net_H": -1,
+    "n": 1405,
+    "median_gc_minus_other": 4.87,
+    "median_abs": 7.28
+   },
+   {
+    "other": "eQuilibrator",
+    "net_H": 0,
+    "n": 6179,
+    "median_gc_minus_other": -0.3800000000000008,
+    "median_abs": 3.039999999999999
+   },
+   {
+    "other": "eQuilibrator",
+    "net_H": 1,
+    "n": 4272,
+    "median_gc_minus_other": -1.1700000000000008,
+    "median_abs": 6.079999999999999
+   },
+   {
+    "other": "eQuilibrator",
+    "net_H": 2,
+    "n": 2464,
+    "median_gc_minus_other": -9.110000000000001,
+    "median_abs": 9.23
+   },
+   {
+    "other": "eQuilibrator",
+    "net_H": 3,
+    "n": 713,
+    "median_gc_minus_other": -9.7,
+    "median_abs": 9.7
+   }
+  ],
+  "dgbyg_eq_both_commit_median_abs_eq_dg": 26.4,
+  "dgbyg_eq_share_absdiff_gt5_pct": 26.53545978961656,
+  "balance_rejected": 2140,
+  "balance_rejected_modelseed_MI": 2095,
+  "balance_rejected_dgp_covers": 2082,
+  "newly_stated_CI": 90,
+  "newly_committed_CI": 76,
+  "newly_stated_sigma0": 10,
+  "repair_newly_committed": 2428,
+  "repair_newly_committed_eq_commits": 1997,
+  "repair_newly_committed_eq_agree_pct": 99.84977466199298,
+  "transport_scored": 1498,
+  "transport_atp_hydrolysis_value": 1301,
+  "transport_modal_value": -5.92,
+  "transport_reversible": 1355,
+  "null_net_gc_scores": 1929,
+  "null_net_gc_zero_eq": 1929,
+  "dgbyg_scored_with_atp_adp_amp_ppi": 3583
+ },
+ "training_sigma0": {
+  "n": 29,
+  "pure_stereo": 23,
+  "other": 6,
+  "other_examples": [
+   "2'-deoxyinosine(aq) + adenine(aq) = 2'-deoxyadenosine(aq) + hypoxanthine(aq)",
+   "ATP(aq) + GDP(aq) = ADP(aq) + GTP(aq)",
+   "ATP(aq) + inosine 5'-diphosphate(aq) = ADP(aq) + inosine 5'-triphosphate(aq)",
+   "GMP(aq) + hypoxanthine(aq) = IMP(aq) + guanine(aq)",
+   "NAD(aq) + NADPH(aq) = NADH(aq) + NADP(aq)",
+   "NAD(red)(aq) + NADP(ox)(aq) = NAD(ox)(aq) + NADP(red)(aq)"
+  ]
+ },
+ "anchor_truth": {
+  "n": 363,
+  "anchor_vs_transformed_mae": 0.4820804476188971,
+  "anchor_vs_transformed_median": 0.1371367112810704,
+  "share_gt1_pct": 15.977961432506888,
+  "share_gt2_pct": 6.0606060606060606,
+  "ph_all_near_7": 123,
+  "t_all_near_298": 83,
+  "classes": {
+   "neither (novel to the fold model)": 211,
+   "all formation energies in training": 51,
+   "indistinguishable twin in training": 83,
+   "predicted exactly 0": 18
+  }
+ },
+ "coverage_overlap": {
+  "dgbyg": 23141,
+  "any_paper3": 27347,
+  "union_with_dgbyg": 27493,
+  "dgbyg_only": 146,
+  "dgbyg_and_eq": 17682,
+  "dgbyg_not_eq": 5459,
+  "eq_not_dgbyg": 186,
+  "dgbyg_and_dgp": 22649,
+  "dgp_not_dgbyg": 2416,
+  "dgbyg_not_eq_not_dgp": 147
+ }
+}

@@ -1,0 +1,141 @@
+source	truth	call	n
+eQuilibrator	>	>	22
+eQuilibrator	>	<	0
+eQuilibrator	>	=	5
+eQuilibrator	>	?	0
+eQuilibrator	>	none	0
+eQuilibrator	<	>	0
+eQuilibrator	<	<	3
+eQuilibrator	<	=	1
+eQuilibrator	<	?	1
+eQuilibrator	<	none	0
+eQuilibrator	=	>	4
+eQuilibrator	=	<	3
+eQuilibrator	=	=	320
+eQuilibrator	=	?	1
+eQuilibrator	=	none	0
+eQuilibrator	?	>	1
+eQuilibrator	?	<	0
+eQuilibrator	?	=	2
+eQuilibrator	?	?	0
+eQuilibrator	?	none	0
+dGPredictor	>	>	15
+dGPredictor	>	<	0
+dGPredictor	>	=	0
+dGPredictor	>	?	12
+dGPredictor	>	none	0
+dGPredictor	<	>	0
+dGPredictor	<	<	2
+dGPredictor	<	=	0
+dGPredictor	<	?	3
+dGPredictor	<	none	0
+dGPredictor	=	>	2
+dGPredictor	=	<	0
+dGPredictor	=	=	302
+dGPredictor	=	?	24
+dGPredictor	=	none	0
+dGPredictor	?	>	0
+dGPredictor	?	<	0
+dGPredictor	?	=	1
+dGPredictor	?	?	2
+dGPredictor	?	none	0
+Group contribution	>	>	7
+Group contribution	>	<	0
+Group contribution	>	=	5
+Group contribution	>	?	15
+Group contribution	>	none	0
+Group contribution	<	>	0
+Group contribution	<	<	2
+Group contribution	<	=	2
+Group contribution	<	?	1
+Group contribution	<	none	0
+Group contribution	=	>	31
+Group contribution	=	<	15
+Group contribution	=	=	119
+Group contribution	=	?	163
+Group contribution	=	none	0
+Group contribution	?	>	0
+Group contribution	?	<	0
+Group contribution	?	=	0
+Group contribution	?	?	3
+Group contribution	?	none	0
+dGbyG	>	>	17
+dGbyG	>	<	0
+dGbyG	>	=	4
+dGbyG	>	?	6
+dGbyG	>	none	0
+dGbyG	<	>	0
+dGbyG	<	<	2
+dGbyG	<	=	1
+dGbyG	<	?	2
+dGbyG	<	none	0
+dGbyG	=	>	8
+dGbyG	=	<	0
+dGbyG	=	=	224
+dGbyG	=	?	96
+dGbyG	=	none	0
+dGbyG	?	>	1
+dGbyG	?	<	0
+dGbyG	?	=	0
+dGbyG	?	?	2
+dGbyG	?	none	0
+dGbyG op_z0 (sensitivity)	>	>	25
+dGbyG op_z0 (sensitivity)	>	<	0
+dGbyG op_z0 (sensitivity)	>	=	2
+dGbyG op_z0 (sensitivity)	>	?	0
+dGbyG op_z0 (sensitivity)	>	none	0
+dGbyG op_z0 (sensitivity)	<	>	0
+dGbyG op_z0 (sensitivity)	<	<	4
+dGbyG op_z0 (sensitivity)	<	=	1
+dGbyG op_z0 (sensitivity)	<	?	0
+dGbyG op_z0 (sensitivity)	<	none	0
+dGbyG op_z0 (sensitivity)	=	>	19
+dGbyG op_z0 (sensitivity)	=	<	4
+dGbyG op_z0 (sensitivity)	=	=	305
+dGbyG op_z0 (sensitivity)	=	?	0
+dGbyG op_z0 (sensitivity)	=	none	0
+dGbyG op_z0 (sensitivity)	?	>	1
+dGbyG op_z0 (sensitivity)	?	<	1
+dGbyG op_z0 (sensitivity)	?	=	1
+dGbyG op_z0 (sensitivity)	?	?	0
+dGbyG op_z0 (sensitivity)	?	none	0
+LLMs	>	>	27
+LLMs	>	<	0
+LLMs	>	=	0
+LLMs	>	?	0
+LLMs	>	none	0
+LLMs	<	>	1
+LLMs	<	<	3
+LLMs	<	=	1
+LLMs	<	?	0
+LLMs	<	none	0
+LLMs	=	>	101
+LLMs	=	<	45
+LLMs	=	=	182
+LLMs	=	?	0
+LLMs	=	none	0
+LLMs	?	>	2
+LLMs	?	<	0
+LLMs	?	=	1
+LLMs	?	?	0
+LLMs	?	none	0
+dGbyG held-out CV	>	>	18
+dGbyG held-out CV	>	<	0
+dGbyG held-out CV	>	=	5
+dGbyG held-out CV	>	?	4
+dGbyG held-out CV	>	none	0
+dGbyG held-out CV	<	>	0
+dGbyG held-out CV	<	<	2
+dGbyG held-out CV	<	=	2
+dGbyG held-out CV	<	?	1
+dGbyG held-out CV	<	none	0
+dGbyG held-out CV	=	>	9
+dGbyG held-out CV	=	<	1
+dGbyG held-out CV	=	=	211
+dGbyG held-out CV	=	?	107
+dGbyG held-out CV	=	none	0
+dGbyG held-out CV	?	>	1
+dGbyG held-out CV	?	<	0
+dGbyG held-out CV	?	=	0
+dGbyG held-out CV	?	?	2
+dGbyG held-out CV	?	none	0

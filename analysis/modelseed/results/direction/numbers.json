@@ -1,0 +1,243 @@
+{
+ "heldout": {
+  "file": "/home/freiburger/Documents/dGbyG/analysis/modelseed/results/cv/anchor_heldout.tsv",
+  "n": 363,
+  "in_training": {
+   "exact": 363
+  }
+ },
+ "baseline_A_reproduced": true,
+ "crosscheck_live_both_reproduced": true,
+ "ri_truth_distribution_363": {
+  "=": 328,
+  ">": 27,
+  "<": 5,
+  "?": 3
+ },
+ "baseline_B_reproduced": true,
+ "recommend_validation": [
+  {
+   "strategy": "recommend_direction",
+   "mean_accuracy": 0.883195020746888,
+   "sd_accuracy": 0.017763746689287624,
+   "mean_coverage": 1.0
+  },
+  {
+   "strategy": "risk_only_no_tau",
+   "mean_accuracy": 0.883195020746888,
+   "sd_accuracy": 0.017763746689287624,
+   "mean_coverage": 1.0
+  },
+  {
+   "strategy": "tau_only_no_risk",
+   "mean_accuracy": 0.9089211618257262,
+   "sd_accuracy": 0.014814788909080667,
+   "mean_coverage": 1.0
+  },
+  {
+   "strategy": "recommend_magnitude",
+   "mean_accuracy": 0.8898340248962656,
+   "sd_accuracy": 0.016879094797627833,
+   "mean_coverage": 1.0
+  },
+  {
+   "strategy": "eq_only",
+   "mean_accuracy": 0.8746392913360765,
+   "sd_accuracy": 0.01738221312754165,
+   "mean_coverage": 0.9979253112033195
+  },
+  {
+   "strategy": "dgp_only",
+   "mean_accuracy": 0.9060165975103734,
+   "sd_accuracy": 0.015148069988607312,
+   "mean_coverage": 1.0
+  },
+  {
+   "strategy": "gc_only",
+   "mean_accuracy": 0.6006621715076071,
+   "sd_accuracy": 0.017678846442776844,
+   "mean_coverage": 0.9995850622406639
+  },
+  {
+   "strategy": "eq_first_then_risk",
+   "mean_accuracy": 0.8736514522821578,
+   "sd_accuracy": 0.01662212904477535,
+   "mean_coverage": 1.0
+  },
+  {
+   "strategy": "priority_plain",
+   "mean_accuracy": 0.8736514522821578,
+   "sd_accuracy": 0.01662212904477535,
+   "mean_coverage": 1.0
+  },
+  {
+   "strategy": "priority_veto_0.02",
+   "mean_accuracy": 0.8709543568464732,
+   "sd_accuracy": 0.017253628951279496,
+   "mean_coverage": 1.0
+  },
+  {
+   "strategy": "priority_veto_0.05",
+   "mean_accuracy": 0.8782157676348549,
+   "sd_accuracy": 0.017470555108347458,
+   "mean_coverage": 1.0
+  },
+  {
+   "strategy": "priority_veto_0.2",
+   "mean_accuracy": 0.8991701244813278,
+   "sd_accuracy": 0.01670607646406423,
+   "mean_coverage": 1.0
+  }
+ ],
+ "anchors": {
+  "all": 801,
+  "live": 363
+ },
+ "truth_gc_distribution_801": {
+  ">": 125,
+  "?": 210,
+  "=": 433,
+  "<": 33
+ },
+ "feasible_801": {
+  "EQ": 798,
+  "DGP": 801,
+  "GC": 800,
+  "DGB": 801
+ },
+ "gc_cascade_ops_801": {
+  "EQ": {
+   ">": 127,
+   "?": 251,
+   "=": 381,
+   "<": 39,
+   "": 3
+  },
+  "DGP": {
+   ">": 121,
+   "?": 241,
+   "=": 410,
+   "<": 29
+  },
+  "GC": {
+   "=": 293,
+   "?": 361,
+   ">": 114,
+   "<": 32,
+   "": 1
+  },
+  "DGB": {
+   ">": 130,
+   "?": 239,
+   "=": 404,
+   "<": 28
+  }
+ },
+ "own_ops_801": {
+  "EQ": {
+   ">": 73,
+   "=": 709,
+   "<": 14,
+   "?": 2,
+   "": 3
+  },
+  "DGP": {
+   ">": 46,
+   "?": 95,
+   "=": 655,
+   "<": 5
+  },
+  "GC": {
+   "=": 293,
+   "?": 361,
+   ">": 114,
+   "<": 32,
+   "": 1
+  },
+  "DGB": {
+   ">": 65,
+   "=": 514,
+   "?": 218,
+   "<": 4
+  }
+ },
+ "truth_gc_distribution_363": {
+  ">": 44,
+  "?": 106,
+  "=": 196,
+  "<": 17
+ },
+ "feasible_363": {
+  "EQ": 363,
+  "DGP": 363,
+  "GC": 362,
+  "DGB": 363
+ },
+ "gc_cascade_ops_363": {
+  "EQ": {
+   ">": 45,
+   "?": 130,
+   "=": 169,
+   "<": 19
+  },
+  "DGP": {
+   ">": 44,
+   "?": 114,
+   "=": 191,
+   "<": 14
+  },
+  "GC": {
+   "=": 126,
+   "?": 181,
+   ">": 38,
+   "<": 17,
+   "": 1
+  },
+  "DGB": {
+   ">": 49,
+   "?": 123,
+   "=": 178,
+   "<": 13
+  }
+ },
+ "own_ops_363": {
+  "EQ": {
+   ">": 27,
+   "=": 328,
+   "<": 6,
+   "?": 2
+  },
+  "DGP": {
+   ">": 17,
+   "?": 41,
+   "=": 303,
+   "<": 2
+  },
+  "GC": {
+   "=": 126,
+   "?": 181,
+   ">": 38,
+   "<": 17,
+   "": 1
+  },
+  "DGB": {
+   ">": 26,
+   "=": 229,
+   "?": 106,
+   "<": 2
+  }
+ },
+ "reimplementation_matches_validate": true,
+ "median_abs_err_801_all_anchors": {
+  "eQuilibrator": 0.3857552581261947,
+  "dGPredictor": 0.2306978967495219,
+  "Group contribution": 4.351137667304015,
+  "dGbyG": 0.8246558317399617
+ },
+ "median_abs_err_363_live_anchors": {
+  "eQuilibrator": 0.4014340344168259,
+  "dGPredictor": 0.19909177820267687,
+  "Group contribution": 5.313054493307839,
+  "dGbyG": 0.8955066921606121
+ }
+}

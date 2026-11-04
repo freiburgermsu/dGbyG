@@ -1,0 +1,12 @@
+run	source	GOLD	SILVER	BRONZE	graded
+baseline	Group contribution	76	16033	7860	23969
+baseline	eQuilibrator	3338	12015	2515	17868
+baseline	dGPredictor	1799	14361	8552	24712
+dgb_last	Group contribution	75	15280	8614	23969
+dgb_last	eQuilibrator	3530	11420	2918	17868
+dgb_last	dGPredictor	1819	14497	8396	24712
+dgb_last	dGbyG	2399	14592	5722	22713
+dgb_after_eq	Group contribution	75	15280	8614	23969
+dgb_after_eq	eQuilibrator	3530	11420	2918	17868
+dgb_after_eq	dGPredictor	1819	14497	8396	24712
+dgb_after_eq	dGbyG	2399	14592	5722	22713

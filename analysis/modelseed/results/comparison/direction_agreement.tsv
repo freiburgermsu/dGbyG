@@ -1,0 +1,11 @@
+a	b	both_commit	agree	agree_pct	opposed	both_stated	agree_stated	agree_stated_pct	unique_a	unique_b
+dGPredictor	eQuilibrator	3152	2989	94.8287	163	6167	4305	69.8070	3877	11237
+dGPredictor	dGbyG	4287	4110	95.8712	177	6870	6160	89.6652	3174	9785
+dGPredictor	dGbyG (repaired)	4653	4379	94.1113	274	7779	5689	73.1328	2265	12557
+Group contribution	eQuilibrator	5038	4965	98.5510	73	8732	6663	76.3055	5582	8672
+Group contribution	dGPredictor	4850	4569	94.2062	281	6558	4880	74.4129	7756	3486
+Group contribution	dGbyG	4746	4705	99.1361	41	8944	6280	70.2147	5370	7711
+Group contribution	dGbyG (repaired)	6014	5953	98.9857	61	9966	7672	76.9817	4348	10370
+dGbyG	eQuilibrator	4885	4855	99.3859	30	12819	10457	81.5742	3836	4585
+dGbyG	dGbyG (repaired)	8087	8087	100.0000	0	16461	15130	91.9142	194	3875
+dGbyG (repaired)	eQuilibrator	6869	6841	99.5924	28	16087	14622	90.8933	4249	1317

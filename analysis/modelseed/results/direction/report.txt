@@ -1,0 +1,207 @@
+reaction records 56,006; dGbyG primary estimates (status ok) 27,575
+dGbyG held-out CV anchor predictions: 363 from /home/freiburger/Documents/dGbyG/analysis/modelseed/results/cv/anchor_heldout.tsv
+
+(A0) BASELINE: review_transport_and_llm._vs_measured, all 1,361 CSV rows, all records
+  margin 0.0   eQuilibrator  expected  125/124  got  125/124   99.2% kappa 0.96  OK
+  margin 0.0   LLMs          expected  360/246  got  360/246   68.3% kappa 0.33  OK
+  margin 5.0   eQuilibrator  expected  125/124  got  125/124   99.2% kappa 0.96  OK
+  margin 5.0   LLMs          expected  263/200  got  263/200   76.0% kappa 0.48  OK
+  margin 11.7  eQuilibrator  expected   79/78   got   79/78    98.7% kappa 0.96  OK
+  margin 11.7  LLMs          expected  157/113  got  157/113   72.0% kappa 0.46  OK
+  LLM confusion at 11.7 kJ: <->< 42, <->> 44, >->> 71  OK
+  cross-check, live records both tiers margin 0 (spec_calibration_llm.md): eQuilibrator expected 57/98.2% got 57/98.2%; dGPredictor expected 27/96.3% got 27/96.3%; Group contribution expected 74/62.2% got 74/62.2%; LLMs expected 358/68.2% got 358/68.2%
+
+(A1) direction vs MEASURED, script protocol: all 1,361 CSV rows, both tiers, all records; pairs where both commit
+  margin source                         n  agree    rate  chance  kappa
+  0.0    eQuilibrator                 125    124   99.2%   78.3%   0.96
+  0.0    dGPredictor                   62     60   96.8%   70.8%   0.89
+  0.0    Group contribution           171    122   71.3%   57.6%   0.32
+  0.0    dGbyG                        122    120   98.4%   92.1%   0.79
+  0.0    dGbyG op_z0 (sensitivity)    207    196   94.7%   74.8%   0.79
+  0.0    LLMs                         360    246   68.3%   52.7%   0.33
+  5.0    eQuilibrator                 125    124   99.2%   78.3%   0.96
+  5.0    dGPredictor                   59     57   96.6%   71.8%   0.88
+  5.0    Group contribution           134     98   73.1%   55.8%   0.39
+  5.0    dGbyG                        116    116  100.0%   95.0%   1.00
+  5.0    dGbyG op_z0 (sensitivity)    185    178   96.2%   76.2%   0.84
+  5.0    LLMs                         263    200   76.0%   53.6%   0.48
+  11.7   eQuilibrator                  79     78   98.7%   70.0%   0.96
+  11.7   dGPredictor                   50     50  100.0%   70.5%   1.00
+  11.7   Group contribution            92     69   75.0%   55.5%   0.44
+  11.7   dGbyG                         55     55  100.0%   89.7%   1.00
+  11.7   dGbyG op_z0 (sensitivity)    113    110   97.3%   68.1%   0.92
+  11.7   LLMs                         157    113   72.0%   47.8%   0.46
+  confusion at 11.7 kJ (measured->call): eQuilibrator: <->< 14, <->> 1, >->> 64 | dGPredictor: <->< 9, >->> 41 | Group contribution: <->< 16, <->> 22, >->< 1, >->> 53 | dGbyG: <->< 3, >->> 52 | dGbyG op_z0 (sensitivity): <->< 21, <->> 3, >->> 89 | LLMs: <->< 42, <->> 44, >->> 71
+
+(A1) direction vs MEASURED, live records only, both tiers (738 CSV rows); pairs where both commit
+  margin source                         n  agree    rate  chance  kappa
+  0.0    eQuilibrator                  57     56   98.2%   77.1%   0.92
+  0.0    dGPredictor                   27     26   96.3%   59.8%   0.91
+  0.0    Group contribution            74     46   62.2%   52.3%   0.21
+  0.0    dGbyG                         58     56   96.6%   90.1%   0.65
+  0.0    dGbyG op_z0 (sensitivity)     93     84   90.3%   74.9%   0.61
+  0.0    LLMs                         358    244   68.2%   52.6%   0.33
+  5.0    eQuilibrator                  57     56   98.2%   77.1%   0.92
+  5.0    dGPredictor                   26     25   96.2%   62.4%   0.90
+  5.0    Group contribution            53     35   66.0%   51.0%   0.31
+  5.0    dGbyG                         55     55  100.0%   93.0%   1.00
+  5.0    dGbyG op_z0 (sensitivity)     83     78   94.0%   76.1%   0.75
+  5.0    LLMs                         261    198   75.9%   53.4%   0.48
+  11.7   eQuilibrator                  30     29   96.7%   66.0%   0.90
+  11.7   dGPredictor                   21     21  100.0%   59.2%   1.00
+  11.7   Group contribution            29     19   65.5%   47.0%   0.35
+  11.7   dGbyG                         22     22  100.0%   83.5%   1.00
+  11.7   dGbyG op_z0 (sensitivity)     43     41   95.3%   66.8%   0.86
+  11.7   LLMs                         156    112   71.8%   47.6%   0.46
+  confusion at 11.7 kJ (measured->call): eQuilibrator: <->< 6, <->> 1, >->> 23 | dGPredictor: <->< 6, >->> 15 | Group contribution: <->< 6, <->> 10, >->> 13 | dGbyG: <->< 2, >->> 20 | dGbyG op_z0 (sensitivity): <->< 8, <->> 2, >->> 33 | LLMs: <->< 42, <->> 44, >->> 70
+
+(A1) direction vs MEASURED, 363 distinct live stereo-exact anchors; pairs where both commit
+  margin source                         n  agree    rate  chance  kappa
+  0.0    eQuilibrator                  33     33  100.0%   70.2%   1.00
+  0.0    dGPredictor                   19     19  100.0%   81.2%   1.00
+  0.0    Group contribution            55     36   65.5%   49.7%   0.31
+  0.0    dGbyG                         28     26   92.9%   80.6%   0.63
+  0.0    dGbyG op_z0 (sensitivity)     54     45   83.3%   63.6%   0.54
+  0.0    LLMs                         178    122   68.5%   48.2%   0.39
+  0.0    dGbyG held-out CV             31     28   90.3%   74.7%   0.62
+  5.0    eQuilibrator                  33     33  100.0%   70.2%   1.00
+  5.0    dGPredictor                   19     19  100.0%   81.2%   1.00
+  5.0    Group contribution            44     30   68.2%   48.3%   0.38
+  5.0    dGbyG                         25     25  100.0%   85.3%   1.00
+  5.0    dGbyG op_z0 (sensitivity)     46     41   89.1%   64.6%   0.69
+  5.0    LLMs                         135     98   72.6%   47.9%   0.47
+  5.0    dGbyG held-out CV             28     27   96.4%   78.1%   0.84
+  11.7   eQuilibrator                  24     24  100.0%   67.0%   1.00
+  11.7   dGPredictor                   17     17  100.0%   79.2%   1.00
+  11.7   Group contribution            25     16   64.0%   44.8%   0.35
+  11.7   dGbyG                         17     17  100.0%   79.2%   1.00
+  11.7   dGbyG op_z0 (sensitivity)     32     30   93.8%   62.3%   0.83
+  11.7   LLMs                          91     66   72.5%   46.3%   0.49
+  11.7   dGbyG held-out CV             20     19   95.0%   71.0%   0.83
+  confusion at 11.7 kJ (measured->call): eQuilibrator: <->< 5, >->> 19 | dGPredictor: <->< 2, >->> 15 | Group contribution: <->< 6, <->> 9, >->> 10 | dGbyG: <->< 2, >->> 15 | dGbyG op_z0 (sensitivity): <->< 7, <->> 2, >->> 23 | LLMs: <->< 32, <->> 25, >->> 34 | dGbyG held-out CV: <->< 3, <->> 1, >->> 16
+
+(A2) RI-rule truth on the 363 live anchors: truth = RI cascade (DGP_HEURISTICS, z=1) on explicit_energy(dG_exp, max(sd_exp, 0.15)); truth distribution {'=': 328, '>': 27, '<': 5, '?': 3}
+  source                      call  commit   rate    >    <    =    ?  none  both-commit n  agree   rate  kappa  stated n  exact  med sd
+  eQuilibrator                 363      33    9.1   27    6  328    2     0             25     25  100.0   1.00       358   96.4    0.43
+  dGPredictor                  363      19    5.2   17    2  303   41     0             17     17  100.0   1.00       321   99.4    1.62
+  Group contribution           363      55   15.2   38   17  126  182     0              9      9  100.0   1.00       181   70.7    8.64
+  dGbyG                        363      28    7.7   26    2  229  106     0             19     19  100.0   1.00       256   94.9    0.77
+  dGbyG op_z0 (sensitivity)    363      54   14.9   45    9  309    0     0             29     29  100.0   1.00       360   92.8    0.77
+  LLMs                         363     179   49.3  131   48  184    0     0             31     30   96.8   0.84       360   58.9     nan
+  dGbyG held-out CV            363      31    8.5   28    3  218  114     0             20     20  100.0   1.00       248   93.1    1.17
+  confusion (rows truth >,<,=,?; columns call >,<,=,?,none):
+   eQuilibrator: >:  22   0   5   0   0 | <:   0   3   1   1   0 | =:   4   3 320   1   0 | ?:   1   0   2   0   0
+   dGPredictor: >:  15   0   0  12   0 | <:   0   2   0   3   0 | =:   2   0 302  24   0 | ?:   0   0   1   2   0
+   Group contribution: >:   7   0   5  15   0 | <:   0   2   2   1   0 | =:  31  15 119 163   0 | ?:   0   0   0   3   0
+   dGbyG: >:  17   0   4   6   0 | <:   0   2   1   2   0 | =:   8   0 224  96   0 | ?:   1   0   0   2   0
+   dGbyG op_z0 (sensitivity): >:  25   0   2   0   0 | <:   0   4   1   0   0 | =:  19   4 305   0   0 | ?:   1   1   1   0   0
+   LLMs: >:  27   0   0   0   0 | <:   1   3   1   0   0 | =: 101  45 182   0   0 | ?:   2   0   1   0   0
+   dGbyG held-out CV: >:  18   0   5   4   0 | <:   0   2   2   1   0 | =:   9   1 211 107   0 | ?:   1   0   0   2   0
+
+(B0) BASELINE: recommend_thermo_source.py --target direction, run unchanged (801 anchors, 20 x 70/30, default_rng(20260812))
+  priority_plain     expected  87.4 +/- 1.7 cov 100.0 | got  87.4 +/- 1.7 cov 100.0  OK
+  eq_only            expected  87.5 +/- 1.7 cov  99.8 | got  87.5 +/- 1.7 cov  99.8  OK
+  dgp_only           expected  90.6 +/- 1.5 cov 100.0 | got  90.6 +/- 1.5 cov 100.0  OK
+  gc_only            expected  60.1 +/- 1.8 cov 100.0 | got  60.1 +/- 1.8 cov 100.0  OK
+  tau_only_no_risk   expected  90.9 +/- 1.5 cov 100.0 | got  90.9 +/- 1.5 cov 100.0  OK
+  all strategies: tau_only_no_risk 90.9+/-1.5 cov 100.0; dgp_only 90.6+/-1.5 cov 100.0; priority_veto_0.2 89.9+/-1.7 cov 100.0; recommend_magnitude 89.0+/-1.7 cov 100.0; recommend_direction 88.3+/-1.8 cov 100.0; risk_only_no_tau 88.3+/-1.8 cov 100.0; priority_veto_0.05 87.8+/-1.7 cov 100.0; eq_only 87.5+/-1.7 cov 99.8; priority_plain 87.4+/-1.7 cov 100.0; eq_first_then_risk 87.4+/-1.7 cov 100.0; priority_veto_0.02 87.1+/-1.7 cov 100.0; gc_only 60.1+/-1.8 cov 100.0
+
+(B1) re-implementation check against validate() (README protocol, 801 anchors)
+  eq_only          validate() 87.4639% +/- 1.7382 cov 99.7925 | ours 87.4639% +/- 1.7382 cov 99.7925  max|diff| 0.0e+00  OK
+  dgp_only         validate() 90.6017% +/- 1.5148 cov 100.0000 | ours 90.6017% +/- 1.5148 cov 100.0000  max|diff| 0.0e+00  OK
+  gc_only          validate() 60.0662% +/- 1.7679 cov 99.9585 | ours 60.0662% +/- 1.7679 cov 99.9585  max|diff| 0.0e+00  OK
+  priority_plain   validate() 87.3651% +/- 1.6622 cov 100.0000 | ours 87.3651% +/- 1.6622 cov 100.0000  max|diff| 0.0e+00  OK
+
+  truth distribution: GC-cascade truth 801 {'>': 125, '?': 210, '=': 433, '<': 33}, 363 {'>': 44, '?': 106, '=': 196, '<': 17}
+  feasible 801 {'EQ': 798, 'DGP': 801, 'GC': 800, 'DGB': 801}; 363 {'EQ': 363, 'DGP': 363, 'GC': 362, 'DGB': 363}
+  GC-cascade operators 801: {'EQ': {'>': 127, '?': 251, '=': 381, '<': 39, '': 3}, 'DGP': {'>': 121, '?': 241, '=': 410, '<': 29}, 'GC': {'=': 293, '?': 361, '>': 114, '<': 32, '': 1}, 'DGB': {'>': 130, '?': 239, '=': 404, '<': 28}}
+  own-rule-set operators 801: {'EQ': {'>': 73, '=': 709, '<': 14, '?': 2, '': 3}, 'DGP': {'>': 46, '?': 95, '=': 655, '<': 5}, 'GC': {'=': 293, '?': 361, '>': 114, '<': 32, '': 1}, 'DGB': {'>': 65, '=': 514, '?': 218, '<': 4}}
+  GC-cascade operators 363: {'EQ': {'>': 45, '?': 130, '=': 169, '<': 19}, 'DGP': {'>': 44, '?': 114, '=': 191, '<': 14}, 'GC': {'=': 126, '?': 181, '>': 38, '<': 17, '': 1}, 'DGB': {'>': 49, '?': 123, '=': 178, '<': 13}}
+  own-rule-set operators 363: {'EQ': {'>': 27, '=': 328, '<': 6, '?': 2}, 'DGP': {'>': 17, '?': 41, '=': 303, '<': 2}, 'GC': {'=': 126, '?': 181, '>': 38, '<': 17, '': 1}, 'DGB': {'>': 26, '=': 229, '?': 106, '<': 2}}
+
+  README-protocol confusion, 801_all_anchors (rows GC-cascade truth >,<,=,?; columns call >,<,=,?,none) and median |dG - dG_exp| (kcal/mol)
+   eQuilibrator        median|err|  0.39 median sigma  0.36 | >: 117   0   4   3   1 | <:   0  30   2   1   0 | =:   6   2 364  60   1 | ?:   4   7  11 187   1
+   dGPredictor         median|err|  0.23 median sigma  1.58 | >: 113   0   4   8   0 | <:   0  29   3   1   0 | =:   5   0 391  37   0 | ?:   3   0  12 195   0
+   Group contribution  median|err|  4.35 median sigma  8.66 | >:  66   0  23  36   0 | <:   0  14   3  16   0 | =:  33  11 240 149   0 | ?:  15   7  27 160   1
+   dGbyG               median|err|  0.82 median sigma  0.77 | >: 107   0   8  10   0 | <:   0  27   3   3   0 | =:  15   1 358  59   0 | ?:   8   0  35 167   0
+
+  README-protocol confusion, 363_live_anchors (rows GC-cascade truth >,<,=,?; columns call >,<,=,?,none) and median |dG - dG_exp| (kcal/mol)
+   eQuilibrator        median|err|  0.40 median sigma  0.43 | >:  40   0   1   3   0 | <:   0  15   1   1   0 | =:   3   1 160  32   0 | ?:   2   3   7  94   0
+   dGPredictor         median|err|  0.20 median sigma  1.62 | >:  40   0   1   3   0 | <:   0  14   2   1   0 | =:   2   0 181  13   0 | ?:   2   0   7  97   0
+   Group contribution  median|err|  5.31 median sigma  8.64 | >:  18   0   8  18   0 | <:   0   6   3   8   0 | =:  15   6 100  75   0 | ?:   5   5  15  80   1
+   dGbyG               median|err|  0.90 median sigma  0.77 | >:  38   0   1   5   0 | <:   0  13   3   1   0 | =:   7   0 156  33   0 | ?:   4   0  18  84   0
+
+(B2) 801_all_anchors | README protocol: GC-cascade operators vs GC-cascade truth
+  strategy                      acc 20x70/30    cov  full acc  answered  commit-only acc
+  eq_only                        87.5 +/- 1.7   99.8      87.5  698/798     100.0 (147/147)
+  dgp_only                       90.6 +/- 1.5  100.0      90.9  728/801     100.0 (142/142)
+  gc_only                        60.1 +/- 1.8  100.0      60.0  480/800     100.0 (80/80)
+  dgb_only                       82.5 +/- 2.5  100.0      82.3  659/801     100.0 (134/134)
+  priority_plain (EQ>DGP>GC)     87.4 +/- 1.7  100.0      87.3  699/801     100.0 (148/148)
+  EQ>DGB>DGP>GC                  87.4 +/- 1.7  100.0      87.3  699/801     100.0 (148/148)
+  DGB>EQ>DGP>GC                  82.5 +/- 2.5  100.0      82.3  659/801     100.0 (134/134)
+  EQ>DGP>GC>DGB                  87.4 +/- 1.7  100.0      87.3  699/801     100.0 (148/148)
+  null: always '='               54.2 +/- 2.6  100.0      54.1  433/801       n/a (0/0)
+
+(B2) 801_all_anchors | own-rule-set operators (stored; dGbyG op) vs GC-cascade truth
+  strategy                      acc 20x70/30    cov  full acc  answered  commit-only acc
+  eq_only                        63.4 +/- 2.5   99.8      63.5  507/798     100.0 (74/74)
+  dgp_only                       63.1 +/- 2.5  100.0      63.3  507/801     100.0 (47/47)
+  gc_only                        60.1 +/- 1.8  100.0      60.0  480/800     100.0 (80/80)
+  dgb_only                       67.9 +/- 2.8  100.0      68.2  546/801     100.0 (56/56)
+  priority_plain (EQ>DGP>GC)     63.4 +/- 2.5  100.0      63.4  508/801     100.0 (75/75)
+  EQ>DGB>DGP>GC                  63.3 +/- 2.6  100.0      63.3  507/801     100.0 (74/74)
+  DGB>EQ>DGP>GC                  67.9 +/- 2.8  100.0      68.2  546/801     100.0 (56/56)
+  EQ>DGP>GC>DGB                  63.4 +/- 2.5  100.0      63.4  508/801     100.0 (75/75)
+  null: always '='               54.2 +/- 2.6  100.0      54.1  433/801       n/a (0/0)
+
+(B2) 801_all_anchors | own-rule-set operators vs RI-rule truth (sd floor 0.15)
+  strategy                      acc 20x70/30    cov  full acc  answered  commit-only acc
+  eq_only                        95.2 +/- 1.1   99.8      95.2  760/798     100.0 (70/70)
+  dgp_only                       87.8 +/- 1.9  100.0      88.1  706/801     100.0 (47/47)
+  gc_only                        40.0 +/- 1.3  100.0      39.4  315/800     100.0 (34/34)
+  dgb_only                       70.5 +/- 2.7  100.0      69.7  558/801     100.0 (49/49)
+  priority_plain (EQ>DGP>GC)     95.1 +/- 1.2  100.0      95.0  761/801     100.0 (71/71)
+  EQ>DGB>DGP>GC                  95.0 +/- 1.2  100.0      94.9  760/801     100.0 (70/70)
+  DGB>EQ>DGP>GC                  70.5 +/- 2.7  100.0      69.7  558/801     100.0 (49/49)
+  EQ>DGP>GC>DGB                  95.1 +/- 1.2  100.0      95.0  761/801     100.0 (71/71)
+  null: always '='               88.2 +/- 1.6  100.0      88.4  708/801       n/a (0/0)
+
+(B2) 363_live_anchors | README protocol: GC-cascade operators vs GC-cascade truth
+  strategy                      acc 20x70/30    cov  full acc  answered  commit-only acc
+  eq_only                        84.6 +/- 3.6  100.0      85.1  309/363     100.0 (55/55)
+  dgp_only                       91.6 +/- 2.1  100.0      91.5  332/363     100.0 (54/54)
+  gc_only                        56.5 +/- 3.9   99.6      56.4  204/362     100.0 (24/24)
+  dgb_only                       79.3 +/- 3.4  100.0      80.2  291/363     100.0 (51/51)
+  priority_plain (EQ>DGP>GC)     84.6 +/- 3.6  100.0      85.1  309/363     100.0 (55/55)
+  EQ>DGB>DGP>GC                  84.6 +/- 3.6  100.0      85.1  309/363     100.0 (55/55)
+  DGB>EQ>DGP>GC                  79.3 +/- 3.4  100.0      80.2  291/363     100.0 (51/51)
+  EQ>DGP>GC>DGB                  84.6 +/- 3.6  100.0      85.1  309/363     100.0 (55/55)
+  null: always '='               53.3 +/- 4.7  100.0      54.0  196/363       n/a (0/0)
+  dgb_heldout_only               75.1 +/- 3.5  100.0      76.0  276/363     100.0 (52/52)
+
+(B2) 363_live_anchors | own-rule-set operators (stored; dGbyG op) vs GC-cascade truth
+  strategy                      acc 20x70/30    cov  full acc  answered  commit-only acc
+  eq_only                        61.2 +/- 4.2  100.0      61.7  224/363     100.0 (27/27)
+  dgp_only                       62.2 +/- 4.0  100.0      62.8  228/363     100.0 (17/17)
+  gc_only                        56.5 +/- 3.9   99.6      56.4  204/362     100.0 (24/24)
+  dgb_only                       66.7 +/- 4.6  100.0      67.5  245/363     100.0 (22/22)
+  priority_plain (EQ>DGP>GC)     61.2 +/- 4.2  100.0      61.7  224/363     100.0 (27/27)
+  EQ>DGB>DGP>GC                  61.2 +/- 4.2  100.0      61.7  224/363     100.0 (27/27)
+  DGB>EQ>DGP>GC                  66.7 +/- 4.6  100.0      67.5  245/363     100.0 (22/22)
+  EQ>DGP>GC>DGB                  61.2 +/- 4.2  100.0      61.7  224/363     100.0 (27/27)
+  null: always '='               53.3 +/- 4.7  100.0      54.0  196/363       n/a (0/0)
+  dgb_heldout_only               65.7 +/- 4.7  100.0      66.4  241/363     100.0 (23/23)
+
+(B2) 363_live_anchors | own-rule-set operators vs RI-rule truth (sd floor 0.15)
+  strategy                      acc 20x70/30    cov  full acc  answered  commit-only acc
+  eq_only                        95.6 +/- 1.8  100.0      95.0  345/363     100.0 (25/25)
+  dgp_only                       88.3 +/- 2.4  100.0      88.4  321/363     100.0 (17/17)
+  gc_only                        34.7 +/- 3.1   99.6      36.2  131/362     100.0 (9/9)
+  dgb_only                       64.8 +/- 3.9  100.0      67.5  245/363     100.0 (19/19)
+  priority_plain (EQ>DGP>GC)     95.6 +/- 1.8  100.0      95.0  345/363     100.0 (25/25)
+  EQ>DGB>DGP>GC                  95.6 +/- 1.8  100.0      95.0  345/363     100.0 (25/25)
+  DGB>EQ>DGP>GC                  64.8 +/- 3.9  100.0      67.5  245/363     100.0 (19/19)
+  EQ>DGP>GC>DGB                  95.6 +/- 1.8  100.0      95.0  345/363     100.0 (25/25)
+  null: always '='               90.6 +/- 2.2  100.0      90.4  328/363       n/a (0/0)
+  dgb_heldout_only               62.2 +/- 3.9  100.0      64.2  233/363     100.0 (20/20)

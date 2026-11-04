@@ -1,0 +1,1349 @@
+rxn	cpd	cid	ms_coeff	kegg_coeff	method	key_match	contrib_kcal	cause	name
+rxn00690	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00690	cpd00047	C00058	-1.0	-1.0	alias	True	8.752651545966335e-07	identical	Formate
+rxn00690	cpd00087	C00101	-1.0	-1.0	alias	True	0.8496966097596466	residual charge+tautomer	Tetrahydrofolate
+rxn00690	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00690	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00690	cpd00201	C00234	1.0	1.0	alias	True	-0.8496954792088298	residual charge+tautomer	10-Formyltetrahydrofolate
+rxn01307	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn01307	cpd00229	C00266	1.0	1.0	alias	True	0.0	identical	Glycolaldehyde
+rxn01307	cpd22923	C00684	-1.0	-1.0	inchikey	True	-0.0	identical	2-dehydro-3-deoxy-L-arabinonate
+rxn48809	cpd00581	C00785	1.0	-1.0	alias	True	-0.6648318945335854	tautomer	Urocanate
+rxn48809	cpd00001	C00001	1.0	-1.0	alias	True	0.0	identical	H2O
+rxn48809	cpd40934	C03680	-1.0	1.0	inchikey	True	-1.9501972289659772	tautomer	4-imidazolone-5-propanoate
+rxn03643	cpd00171	C00199	-1.0	-1.0	alias	True	-0.0	identical	D-Ribulose5-phosphate
+rxn03643	cpd00055	C00067	-1.0	-1.0	alias	True	-0.0	identical	Formaldehyde
+rxn03643	cpd03583	C06019	1.0	1.0	alias	True	0.0	identical	D-arabino-6-Phospho-hex-3-ulose
+rxn03644	cpd03583	C06019	-1.0	-1.0	alias	True	-0.0	identical	D-arabino-6-Phospho-hex-3-ulose
+rxn03644	cpd00072	C00085	1.0	1.0	alias	True	0.0	identical	D-fructose-6-phosphate
+rxn01361	cpd00282	C00337	-1.0	-1.0	alias	True	8.332799397280752	tautomer	S-Dihydroorotate
+rxn01361	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01361	cpd00247	C00295	1.0	1.0	alias	True	1.9416315286610857	tautomer	Orotate
+rxn01361	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00551	cpd00012	C00013	-1.0	-1.0	alias	True	-0.0	identical	PPi
+rxn00551	cpd00072	C00085	-1.0	-1.0	alias	True	-0.0	identical	D-fructose-6-phosphate
+rxn00551	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00551	cpd00290	C00354	1.0	1.0	alias	True	0.0	identical	D-fructose-1,6-bisphosphate
+rxn00697	cpd00387	C00498	-1.0	-1.0	alias	True	0.39302672756336693	residual charge	ADPglucose
+rxn00697	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00697	cpd00089	C00103	1.0	1.0	alias	True	0.0	identical	Glucose-1-phosphate
+rxn00697	cpd00018	C00020	1.0	1.0	alias	True	0.05756691810505796	residual charge	AMP
+rxn00804	cpd00107	C00123	-1.0	-1.0	alias	True	-1.203551429179616	residual charge	L-Leucine
+rxn00804	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00804	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00804	cpd00200	C00233	1.0	1.0	alias	True	0.0	identical	4MOP
+rxn00804	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00804	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn00514	cpd00068	C00081	-1.0	-1.0	alias	True	0.24632703733721645	tautomer	ITP
+rxn00514	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00514	cpd00114	C00130	1.0	1.0	alias	True	-0.2463184305632189	tautomer	IMP
+rxn00514	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn00415	cpd00053	C00064	-1.0	-1.0	alias	True	4.407674833191968	residual charge+tautomer	L-Glutamine
+rxn00415	cpd00020	C00022	-1.0	-1.0	alias	True	1.4587752123747118e-07	identical	Pyruvate
+rxn00415	cpd00695	C00940	1.0	1.0	alias	True	-5.646493156826982	tautomer	2-Oxoglutaramate
+rxn00415	cpd00035	C00041	1.0	1.0	alias	True	1.1656446757781587	residual charge	L-Alanine
+rxn01201	cpd00728	C00989	-1.0	-1.0	alias	True	-0.0	identical	4-Hydroxybutanoate
+rxn01201	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01201	cpd00199	C00232	1.0	1.0	alias	True	0.0	identical	4-Oxobutanoate
+rxn01201	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00276	cpd00033	C00037	-1.0	-1.0	alias	True	1.780732120200279	residual charge	Glycine
+rxn00276	cpd00032	C00036	-1.0	-1.0	alias	True	-0.0	identical	Oxaloacetate
+rxn00276	cpd00040	C00048	1.0	1.0	alias	True	-3.64693803093678e-07	identical	Glyoxalate
+rxn00276	cpd00041	C00049	1.0	1.0	alias	True	1.3113805942280115	residual charge	L-Aspartate
+rxn01870	cpd00802	C01094	-1.0	-1.0	alias	True	-0.0	identical	D-fructose-1-phosphate
+rxn01870	cpd00448	C00577	1.0	1.0	alias	True	0.0	identical	D-Glyceraldehyde
+rxn01870	cpd00095	C00111	1.0	1.0	alias	True	0.0	identical	Glycerone-phosphate
+rxn00605	cpd00026	C00029	-1.0	-1.0	alias	True	1.0551928197449179	tautomer	UDP-glucose
+rxn00605	cpd00079	C00092	-1.0	-1.0	alias	True	-0.0	identical	D-glucose-6-phosphate
+rxn00605	cpd00014	C00015	1.0	1.0	alias	True	-1.0551922362347785	tautomer	UDP
+rxn00605	cpd00523	C00689	1.0	1.0	alias	True	0.0	identical	Trehalose 6-phosphate
+rxn00421	cpd00012	C00013	-1.0	-1.0	alias	True	-0.0	identical	PPi
+rxn00421	cpd00054	C00065	-1.0	-1.0	alias	True	-1.144820226082151	residual charge	L-Serine
+rxn00421	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00421	cpd00738	C01005	1.0	1.0	alias	True	1.135465136905458	residual charge	phosphoserine
+rxn02066	cpd00562	C00756	-1.0	-1.0	alias	True	-0.0	identical	1-Octanol
+rxn02066	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn02066	cpd01088	C01545	1.0	1.0	alias	True	0.0	identical	1-Octanal
+rxn02066	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00541	cpd00033	C00037	1.0	-1.0	alias	True	-1.780732120200279	residual charge	Glycine
+rxn00541	cpd00071	C00084	1.0	-1.0	alias	True	-8.52471784261208e-07	identical	Acetaldehyde
+rxn00541	cpd00161	C00188	-1.0	1.0	alias	True	-0.7321395108166474	residual charge	L-Threonine
+rxn00257	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00257	cpd00137	C00158	-1.0	-1.0	alias	True	-0.0	identical	Citrate
+rxn00257	cpd00010	C00010	-1.0	-1.0	alias	True	13.039863834417554	residual charge+tautomer	CoA
+rxn00257	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00257	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00257	cpd00022	C00024	1.0	1.0	alias	True	-13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn00257	cpd00032	C00036	1.0	1.0	alias	True	0.0	identical	Oxaloacetate
+rxn00695	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00695	cpd00089	C00103	-1.0	-1.0	alias	True	-0.0	identical	Glucose-1-phosphate
+rxn00695	cpd00387	C00498	1.0	1.0	alias	True	-0.39302672756336693	residual charge	ADPglucose
+rxn00695	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn02527	cpd03662	C06142	1.0	-1.0	alias	True	0.0	identical	n-Butanol
+rxn02527	cpd00003	C00003	1.0	-1.0	alias	False	-3.0047309831725197	residual charge+protonation	NAD
+rxn02527	cpd01011	C01412	-1.0	1.0	alias	True	-0.0	identical	Butanal
+rxn02527	cpd00004	C00004	-1.0	1.0	alias	True	4.0276198086273665	tautomer	NADH
+rxn03886	cpd00491	C01096	-1.0	-1.0	alias	True	-0.0	identical	D-glucitol 6-phosphate
+rxn03886	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn03886	cpd00072	C00085	1.0	1.0	alias	True	0.0	identical	D-fructose-6-phosphate
+rxn03886	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00331	cpd02662	C04348	-1.0	-1.0	alias	True	12.192899218936754	residual charge+tautomer	Malyl-CoA
+rxn00331	cpd00022	C00024	1.0	1.0	alias	True	-13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn00331	cpd00040	C00048	1.0	1.0	alias	True	-3.64693803093678e-07	identical	Glyoxalate
+rxn02168	cpd02234	C03561	-1.0	-1.0	alias	True	13.039869377763525	residual charge+tautomer	(R)-3-Hydroxybutanoyl-CoA
+rxn02168	cpd00650	C00877	1.0	1.0	alias	True	-13.039870836538737	residual charge+tautomer	Crotonyl-CoA
+rxn02168	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn00250	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00250	cpd00020	C00022	-1.0	-1.0	alias	True	1.4587752123747118e-07	identical	Pyruvate
+rxn00250	cpd00242	C00288	-1.0	-1.0	alias	True	-0.0	identical	H2CO3
+rxn00250	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00250	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00250	cpd00032	C00036	1.0	1.0	alias	True	0.0	identical	Oxaloacetate
+rxn01847	cpd00432	C00552	-1.0	-1.0	alias	True	-0.0	identical	meso-Tartrate
+rxn01847	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01847	cpd02186	C03459	1.0	1.0	alias	True	0.0	identical	Oxaloglycolate
+rxn01847	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00927	cpd00182	C00212	-1.0	-1.0	alias	True	0.13346546238739937	residual charge	Adenosine
+rxn00927	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00927	cpd00128	C00147	1.0	1.0	alias	True	1.3793691485607396	tautomer	Adenine
+rxn00927	cpd00105	C00121	1.0	1.0	alias	True	0.0	identical	D-Ribose
+rxn01491	cpd00290	C00354	-1.0	-1.0	alias	True	-0.0	identical	D-fructose-1,6-bisphosphate
+rxn01491	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn01491	cpd00802	C01094	1.0	1.0	alias	True	0.0	identical	D-fructose-1-phosphate
+rxn01491	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00278	cpd00035	C00041	-1.0	-1.0	alias	True	-1.1656446757781587	residual charge	L-Alanine
+rxn00278	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00278	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00278	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00278	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00278	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn00171	cpd00071	C00084	-1.0	-1.0	alias	True	8.52471784261208e-07	identical	Acetaldehyde
+rxn00171	cpd00010	C00010	-1.0	-1.0	alias	True	13.039863834417554	residual charge+tautomer	CoA
+rxn00171	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00171	cpd00022	C00024	1.0	1.0	alias	True	-13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn00171	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00765	cpd00100	C00116	-1.0	-1.0	alias	True	-0.0	identical	Glycerol
+rxn00765	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn00765	cpd00448	C00577	1.0	1.0	alias	True	0.0	identical	D-Glyceraldehyde
+rxn00765	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn00831	cpd00114	C00130	-1.0	-1.0	alias	True	0.2463184305632189	tautomer	IMP
+rxn00831	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00831	cpd00246	C00294	1.0	1.0	alias	True	-0.2463189411345704	tautomer	Inosine
+rxn00831	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00147	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00147	cpd00020	C00022	-1.0	-1.0	alias	True	1.4587752123747118e-07	identical	Pyruvate
+rxn00147	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00147	cpd00018	C00020	1.0	1.0	alias	True	0.05756691810505796	residual charge	AMP
+rxn00147	cpd00061	C00074	1.0	1.0	alias	True	0.0	identical	Phosphoenolpyruvate
+rxn00147	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn52014	cpd16300	C16512	-1.0	-1.0	alias	True	6.362399799645968	tautomer	Palmidrol
+rxn52014	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn52014	cpd00162	C00189	1.0	1.0	alias	True	-0.22933492241124848	residual charge	Aminoethanol
+rxn52014	cpd00214	C00249	1.0	1.0	alias	True	0.0	identical	Palmitate
+rxn00157	cpd00022	C00024	-1.0	-1.0	alias	True	13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn00157	cpd00047	C00058	-1.0	-1.0	alias	True	8.752651545966335e-07	identical	Formate
+rxn00157	cpd00010	C00010	1.0	1.0	alias	True	-13.039863834417554	residual charge+tautomer	CoA
+rxn00157	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00336	cpd00260	C00311	-1.0	-1.0	alias	True	-0.0	identical	Isocitrate
+rxn00336	cpd00036	C00042	1.0	1.0	alias	True	0.0	identical	Succinate
+rxn00336	cpd00040	C00048	1.0	1.0	alias	True	-3.64693803093678e-07	identical	Glyoxalate
+rxn51768	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn51768	cpd00086	C00100	-1.0	-1.0	alias	True	13.039866460212991	residual charge+tautomer	Propionyl-CoA
+rxn51768	cpd00242	C00288	-1.0	-1.0	alias	True	-0.0	identical	H2CO3
+rxn51768	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn51768	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn51768	cpd01675	C02557	1.0	1.0	alias	True	-11.046480138716701	residual charge+tautomer	Methylmalonyl-CoA
+rxn00546	cpd27436	C00644	-1.0	-1.0	alias	True	-0.0	identical	D-mannitol, 1-(dihydrogenphosphate)
+rxn00546	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00546	cpd00072	C00085	1.0	1.0	alias	True	0.0	identical	D-fructose-6-phosphate
+rxn00546	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01509	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn01509	cpd00296	C00362	-1.0	-1.0	alias	True	-0.5977594145853359	tautomer	dGMP
+rxn01509	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn01509	cpd00295	C00361	1.0	1.0	alias	True	0.5977597063403783	tautomer	dGDP
+rxn14104	cpd00387	C00498	1.0	-1.0	alias	True	-0.39302672756336693	residual charge	ADPglucose
+rxn14104	cpd00082	C00095	1.0	-1.0	alias	True	0.0	identical	D-Fructose
+rxn14104	cpd00008	C00008	-1.0	1.0	alias	True	0.7431642959040717	residual charge	ADP
+rxn14104	cpd00076	C00089	-1.0	1.0	alias	True	-0.0	identical	Sucrose
+rxn01299	cpd00246	C00294	-1.0	-1.0	alias	True	0.2463189411345704	tautomer	Inosine
+rxn01299	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn01299	cpd00226	C00262	1.0	1.0	alias	True	-0.24631901407333104	tautomer	HYXN
+rxn01299	cpd00105	C00121	1.0	1.0	alias	True	0.0	identical	D-Ribose
+rxn00806	cpd00107	C00123	-1.0	-1.0	alias	True	-1.203551429179616	residual charge	L-Leucine
+rxn00806	cpd00024	C00026	-1.0	-1.0	alias	True	-0.0	identical	2-Oxoglutarate
+rxn00806	cpd00200	C00233	1.0	1.0	alias	True	0.0	identical	4MOP
+rxn00806	cpd00023	C00025	1.0	1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn00328	cpd00830	C01127	-1.0	-1.0	alias	True	-0.0	identical	4-Hydroxy-2-oxoglutarate
+rxn00328	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00328	cpd00040	C00048	1.0	1.0	alias	True	-3.64693803093678e-07	identical	Glyoxalate
+rxn00139	cpd00018	C00020	-1.0	-1.0	alias	True	-0.05756691810505796	residual charge	AMP
+rxn00139	cpd00012	C00013	-1.0	-1.0	alias	True	-0.0	identical	PPi
+rxn00139	cpd00128	C00147	1.0	1.0	alias	True	1.3793691485607396	tautomer	Adenine
+rxn00139	cpd00103	C00119	1.0	1.0	alias	True	0.0	identical	PRPP
+rxn00816	cpd00208	C00243	-1.0	-1.0	alias	True	-0.0	identical	LACT
+rxn00816	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00816	cpd00108	C00124	1.0	1.0	alias	True	0.0	identical	Galactose
+rxn00816	cpd00027	C00031	1.0	1.0	alias	True	0.0	identical	D-Glucose
+rxn00422	cpd00035	C00041	1.0	-1.0	alias	True	1.1656446757781587	residual charge	L-Alanine
+rxn00422	cpd00145	C00168	1.0	-1.0	alias	True	-4.3763257729831676e-07	identical	Hydroxypyruvate
+rxn00422	cpd00054	C00065	-1.0	1.0	alias	True	-1.144820226082151	residual charge	L-Serine
+rxn00422	cpd00020	C00022	-1.0	1.0	alias	True	1.4587752123747118e-07	identical	Pyruvate
+rxn00641	cpd00038	C00044	-1.0	-1.0	alias	True	-0.5977629156458999	tautomer	GTP
+rxn00641	cpd00485	C00636	-1.0	-1.0	alias	True	-0.0	identical	D-Mannose1-phosphate
+rxn00641	cpd00083	C00096	1.0	1.0	alias	True	0.5977599980954208	tautomer	GDP-mannose
+rxn00641	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn00754	cpd01367	C01996	-1.0	-1.0	alias	True	-0.0	identical	Acetylcholine
+rxn00754	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00754	cpd00029	C00033	1.0	1.0	alias	True	0.0	identical	Acetate
+rxn00754	cpd00098	C00114	1.0	1.0	alias	True	0.0	identical	Choline
+rxn00770	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00770	cpd00101	C00117	-1.0	-1.0	alias	True	-0.0	identical	ribose-5-phosphate
+rxn00770	cpd00018	C00020	1.0	1.0	alias	True	0.05756691810505796	residual charge	AMP
+rxn00770	cpd00103	C00119	1.0	1.0	alias	True	0.0	identical	PRPP
+rxn00285	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00285	cpd00036	C00042	-1.0	-1.0	alias	True	-0.0	identical	Succinate
+rxn00285	cpd00010	C00010	-1.0	-1.0	alias	True	13.039863834417554	residual charge+tautomer	CoA
+rxn00285	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00285	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00285	cpd00078	C00091	1.0	1.0	alias	True	-11.587607856006473	residual charge+tautomer	Succinyl-CoA
+rxn31087	cpd00002	C00002	1.0	-1.0	alias	True	-0.3348746947075558	residual charge	ATP
+rxn31087	cpd00036	C00042	1.0	-1.0	alias	True	0.0	identical	Succinate
+rxn31087	cpd00010	C00010	1.0	-1.0	alias	True	-13.039863834417554	residual charge+tautomer	CoA
+rxn31087	cpd00008	C00008	-1.0	1.0	alias	True	0.7431642959040717	residual charge	ADP
+rxn31087	cpd00009	C00009	-1.0	1.0	alias	True	-0.0	identical	Phosphate
+rxn31087	cpd00078	C00091	-1.0	1.0	alias	True	11.587607856006473	residual charge+tautomer	Succinyl-CoA
+rxn00151	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00151	cpd00020	C00022	-1.0	-1.0	alias	True	1.4587752123747118e-07	identical	Pyruvate
+rxn00151	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn00151	cpd00018	C00020	1.0	1.0	alias	True	0.05756691810505796	residual charge	AMP
+rxn00151	cpd00061	C00074	1.0	1.0	alias	True	0.0	identical	Phosphoenolpyruvate
+rxn00151	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn00131	cpd00018	C00020	-1.0	-1.0	alias	True	-0.05756691810505796	residual charge	AMP
+rxn00131	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00131	cpd00128	C00147	1.0	1.0	alias	True	1.3793691485607396	tautomer	Adenine
+rxn00131	cpd00101	C00117	1.0	1.0	alias	True	0.0	identical	ribose-5-phosphate
+rxn00070	cpd00042	C00051	-2.0	-2.0	alias	True	21.753137052401065	residual charge+tautomer	GSH
+rxn00070	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00070	cpd00111	C00127	1.0	1.0	alias	True	-21.7531377817887	residual charge+tautomer	Oxidized glutathione
+rxn00070	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00191	cpd00035	C00041	-1.0	-1.0	alias	True	-1.1656446757781587	residual charge	L-Alanine
+rxn00191	cpd00024	C00026	-1.0	-1.0	alias	True	-0.0	identical	2-Oxoglutarate
+rxn00191	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00191	cpd00023	C00025	1.0	1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn00022	cpd00179	C00208	-1.0	-1.0	alias	True	-0.0	identical	Maltose
+rxn00022	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00022	cpd00027	C00031	2.0	2.0	alias	True	0.0	identical	D-Glucose
+rxn08948	cpd00235	C00275	-1.0	-1.0	alias	True	-0.0	identical	D-mannose-6-phosphate
+rxn08948	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn08948	cpd00138	C00159	1.0	1.0	alias	True	0.0	identical	D-Mannose
+rxn08948	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00777	cpd00101	C00117	-1.0	-1.0	alias	True	-0.0	identical	ribose-5-phosphate
+rxn00777	cpd00171	C00199	1.0	1.0	alias	True	0.0	identical	D-Ribulose5-phosphate
+rxn00762	cpd00100	C00116	-1.0	-1.0	alias	True	-0.0	identical	Glycerol
+rxn00762	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00762	cpd00157	C00184	1.0	1.0	alias	True	0.0	identical	Glycerone
+rxn00762	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00747	cpd00102	C00118	-1.0	-1.0	alias	True	-0.0	identical	Glyceraldehyde3-phosphate
+rxn00747	cpd00095	C00111	1.0	1.0	alias	True	0.0	identical	Glycerone-phosphate
+rxn00148	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00148	cpd00020	C00022	-1.0	-1.0	alias	True	1.4587752123747118e-07	identical	Pyruvate
+rxn00148	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00148	cpd00061	C00074	1.0	1.0	alias	True	0.0	identical	Phosphoenolpyruvate
+rxn12188	cpd00802	C01094	-1.0	-1.0	alias	True	-0.0	identical	D-fructose-1-phosphate
+rxn12188	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn12188	cpd00082	C00095	1.0	1.0	alias	True	0.0	identical	D-Fructose
+rxn12188	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn01846	cpd00432	C00552	-1.0	-1.0	alias	True	-0.0	identical	meso-Tartrate
+rxn01846	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01846	cpd00718	C00975	1.0	1.0	alias	True	0.0	identical	Dihydroxyfumarate
+rxn01846	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00836	cpd00114	C00130	-1.0	-1.0	alias	True	0.2463184305632189	tautomer	IMP
+rxn00836	cpd00012	C00013	-1.0	-1.0	alias	True	-0.0	identical	PPi
+rxn00836	cpd00226	C00262	1.0	1.0	alias	True	-0.24631901407333104	tautomer	HYXN
+rxn00836	cpd00103	C00119	1.0	1.0	alias	True	0.0	identical	PRPP
+rxn00260	cpd00041	C00049	-1.0	-1.0	alias	True	-1.3113805942280115	residual charge	L-Aspartate
+rxn00260	cpd00024	C00026	-1.0	-1.0	alias	True	-0.0	identical	2-Oxoglutarate
+rxn00260	cpd00032	C00036	1.0	1.0	alias	True	0.0	identical	Oxaloacetate
+rxn00260	cpd00023	C00025	1.0	1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn00778	cpd00475	C00620	-1.0	-1.0	alias	True	-0.0	identical	Ribose 1-phosphate
+rxn00778	cpd00101	C00117	1.0	1.0	alias	True	0.0	identical	ribose-5-phosphate
+rxn00189	cpd00053	C00064	-1.0	-1.0	alias	True	4.407674833191968	residual charge+tautomer	L-Glutamine
+rxn00189	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00189	cpd00023	C00025	1.0	1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn00189	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn02749	cpd01700	C02612	-1.0	-1.0	alias	False	-0.0	stereo	D-Citramalate
+rxn02749	cpd01502	C02226	1.0	1.0	alias	True	0.0	identical	Citraconate
+rxn02749	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn00062	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00062	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00062	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00062	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn08173	cpd00002	C00002	1.0	-1.0	alias	True	-0.3348746947075558	residual charge	ATP
+rxn08173	cpd00001	C00001	1.0	-1.0	alias	True	0.0	identical	H2O
+rxn08173	cpd00008	C00008	-1.0	1.0	alias	True	0.7431642959040717	residual charge	ADP
+rxn08173	cpd00009	C00009	-1.0	1.0	alias	True	-0.0	identical	Phosphate
+rxn09528	cpd00002	C00002	1.0	-1.0	alias	True	-0.3348746947075558	residual charge	ATP
+rxn09528	cpd00001	C00001	1.0	-1.0	alias	True	0.0	identical	H2O
+rxn09528	cpd00008	C00008	-1.0	1.0	alias	True	0.7431642959040717	residual charge	ADP
+rxn09528	cpd00009	C00009	-1.0	1.0	alias	True	-0.0	identical	Phosphate
+rxn09694	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn09694	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn09694	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn09694	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn10443	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn10443	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn10443	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn10443	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn29496	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn29496	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn29496	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn29496	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn30646	cpd00002	C00002	1.0	-1.0	alias	True	-0.3348746947075558	residual charge	ATP
+rxn30646	cpd00001	C00001	1.0	-1.0	alias	True	0.0	identical	H2O
+rxn30646	cpd00008	C00008	-1.0	1.0	alias	True	0.7431642959040717	residual charge	ADP
+rxn30646	cpd00009	C00009	-1.0	1.0	alias	True	-0.0	identical	Phosphate
+rxn33882	cpd00002	C00002	1.0	-1.0	alias	True	-0.3348746947075558	residual charge	ATP
+rxn33882	cpd00001	C00001	1.0	-1.0	alias	True	0.0	identical	H2O
+rxn33882	cpd00008	C00008	-1.0	1.0	alias	True	0.7431642959040717	residual charge	ADP
+rxn33882	cpd00009	C00009	-1.0	1.0	alias	True	-0.0	identical	Phosphate
+rxn54344	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn54344	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn54344	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn54344	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00549	cpd00290	C00354	-1.0	-1.0	alias	True	-0.0	identical	D-fructose-1,6-bisphosphate
+rxn00549	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00549	cpd00072	C00085	1.0	1.0	alias	True	0.0	identical	D-fructose-6-phosphate
+rxn00549	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn01011	cpd00223	C00258	-1.0	-1.0	alias	True	-0.0	identical	Glycerate
+rxn01011	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01011	cpd00145	C00168	1.0	1.0	alias	True	-4.3763257729831676e-07	identical	Hydroxypyruvate
+rxn01011	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01101	cpd00169	C00197	-1.0	-1.0	alias	True	-0.0	identical	3-Phosphoglycerate
+rxn01101	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01101	cpd02069	C03232	1.0	1.0	alias	True	0.0	identical	3-Phosphonooxypyruvate
+rxn01101	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn16141	cpd00199	C00232	1.0	-1.0	alias	True	0.0	identical	4-Oxobutanoate
+rxn16141	cpd00005	C00005	1.0	-1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn16141	cpd00728	C00989	-1.0	1.0	alias	True	-0.0	identical	4-Hydroxybutanoate
+rxn16141	cpd00006	C00006	-1.0	1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn00785	cpd00072	C00085	-1.0	-1.0	alias	True	-0.0	identical	D-fructose-6-phosphate
+rxn00785	cpd00102	C00118	-1.0	-1.0	alias	True	-0.0	identical	Glyceraldehyde3-phosphate
+rxn00785	cpd00236	C00279	1.0	1.0	alias	True	0.0	identical	D-Erythrose4-phosphate
+rxn00785	cpd00198	C00231	1.0	1.0	alias	True	0.0	identical	D-Xylulose5-phosphate
+rxn00173	cpd00022	C00024	-1.0	-1.0	alias	True	13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn00173	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn00173	cpd00010	C00010	1.0	1.0	alias	True	-13.039863834417554	residual charge+tautomer	CoA
+rxn00173	cpd00196	C00227	1.0	1.0	alias	True	0.0	identical	Acetylphosphate
+rxn11139	cpd00179	C00208	-1.0	-1.0	alias	True	-0.0	identical	Maltose
+rxn11139	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn11139	cpd00027	C00031	1.0	1.0	alias	True	0.0	identical	D-Glucose
+rxn11139	cpd00089	C00103	1.0	1.0	alias	True	0.0	identical	Glucose-1-phosphate
+rxn00603	cpd00491	C01096	-1.0	-1.0	alias	True	-0.0	identical	D-glucitol 6-phosphate
+rxn00603	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn00603	cpd00079	C00092	1.0	1.0	alias	True	0.0	identical	D-glucose-6-phosphate
+rxn00603	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn00786	cpd00290	C00354	-1.0	-1.0	alias	True	-0.0	identical	D-fructose-1,6-bisphosphate
+rxn00786	cpd00095	C00111	1.0	1.0	alias	True	0.0	identical	Glycerone-phosphate
+rxn00786	cpd00102	C00118	1.0	1.0	alias	True	0.0	identical	Glyceraldehyde3-phosphate
+rxn00753	cpd00022	C00024	-1.0	-1.0	alias	True	13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn00753	cpd00098	C00114	-1.0	-1.0	alias	True	-0.0	identical	Choline
+rxn00753	cpd00010	C00010	1.0	1.0	alias	True	-13.039863834417554	residual charge+tautomer	CoA
+rxn00753	cpd01367	C01996	1.0	1.0	alias	True	0.0	identical	Acetylcholine
+rxn00810	cpd00108	C00124	-1.0	-1.0	alias	True	-0.0	identical	Galactose
+rxn00810	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00810	cpd02143	C03383	1.0	1.0	alias	True	0.0	identical	D-Galactono-1,4-lactone
+rxn00810	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01200	cpd00238	C05382	-1.0	-1.0	alias	True	-0.0	identical	Sedoheptulose7-phosphate
+rxn01200	cpd00102	C00118	-1.0	-1.0	alias	True	-0.0	identical	Glyceraldehyde3-phosphate
+rxn01200	cpd00101	C00117	1.0	1.0	alias	True	0.0	identical	ribose-5-phosphate
+rxn01200	cpd00198	C00231	1.0	1.0	alias	True	0.0	identical	D-Xylulose5-phosphate
+rxn00784	cpd00510	C00673	-1.0	-1.0	alias	True	-0.0	identical	deoxyribose-5-phosphate
+rxn00784	cpd00102	C00118	1.0	1.0	alias	True	0.0	identical	Glyceraldehyde3-phosphate
+rxn00784	cpd00071	C00084	1.0	1.0	alias	True	-8.52471784261208e-07	identical	Acetaldehyde
+rxn19461	cpd00102	C00118	1.0	1.0	alias	True	0.0	identical	Glyceraldehyde3-phosphate
+rxn19461	cpd00071	C00084	1.0	1.0	alias	True	-8.52471784261208e-07	identical	Acetaldehyde
+rxn19461	cpd26846	C00673	-1.0	-1.0	inchikey	True	-0.0	identical	DEOXY-RIBOSE-5P
+rxn00867	cpd00119	C00135	-1.0	-1.0	alias	True	-0.7309996238402107	residual charge+tautomer	L-Histidine
+rxn00867	cpd00581	C00785	1.0	1.0	alias	True	-0.6648318945335854	tautomer	Urocanate
+rxn00867	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn00256	cpd00032	C00036	1.0	-1.0	alias	True	0.0	identical	Oxaloacetate
+rxn00256	cpd00022	C00024	1.0	-1.0	alias	True	-13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn00256	cpd00001	C00001	1.0	-1.0	alias	True	0.0	identical	H2O
+rxn00256	cpd00137	C00158	-1.0	1.0	alias	True	-0.0	identical	Citrate
+rxn00256	cpd00010	C00010	-1.0	1.0	alias	True	13.039863834417554	residual charge+tautomer	CoA
+rxn30641	cpd00032	C00036	-1.0	-1.0	alias	True	-0.0	identical	Oxaloacetate
+rxn30641	cpd00022	C00024	-1.0	-1.0	alias	True	13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn30641	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn30641	cpd00137	C00158	1.0	1.0	alias	True	0.0	identical	Citrate
+rxn30641	cpd00010	C00010	1.0	1.0	alias	True	-13.039863834417554	residual charge+tautomer	CoA
+rxn04945	cpd00027	C00031	-1.0	-1.0	alias	True	-0.0	identical	D-Glucose
+rxn04945	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn04945	cpd00170	C00198	1.0	1.0	alias	True	0.0	identical	Gluconolactone
+rxn04945	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn13834	cpd00027	C00031	-1.0	-1.0	alias	True	-0.0	identical	D-Glucose
+rxn13834	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn13834	cpd00170	C00198	1.0	1.0	alias	True	0.0	identical	Gluconolactone
+rxn13834	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01022	cpd00147	C00170	-1.0	-1.0	alias	True	0.1334656812036948	residual charge	5-Methylthioadenosine
+rxn01022	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn01022	cpd00128	C00147	1.0	1.0	alias	True	1.3793691485607396	tautomer	Adenine
+rxn01022	cpd02574	C04188	1.0	1.0	alias	True	0.0	identical	methylthioribose-1-phosphate
+rxn12158	cpd00008	C00008	-1.0	-1.0	alias	True	0.7431642959040717	residual charge	ADP
+rxn12158	cpd00089	C00103	-1.0	-1.0	alias	True	-0.0	identical	Glucose-1-phosphate
+rxn12158	cpd00387	C00498	1.0	1.0	alias	True	-0.39302672756336693	residual charge	ADPglucose
+rxn12158	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00579	cpd00026	C00029	-1.0	-1.0	alias	True	1.0551928197449179	tautomer	UDP-glucose
+rxn00579	cpd00082	C00095	-1.0	-1.0	alias	True	-0.0	identical	D-Fructose
+rxn00579	cpd00014	C00015	1.0	1.0	alias	True	-1.0551922362347785	tautomer	UDP
+rxn00579	cpd00076	C00089	1.0	1.0	alias	True	0.0	identical	Sucrose
+rxn00379	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00379	cpd00048	C00059	-1.0	-1.0	alias	True	2.0422853516682093e-06	identical	Sulfate
+rxn00379	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn00379	cpd00193	C00224	1.0	1.0	alias	True	0.706281351997576	residual charge	APS
+rxn01597	cpd00636	C00854	1.0	-1.0	alias	True	0.0	identical	Hexalin
+rxn01597	cpd00003	C00003	1.0	-1.0	alias	False	-3.0047309831725197	residual charge+protonation	NAD
+rxn01597	cpd00329	C00414	-1.0	1.0	alias	True	-0.0	identical	Cyclohexanone
+rxn01597	cpd00004	C00004	-1.0	1.0	alias	True	4.0276198086273665	tautomer	NADH
+rxn01116	cpd00171	C00199	-1.0	-1.0	alias	True	-0.0	identical	D-Ribulose5-phosphate
+rxn01116	cpd00198	C00231	1.0	1.0	alias	True	0.0	identical	D-Xylulose5-phosphate
+rxn01137	cpd00182	C00212	-1.0	-1.0	alias	True	0.13346546238739937	residual charge	Adenosine
+rxn01137	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn01137	cpd00246	C00294	1.0	1.0	alias	True	-0.2463189411345704	tautomer	Inosine
+rxn01137	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn40442	cpd01269	C01845	-1.0	-1.0	alias	True	-0.0	identical	2-Propanol
+rxn40442	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn40442	cpd00178	C00207	1.0	1.0	alias	True	0.0	identical	Acetone
+rxn40442	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn02167	cpd00842	C01144	-1.0	-1.0	alias	True	13.039869377763525	residual charge+tautomer	(S)-3-Hydroxybutyryl-CoA
+rxn02167	cpd00650	C00877	1.0	1.0	alias	True	-13.039870836538737	residual charge+tautomer	Crotonyl-CoA
+rxn02167	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn00195	cpd02273	C03618	-1.0	-1.0	alias	True	-1.0932148483013748	residual charge	L-threo-3-Methylaspartate
+rxn00195	cpd00023	C00025	1.0	1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn00193	cpd00023	C00025	-1.0	-1.0	alias	True	-1.250793500794505	residual charge	L-Glutamate
+rxn00193	cpd00186	C00217	1.0	1.0	alias	True	1.250793500794505	residual charge	D-Glutamate
+rxn00849	cpd00117	C00133	-1.0	-1.0	alias	True	-1.1656446757781587	residual charge	D-Alanine
+rxn00849	cpd00024	C00026	-1.0	-1.0	alias	True	-0.0	identical	2-Oxoglutarate
+rxn00849	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00849	cpd00186	C00217	1.0	1.0	alias	True	1.250793500794505	residual charge	D-Glutamate
+rxn00220	cpd00079	C00092	-1.0	-1.0	alias	True	-0.0	identical	D-glucose-6-phosphate
+rxn00220	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00220	cpd00027	C00031	1.0	1.0	alias	True	0.0	identical	D-Glucose
+rxn00220	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn02622	cpd01701	C02614	-1.0	-1.0	alias	False	-0.0	stereo	S-Citramalate
+rxn02622	cpd01194	C01732	1.0	1.0	alias	True	0.0	identical	Mesaconate
+rxn02622	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn00007	cpd00794	C01083	-1.0	-1.0	alias	True	-0.0	identical	TRHL
+rxn00007	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00007	cpd00027	C00031	2.0	2.0	alias	True	0.0	identical	D-Glucose
+rxn01301	cpd00227	C00263	-1.0	-1.0	alias	True	-1.2176311631503576	residual charge	L-Homoserine
+rxn01301	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01301	cpd00346	C00441	1.0	1.0	alias	True	1.2568088699253328	residual charge	L-Aspartate4-semialdehyde
+rxn01301	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00698	cpd00158	C00185	-1.0	-1.0	alias	True	-0.0	identical	CELB
+rxn00698	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn00698	cpd00027	C00031	1.0	1.0	alias	True	0.0	identical	D-Glucose
+rxn00698	cpd00089	C00103	1.0	1.0	alias	True	0.0	identical	Glucose-1-phosphate
+rxn00265	cpd00137	C00158	-1.0	-1.0	alias	True	-0.0	identical	Citrate
+rxn00265	cpd00029	C00033	1.0	1.0	alias	True	0.0	identical	Acetate
+rxn00265	cpd00032	C00036	1.0	1.0	alias	True	0.0	identical	Oxaloacetate
+rxn00558	cpd00079	C00092	-1.0	-1.0	alias	True	-0.0	identical	D-glucose-6-phosphate
+rxn00558	cpd00072	C00085	1.0	1.0	alias	True	0.0	identical	D-fructose-6-phosphate
+rxn01692	cpd00702	C00951	-1.0	-1.0	alias	True	-0.0	identical	Estradiol
+rxn01692	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01692	cpd00362	C00468	1.0	1.0	alias	True	0.0	identical	Estrone
+rxn01692	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00545	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00545	cpd00072	C00085	-1.0	-1.0	alias	True	-0.0	identical	D-fructose-6-phosphate
+rxn00545	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00545	cpd00290	C00354	1.0	1.0	alias	True	0.0	identical	D-fructose-1,6-bisphosphate
+rxn00543	cpd00363	C00469	-1.0	-1.0	alias	True	-4.558672708494764e-08	identical	Ethanol
+rxn00543	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00543	cpd00071	C00084	1.0	1.0	alias	True	-8.52471784261208e-07	identical	Acetaldehyde
+rxn00543	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00364	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00364	cpd00046	C00055	-1.0	-1.0	alias	True	-3.923817300887682	tautomer	CMP
+rxn00364	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00364	cpd00096	C00112	1.0	1.0	alias	True	3.9238168632551456	tautomer	CDP
+rxn00216	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00216	cpd00027	C00031	-1.0	-1.0	alias	True	-0.0	identical	D-Glucose
+rxn00216	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00216	cpd00079	C00092	1.0	1.0	alias	True	0.0	identical	D-glucose-6-phosphate
+rxn01130	cpd01269	C01845	1.0	-1.0	alias	True	0.0	identical	2-Propanol
+rxn01130	cpd00006	C00006	1.0	-1.0	alias	False	-3.0047286491320713	residual charge+protonation	NADP
+rxn01130	cpd00178	C00207	-1.0	1.0	alias	True	-0.0	identical	Acetone
+rxn01130	cpd00005	C00005	-1.0	1.0	alias	True	4.027622726177846	tautomer	NADPH
+rxn00741	cpd03561	C05984	-1.0	-1.0	alias	True	-0.0	identical	2-Hydroxybutyrate
+rxn00741	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00741	cpd00094	C00109	1.0	1.0	alias	True	0.0	identical	2-Oxobutyrate
+rxn00741	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00347	cpd00041	C00049	-1.0	-1.0	alias	True	-1.3113805942280115	residual charge	L-Aspartate
+rxn00347	cpd00106	C00122	1.0	1.0	alias	True	0.0	identical	Fumarate
+rxn00347	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn00746	cpd02148	C03394	-1.0	-1.0	alias	True	-0.0	identical	Erythrulose 1-phosphate
+rxn00746	cpd00055	C00067	1.0	1.0	alias	True	0.0	identical	Formaldehyde
+rxn00746	cpd00095	C00111	1.0	1.0	alias	True	0.0	identical	Glycerone-phosphate
+rxn00178	cpd00022	C00024	-2.0	-2.0	alias	True	26.07972883585528	residual charge+tautomer	Acetyl-CoA
+rxn00178	cpd00010	C00010	1.0	1.0	alias	True	-13.039863834417554	residual charge+tautomer	CoA
+rxn00178	cpd00279	C00332	1.0	1.0	alias	True	-13.0398620838873	residual charge+tautomer	Acetoacetyl-CoA
+rxn00065	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00065	cpd00446	C00575	1.0	1.0	alias	True	0.466723323552154	residual charge	cAMP
+rxn00065	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn00702	cpd00052	C00063	-1.0	-1.0	alias	True	-3.9238218230909765	tautomer	CTP
+rxn00702	cpd00089	C00103	-1.0	-1.0	alias	True	-0.0	identical	Glucose-1-phosphate
+rxn00702	cpd00390	C00501	1.0	1.0	alias	True	3.9238180302753154	tautomer	CDP-glucose
+rxn00702	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn00290	cpd00078	C00091	-1.0	-1.0	alias	True	11.587607856006473	residual charge+tautomer	Succinyl-CoA
+rxn00290	cpd00142	C00164	-1.0	-1.0	alias	True	-0.0	identical	Acetoacetate
+rxn00290	cpd00036	C00042	1.0	1.0	alias	True	0.0	identical	Succinate
+rxn00290	cpd00279	C00332	1.0	1.0	alias	True	-13.0398620838873	residual charge+tautomer	Acetoacetyl-CoA
+rxn00396	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00396	cpd00051	C00062	-1.0	-1.0	alias	True	-1.7887947345099107	residual charge	L-Arginine
+rxn00396	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00396	cpd03535	C05945	1.0	1.0	alias	True	2.553422464695307	residual charge	Phosphoarginine
+rxn00172	cpd00010	C00010	-1.0	-1.0	alias	True	13.039863834417554	residual charge+tautomer	CoA
+rxn00172	cpd00029	C00033	-1.0	-1.0	alias	True	-0.0	identical	Acetate
+rxn00172	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00172	cpd00022	C00024	1.0	1.0	alias	True	-13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn00172	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00172	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn01106	cpd00482	C00631	-1.0	-1.0	alias	True	-0.0	identical	2-Phospho-D-glycerate
+rxn01106	cpd00169	C00197	1.0	1.0	alias	True	0.0	identical	3-Phosphoglycerate
+rxn01366	cpd00249	C00299	-1.0	-1.0	alias	True	1.0551938044181521	tautomer	Uridine
+rxn01366	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn01366	cpd00092	C00106	1.0	1.0	alias	True	1.2200262350516367	tautomer	Uracil
+rxn01366	cpd00475	C00620	1.0	1.0	alias	True	0.0	identical	Ribose 1-phosphate
+rxn01259	cpd00217	C00252	-1.0	-1.0	alias	True	-0.0	identical	Brachiose
+rxn01259	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn01259	cpd00027	C00031	2.0	2.0	alias	True	0.0	identical	D-Glucose
+rxn01329	cpd00485	C00636	1.0	-1.0	alias	True	0.0	identical	D-Mannose1-phosphate
+rxn01329	cpd00235	C00275	-1.0	1.0	alias	True	-0.0	identical	D-mannose-6-phosphate
+rxn00086	cpd00042	C00051	-2.0	-2.0	alias	True	21.753137052401065	residual charge+tautomer	GSH
+rxn00086	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn00086	cpd00111	C00127	1.0	1.0	alias	True	-21.7531377817887	residual charge+tautomer	Oxidized glutathione
+rxn00086	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn15750	cpd00176	C00204	-1.0	-1.0	alias	True	-0.0	identical	2-keto-3-deoxygluconate
+rxn15750	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn15750	cpd00448	C00577	1.0	1.0	alias	True	0.0	identical	D-Glyceraldehyde
+rxn00515	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00515	cpd00090	C00104	-1.0	-1.0	alias	True	0.24632032697102216	tautomer	IDP
+rxn00515	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00515	cpd00068	C00081	1.0	1.0	alias	True	-0.24632703733721645	tautomer	ITP
+rxn00175	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00175	cpd00029	C00033	-1.0	-1.0	alias	True	-0.0	identical	Acetate
+rxn00175	cpd00010	C00010	-1.0	-1.0	alias	True	13.039863834417554	residual charge+tautomer	CoA
+rxn00175	cpd00018	C00020	1.0	1.0	alias	True	0.05756691810505796	residual charge	AMP
+rxn00175	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn00175	cpd00022	C00024	1.0	1.0	alias	True	-13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn33879	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn33879	cpd00029	C00033	-1.0	-1.0	alias	True	-0.0	identical	Acetate
+rxn33879	cpd00010	C00010	-1.0	-1.0	alias	True	13.039863834417554	residual charge+tautomer	CoA
+rxn33879	cpd00018	C00020	1.0	1.0	alias	True	0.05756691810505796	residual charge	AMP
+rxn33879	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn33879	cpd00022	C00024	1.0	1.0	alias	True	-13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn16378	cpd08505	C11695	-1.0	-1.0	alias	True	6.3624009666661925	tautomer	Anandamide
+rxn16378	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn16378	cpd00162	C00189	1.0	1.0	alias	True	-0.22933492241124848	residual charge	Aminoethanol
+rxn16378	cpd00188	C00219	1.0	1.0	alias	True	0.0	identical	Arachidonate
+rxn01385	cpd00306	C00379	-1.0	-1.0	alias	True	-0.0	identical	Xylitol
+rxn01385	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01385	cpd00259	C00310	1.0	1.0	alias	True	0.0	identical	D-Lyxulose
+rxn01385	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01675	cpd00357	C00459	-1.0	-1.0	alias	True	1.0627877871802862	tautomer	TTP
+rxn01675	cpd00089	C00103	-1.0	-1.0	alias	True	-0.0	identical	Glucose-1-phosphate
+rxn01675	cpd00626	C00842	1.0	1.0	alias	True	-1.0627895377106498	tautomer	dTDPglucose
+rxn01675	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn00237	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00237	cpd00031	C00035	-1.0	-1.0	alias	True	-0.5977591228302934	tautomer	GDP
+rxn00237	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00237	cpd00038	C00044	1.0	1.0	alias	True	0.5977629156458999	tautomer	GTP
+rxn00798	cpd00105	C00121	-1.0	-1.0	alias	True	-0.0	identical	D-Ribose
+rxn00798	cpd00258	C00309	1.0	1.0	alias	True	0.0	identical	D-Ribulose
+rxn00499	cpd00159	C00186	-1.0	-1.0	alias	True	-0.0	identical	L-Lactate
+rxn00499	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00499	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00499	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00974	cpd00137	C00158	-1.0	-1.0	alias	True	-0.0	identical	Citrate
+rxn00974	cpd00331	C00417	1.0	1.0	alias	True	0.0	identical	cis-Aconitate
+rxn00974	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn00117	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00117	cpd00014	C00015	-1.0	-1.0	alias	True	1.0551922362347785	tautomer	UDP
+rxn00117	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00117	cpd00062	C00075	1.0	1.0	alias	True	-1.055186984643851	tautomer	UTP
+rxn00992	cpd00797	C01089	-1.0	-1.0	alias	True	-0.0	identical	(R)-3-Hydroxybutanoate
+rxn00992	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00992	cpd00142	C00164	1.0	1.0	alias	True	0.0	identical	Acetoacetate
+rxn00992	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00248	cpd00130	C00149	-1.0	-1.0	alias	True	-0.0	identical	L-Malate
+rxn00248	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00248	cpd00032	C00036	1.0	1.0	alias	True	0.0	identical	Oxaloacetate
+rxn00248	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00930	cpd00129	C00148	-1.0	-1.0	alias	True	4.266273879640187	residual charge	L-Proline
+rxn00930	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn00930	cpd02235	C03564	1.0	1.0	alias	True	0.0	identical	1-Pyrroline-2-carboxylate
+rxn00930	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01368	cpd00367	C00475	-1.0	-1.0	alias	True	-3.9238184770252236	tautomer	Cytidine
+rxn01368	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn01368	cpd00249	C00299	1.0	1.0	alias	True	-1.0551938044181521	tautomer	Uridine
+rxn01368	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn01362	cpd00810	C01103	-1.0	-1.0	alias	True	0.832694876034464	tautomer	Orotidylic acid
+rxn01362	cpd00012	C00013	-1.0	-1.0	alias	True	-0.0	identical	PPi
+rxn01362	cpd00247	C00295	1.0	1.0	alias	True	1.9416315286610857	tautomer	Orotate
+rxn01362	cpd00103	C00119	1.0	1.0	alias	True	0.0	identical	PRPP
+rxn00838	cpd00038	C00044	-1.0	-1.0	alias	True	-0.5977629156458999	tautomer	GTP
+rxn00838	cpd00114	C00130	-1.0	-1.0	alias	True	0.2463184305632189	tautomer	IMP
+rxn00838	cpd00041	C00049	-1.0	-1.0	alias	True	-1.3113805942280115	residual charge	L-Aspartate
+rxn00838	cpd00031	C00035	1.0	1.0	alias	True	0.5977591228302934	tautomer	GDP
+rxn00838	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00838	cpd02375	C03794	1.0	1.0	alias	True	0.0	identical	Adenylosuccinate
+rxn01138	cpd00182	C00212	-1.0	-1.0	alias	True	0.13346546238739937	residual charge	Adenosine
+rxn01138	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn01138	cpd00128	C00147	1.0	1.0	alias	True	1.3793691485607396	tautomer	Adenine
+rxn01138	cpd00475	C00620	1.0	1.0	alias	True	0.0	identical	Ribose 1-phosphate
+rxn00704	cpd00089	C00103	-1.0	-1.0	alias	True	-0.0	identical	Glucose-1-phosphate
+rxn00704	cpd00079	C00092	1.0	1.0	alias	True	0.0	identical	D-glucose-6-phosphate
+rxn01887	cpd00458	C00590	-1.0	-1.0	alias	True	-0.0	identical	Coniferol
+rxn01887	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn01887	cpd01733	C02666	1.0	1.0	alias	True	0.0	identical	Ferulaldehyde
+rxn01887	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01513	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn01513	cpd00298	C00364	-1.0	-1.0	alias	True	1.0627882248129044	tautomer	dTMP
+rxn01513	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn01513	cpd00297	C00363	1.0	1.0	alias	True	-1.062785161384904	tautomer	dTDP
+rxn00636	cpd00138	C00159	-1.0	-1.0	alias	True	-0.0	identical	D-Mannose
+rxn00636	cpd00082	C00095	1.0	1.0	alias	True	0.0	identical	D-Fructose
+rxn02625	cpd02273	C03618	-1.0	-1.0	alias	True	-1.0932148483013748	residual charge	L-threo-3-Methylaspartate
+rxn02625	cpd01194	C01732	1.0	1.0	alias	True	0.0	identical	Mesaconate
+rxn02625	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn00931	cpd00129	C00148	-1.0	-1.0	alias	True	4.266273879640187	residual charge	L-Proline
+rxn00931	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn00931	cpd02431	C03912	1.0	1.0	alias	True	0.0	identical	1-Pyrroline-5-carboxylate
+rxn00931	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01358	cpd00246	C00294	-1.0	-1.0	alias	True	0.2463189411345704	tautomer	Inosine
+rxn01358	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn01358	cpd00226	C00262	1.0	1.0	alias	True	-0.24631901407333104	tautomer	HYXN
+rxn01358	cpd00475	C00620	1.0	1.0	alias	True	0.0	identical	Ribose 1-phosphate
+rxn00817	cpd03198	C05402	-1.0	-1.0	alias	True	-0.0	identical	Melibiose
+rxn00817	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00817	cpd00108	C00124	1.0	1.0	alias	True	0.0	identical	Galactose
+rxn00817	cpd00027	C00031	1.0	1.0	alias	True	0.0	identical	D-Glucose
+rxn01302	cpd00227	C00263	-1.0	-1.0	alias	True	-1.2176311631503576	residual charge	L-Homoserine
+rxn01302	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn01302	cpd00346	C00441	1.0	1.0	alias	True	1.2568088699253328	residual charge	L-Aspartate4-semialdehyde
+rxn01302	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01480	cpd00876	C01188	-1.0	-1.0	alias	True	-0.0	identical	3-Hydroxyisobutyrate
+rxn01480	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01480	cpd00287	C00349	1.0	1.0	alias	True	0.0	identical	3-Oxo-2-methylpropanoate
+rxn01480	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00001	cpd00012	C00013	-1.0	-1.0	alias	True	-0.0	identical	PPi
+rxn00001	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00001	cpd00009	C00009	2.0	2.0	alias	True	0.0	identical	Phosphate
+rxn42569	cpd00012	C00013	-1.0	-1.0	alias	True	-0.0	identical	PPi
+rxn42569	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn42569	cpd00009	C00009	2.0	2.0	alias	True	0.0	identical	Phosphate
+rxn48873	cpd00012	C00013	-1.0	-1.0	alias	True	-0.0	identical	PPi
+rxn48873	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn48873	cpd00009	C00009	2.0	2.0	alias	True	0.0	identical	Phosphate
+rxn01219	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn01219	cpd00206	C00239	-1.0	-1.0	alias	True	-3.9238186137854005	tautomer	dCMP
+rxn01219	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn01219	cpd00533	C00705	1.0	1.0	alias	True	3.9238142374596547	tautomer	dCDP
+rxn00223	cpd00027	C00031	-1.0	-1.0	alias	True	-0.0	identical	D-Glucose
+rxn00223	cpd00082	C00095	1.0	1.0	alias	True	0.0	identical	D-Fructose
+rxn01392	cpd00306	C00379	-1.0	-1.0	alias	True	-0.0	identical	Xylitol
+rxn01392	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn01392	cpd00261	C00312	1.0	1.0	alias	True	0.0	identical	L-Lyxulose
+rxn01392	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn02322	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn02322	cpd00812	C01107	-1.0	-1.0	alias	False	-0.0	stereo	5-phosphomevalonate
+rxn02322	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn02322	cpd00841	C01143	1.0	1.0	alias	False	0.0	stereo	5-diphosphomevalonate
+rxn00234	cpd01701	C02614	-1.0	-1.0	alias	False	-0.0	stereo	S-Citramalate
+rxn00234	cpd00029	C00033	1.0	1.0	alias	True	0.0	identical	Acetate
+rxn00234	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn01451	cpd00842	C01144	-1.0	-1.0	alias	True	13.039869377763525	residual charge+tautomer	(S)-3-Hydroxybutyryl-CoA
+rxn01451	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01451	cpd00279	C00332	1.0	1.0	alias	True	-13.0398620838873	residual charge+tautomer	Acetoacetyl-CoA
+rxn01451	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00559	cpd00235	C00275	-1.0	-1.0	alias	True	-0.0	identical	D-mannose-6-phosphate
+rxn00559	cpd00072	C00085	1.0	1.0	alias	True	0.0	identical	D-fructose-6-phosphate
+rxn39443	cpd03292	C05551	-1.0	-1.0	alias	True	5.876313860512143	tautomer	Penicillin G
+rxn39443	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn39443	cpd01896	C02954	1.0	1.0	alias	True	0.0	identical	6-Aminopenicillanate
+rxn39443	cpd19069	C07086	1.0	1.0	alias	True	0.0	identical	Phenylacetic acid
+rxn01579	cpd00323	C00408	-1.0	-1.0	alias	True	4.266272539390433	residual charge	L-Pipecolate
+rxn01579	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn01579	cpd00922	C04092	1.0	1.0	alias	True	0.0	identical	delta1-Piperideine-2-carboxylate
+rxn01579	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01280	cpd00223	C00258	-1.0	-1.0	alias	True	-0.0	identical	Glycerate
+rxn01280	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01280	cpd00843	C01146	1.0	1.0	alias	True	2.1881628185620677e-07	identical	Tartronate semialdehyde
+rxn01280	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn04943	cpd01066	C01507	-1.0	-1.0	alias	True	-0.0	identical	L-Iditol
+rxn04943	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn04943	cpd00212	C00247	1.0	1.0	alias	True	0.0	identical	L-Sorbose
+rxn04943	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01333	cpd00238	C05382	-1.0	-1.0	alias	True	-0.0	identical	Sedoheptulose7-phosphate
+rxn01333	cpd00102	C00118	-1.0	-1.0	alias	True	-0.0	identical	Glyceraldehyde3-phosphate
+rxn01333	cpd00236	C00279	1.0	1.0	alias	True	0.0	identical	D-Erythrose4-phosphate
+rxn01333	cpd00072	C00085	1.0	1.0	alias	True	0.0	identical	D-fructose-6-phosphate
+rxn00182	cpd00023	C00025	-1.0	-1.0	alias	True	-1.250793500794505	residual charge	L-Glutamate
+rxn00182	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00182	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00182	cpd00024	C00026	1.0	1.0	alias	True	0.0	identical	2-Oxoglutarate
+rxn00182	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00182	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn00320	cpd00039	C00047	-1.0	-1.0	alias	True	-1.4831032762108018	residual charge	L-Lysine
+rxn00320	cpd00549	C00739	1.0	1.0	alias	True	1.4831032762108018	residual charge	D-Lysine
+rxn00459	cpd00482	C00631	-1.0	-1.0	alias	True	-0.0	identical	2-Phospho-D-glycerate
+rxn00459	cpd00061	C00074	1.0	1.0	alias	True	0.0	identical	Phosphoenolpyruvate
+rxn00459	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn01974	cpd00504	C00666	-1.0	-1.0	alias	True	-2.400791977833148	residual charge	LL-2,6-Diaminopimelate
+rxn01974	cpd00516	C00680	1.0	1.0	alias	True	2.400791977833148	residual charge	meso-2,6-Diaminopimelate
+rxn00510	cpd00351	C00449	-1.0	-1.0	alias	True	3.0154770236626196	residual charge	Saccharopine
+rxn00510	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00510	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00510	cpd00039	C00047	1.0	1.0	alias	True	1.4831032762108018	residual charge	L-Lysine
+rxn00510	cpd00024	C00026	1.0	1.0	alias	True	0.0	identical	2-Oxoglutarate
+rxn00510	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01322	cpd00232	C00270	-1.0	-1.0	alias	True	5.525698543278707	tautomer	Neu5Ac
+rxn01322	cpd00492	C00645	1.0	1.0	alias	True	-5.380981109794182	tautomer	N-Acetyl-D-mannosamine
+rxn01322	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00306	cpd00038	C00044	-1.0	-1.0	alias	True	-0.5977629156458999	tautomer	GTP
+rxn00306	cpd00036	C00042	-1.0	-1.0	alias	True	-0.0	identical	Succinate
+rxn00306	cpd00010	C00010	-1.0	-1.0	alias	True	13.039863834417554	residual charge+tautomer	CoA
+rxn00306	cpd00031	C00035	1.0	1.0	alias	True	0.5977591228302934	tautomer	GDP
+rxn00306	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00306	cpd00078	C00091	1.0	1.0	alias	True	-11.587607856006473	residual charge+tautomer	Succinyl-CoA
+rxn01386	cpd00368	C00476	1.0	-1.0	alias	True	0.0	identical	D-Lyxose
+rxn01386	cpd00259	C00310	-1.0	1.0	alias	True	-0.0	identical	D-Lyxulose
+rxn00781	cpd00102	C00118	-1.0	-1.0	alias	True	-0.0	identical	Glyceraldehyde3-phosphate
+rxn00781	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn00781	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00781	cpd00203	C00236	1.0	1.0	alias	True	0.0	identical	1,3-Bisphospho-D-glycerate
+rxn00781	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01277	cpd00222	C00257	-1.0	-1.0	alias	True	-0.0	identical	GLCN
+rxn01277	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn01277	cpd00480	C06473	1.0	1.0	alias	True	0.0	identical	2-Dehydro-D-gluconate
+rxn01277	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn13790	cpd00222	C00257	-1.0	-1.0	alias	True	-0.0	identical	GLCN
+rxn13790	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn13790	cpd00480	C06473	1.0	1.0	alias	True	0.0	identical	2-Dehydro-D-gluconate
+rxn13790	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01054	cpd00159	C00186	-1.0	-1.0	alias	True	-0.0	identical	L-Lactate
+rxn01054	cpd00032	C00036	-1.0	-1.0	alias	True	-0.0	identical	Oxaloacetate
+rxn01054	cpd00130	C00149	1.0	1.0	alias	True	0.0	identical	L-Malate
+rxn01054	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00187	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00187	cpd00023	C00025	-1.0	-1.0	alias	True	-1.250793500794505	residual charge	L-Glutamate
+rxn00187	cpd00013	C00014	-1.0	-1.0	alias	True	-5.335632756380916	residual charge	NH3
+rxn00187	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00187	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00187	cpd00053	C00064	1.0	1.0	alias	True	-4.407674833191968	residual charge+tautomer	L-Glutamine
+rxn08066	cpd00038	C00044	-1.0	-1.0	alias	True	-0.5977629156458999	tautomer	GTP
+rxn08066	cpd00018	C00020	-1.0	-1.0	alias	True	-0.05756691810505796	residual charge	AMP
+rxn08066	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn08066	cpd00031	C00035	1.0	1.0	alias	True	0.5977591228302934	tautomer	GDP
+rxn01336	cpd00420	C00535	-1.0	-1.0	alias	True	-0.0	identical	Testosterone
+rxn01336	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01336	cpd00237	C00280	1.0	1.0	alias	True	0.0	identical	Androstenedione
+rxn01336	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn53944	cpd00216	C00251	-1.0	-1.0	alias	True	-0.0	identical	Chorismate
+rxn53944	cpd00013	C00014	-1.0	-1.0	alias	True	-5.335632756380916	residual charge	NH3
+rxn53944	cpd17073	C18054	1.0	1.0	alias	True	4.41739503557778	residual charge	2-amino-2-deoxyisochorismic acid
+rxn53944	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn01080	cpd00164	C00191	-1.0	-1.0	alias	True	-0.0	identical	Glucuronate
+rxn01080	cpd00672	C00905	1.0	1.0	alias	True	0.0	identical	D-Fructuronate
+rxn10427	cpd00177	C00206	2.0	-2.0	alias	True	-1.4863250907475252	residual charge	dADP
+rxn10427	cpd00294	C00360	-1.0	1.0	alias	True	-0.05756720986010043	residual charge	dAMP
+rxn10427	cpd00115	C00131	-1.0	1.0	alias	True	0.3348671090762341	residual charge	dATP
+rxn00105	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00105	cpd00355	C00455	-1.0	-1.0	alias	True	1.5103606010714308	tautomer	Nicotinamide ribonucleotide
+rxn00105	cpd00003	C00003	1.0	1.0	alias	False	-3.0047309831725197	residual charge+protonation	NAD
+rxn00105	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn00462	cpd00061	C00074	-1.0	-1.0	alias	True	-0.0	identical	Phosphoenolpyruvate
+rxn00462	cpd01807	C02798	1.0	1.0	alias	True	0.0	identical	3-Phosphonopyruvate
+rxn00132	cpd00018	C00020	-1.0	-1.0	alias	True	-0.05756691810505796	residual charge	AMP
+rxn00132	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00132	cpd00182	C00212	1.0	1.0	alias	True	-0.13346546238739937	residual charge	Adenosine
+rxn00132	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn00630	cpd00314	C00392	-1.0	-1.0	alias	True	-0.0	identical	D-Mannitol
+rxn00630	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn00630	cpd00082	C00095	1.0	1.0	alias	True	0.0	identical	D-Fructose
+rxn00630	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01293	cpd00435	C00556	-1.0	-1.0	alias	True	-0.0	identical	Phenylcarbinol
+rxn01293	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01293	cpd00225	C00261	1.0	1.0	alias	True	0.0	identical	Benzaldehyde
+rxn01293	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01740	cpd00383	C00493	-1.0	-1.0	alias	True	-0.0	identical	Shikimate
+rxn01740	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn01740	cpd01716	C02637	1.0	1.0	alias	True	0.0	identical	3-Dehydroshikimate
+rxn01740	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01423	cpd00705	C00956	-1.0	-1.0	alias	True	-1.200396061855338	residual charge	L-2-Aminoadipate
+rxn01423	cpd00024	C00026	-1.0	-1.0	alias	True	-0.0	identical	2-Oxoglutarate
+rxn01423	cpd00269	C00322	1.0	1.0	alias	True	0.0	identical	2-Oxoadipate
+rxn01423	cpd00023	C00025	1.0	1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn00799	cpd00106	C00122	1.0	-1.0	alias	True	0.0	identical	Fumarate
+rxn00799	cpd00001	C00001	1.0	-1.0	alias	True	0.0	identical	H2O
+rxn00799	cpd00130	C00149	-1.0	1.0	alias	True	-0.0	identical	L-Malate
+rxn30674	cpd00106	C00122	-1.0	-1.0	alias	True	-0.0	identical	Fumarate
+rxn30674	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn30674	cpd00130	C00149	1.0	1.0	alias	True	0.0	identical	L-Malate
+rxn00577	cpd00076	C00089	-1.0	-1.0	alias	True	-0.0	identical	Sucrose
+rxn00577	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn00577	cpd00089	C00103	1.0	1.0	alias	True	0.0	identical	Glucose-1-phosphate
+rxn00577	cpd00082	C00095	1.0	1.0	alias	True	0.0	identical	D-Fructose
+rxn00225	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00225	cpd00029	C00033	-1.0	-1.0	alias	True	-0.0	identical	Acetate
+rxn00225	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00225	cpd00196	C00227	1.0	1.0	alias	True	0.0	identical	Acetylphosphate
+rxn03884	cpd02711	C04442	-1.0	-1.0	alias	True	-0.0	identical	2-Keto-3-deoxy-6-phosphogluconate
+rxn03884	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn03884	cpd00102	C00118	1.0	1.0	alias	True	0.0	identical	Glyceraldehyde3-phosphate
+rxn00213	cpd00062	C00075	-1.0	-1.0	alias	True	1.055186984643851	tautomer	UTP
+rxn00213	cpd00089	C00103	-1.0	-1.0	alias	True	-0.0	identical	Glucose-1-phosphate
+rxn00213	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn00213	cpd00026	C00029	1.0	1.0	alias	True	-1.0551928197449179	tautomer	UDP-glucose
+rxn00674	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00674	cpd00141	C00163	-1.0	-1.0	alias	True	6.564488591545236e-07	identical	Propionate
+rxn00674	cpd00010	C00010	-1.0	-1.0	alias	True	13.039863834417554	residual charge+tautomer	CoA
+rxn00674	cpd00018	C00020	1.0	1.0	alias	True	0.05756691810505796	residual charge	AMP
+rxn00674	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn00674	cpd00086	C00100	1.0	1.0	alias	True	-13.039866460212991	residual charge+tautomer	Propionyl-CoA
+rxn01380	cpd00052	C00063	-1.0	-1.0	alias	True	-3.9238218230909765	tautomer	CTP
+rxn01380	cpd00457	C00588	-1.0	-1.0	alias	False	-0.19103256283936565	protonation	Phosphocholine
+rxn01380	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn01380	cpd00256	C00307	1.0	1.0	alias	True	3.923821823090949	tautomer	CDPcholine
+rxn00686	cpd00087	C00101	-1.0	-1.0	alias	True	0.8496966097596466	residual charge+tautomer	Tetrahydrofolate
+rxn00686	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn00686	cpd00330	C00415	1.0	1.0	alias	True	-0.465431505133952	residual charge+tautomer	Dihydrofolate
+rxn00686	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn00611	cpd00080	C00093	-1.0	-1.0	alias	True	-0.0	identical	Glycerol-3-phosphate
+rxn00611	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00611	cpd00095	C00111	1.0	1.0	alias	True	0.0	identical	Glycerone-phosphate
+rxn00611	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00217	cpd00027	C00031	-1.0	-1.0	alias	True	-0.0	identical	D-Glucose
+rxn00217	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00217	cpd00170	C00198	1.0	1.0	alias	True	0.0	identical	Gluconolactone
+rxn00217	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01465	cpd00282	C00337	-1.0	-1.0	alias	True	8.332799397280752	tautomer	S-Dihydroorotate
+rxn01465	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn01465	cpd00343	C00438	1.0	1.0	alias	True	0.0	identical	N-Carbamoyl-L-aspartate
+rxn01702	cpd01691	C02588	-1.0	-1.0	alias	True	-0.0	identical	Retinol palmitate
+rxn01702	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn01702	cpd00365	C00473	1.0	1.0	alias	True	0.0	identical	Retinol
+rxn01702	cpd00214	C00249	1.0	1.0	alias	True	0.0	identical	Palmitate
+rxn01043	cpd00306	C00379	-1.0	-1.0	alias	True	-0.0	identical	Xylitol
+rxn01043	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn01043	cpd00154	C00181	1.0	1.0	alias	True	0.0	identical	Xylose
+rxn01043	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn02930	cpd02448	C03943	-1.0	-1.0	alias	True	-4.962589471791487	residual charge	2,4-Diaminopentanoate
+rxn02930	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn02930	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn02930	cpd02121	C03341	1.0	1.0	alias	True	1.271144965410689	residual charge	2-Amino-4-oxopentanoate
+rxn02930	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn02930	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn35675	cpd02448	C03943	-1.0	-1.0	alias	True	-4.962589471791487	residual charge	2,4-Diaminopentanoate
+rxn35675	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn35675	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn35675	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn35675	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn35675	cpd24394	C03341	1.0	1.0	inchikey	True	1.271144965410689	residual charge	2-amino-4-ketopentanoate
+rxn00987	cpd01705	C03652	-1.0	-1.0	alias	True	-0.0	identical	2,3-Dimethylmalate
+rxn00987	cpd00141	C00163	1.0	1.0	alias	True	-6.564488591545236e-07	identical	Propionate
+rxn00987	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00990	cpd00022	C00024	1.0	-1.0	alias	True	-13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn00990	cpd00142	C00164	1.0	-1.0	alias	True	0.0	identical	Acetoacetate
+rxn00990	cpd00279	C00332	-1.0	1.0	alias	True	13.0398620838873	residual charge+tautomer	Acetoacetyl-CoA
+rxn00990	cpd00029	C00033	-1.0	1.0	alias	True	-0.0	identical	Acetate
+rxn01253	cpd00419	C00534	-1.0	-1.0	alias	True	0.6178307031810196	residual charge	PM
+rxn01253	cpd00020	C00022	-1.0	-1.0	alias	True	1.4587752123747118e-07	identical	Pyruvate
+rxn01253	cpd00215	C00250	1.0	1.0	alias	True	0.0	identical	Pyridoxal
+rxn01253	cpd00035	C00041	1.0	1.0	alias	True	1.1656446757781587	residual charge	L-Alanine
+rxn01174	cpd00745	C01013	-1.0	-1.0	alias	True	-0.0	identical	Hydracrylic acid
+rxn01174	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01174	cpd00191	C00222	1.0	1.0	alias	True	-7.293876061873559e-08	identical	3-Oxopropanoate
+rxn01174	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn17239	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn17239	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn17239	cpd02294	C03656	1.0	1.0	alias	True	4.349978781567023	residual charge	(S)-5-Amino-3-oxohexanoate
+rxn17239	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn17239	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn17239	cpd22771	C01186	-1.0	-1.0	inchikey	True	-6.708274662608628	residual charge	(3S,5S)-3,5-diaminocaproate
+rxn01204	cpd00281	C00334	-1.0	-1.0	alias	True	-0.6691543390372515	residual charge	GABA
+rxn01204	cpd00024	C00026	-1.0	-1.0	alias	True	-0.0	identical	2-Oxoglutarate
+rxn01204	cpd00199	C00232	1.0	1.0	alias	True	0.0	identical	4-Oxobutanoate
+rxn01204	cpd00023	C00025	1.0	1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn00495	cpd00066	C00079	-1.0	-1.0	alias	True	-1.2492907799452664	residual charge	L-Phenylalanine
+rxn00495	cpd00333	C00423	1.0	1.0	alias	True	0.0	identical	(E)-Cinnamate
+rxn00495	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn00239	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00239	cpd00126	C00144	-1.0	-1.0	alias	True	-0.5977608733605755	tautomer	GMP
+rxn00239	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00239	cpd00031	C00035	1.0	1.0	alias	True	0.5977591228302934	tautomer	GDP
+rxn01152	cpd00185	C00216	-1.0	-1.0	alias	True	-0.0	identical	D-Arabinose
+rxn01152	cpd00258	C00309	1.0	1.0	alias	True	0.0	identical	D-Ribulose
+rxn01117	cpd00817	C01112	-1.0	-1.0	alias	True	-0.0	identical	D-Arabinose5-phosphate
+rxn01117	cpd00171	C00199	1.0	1.0	alias	True	0.0	identical	D-Ribulose5-phosphate
+rxn01099	cpd00169	C00197	-1.0	-1.0	alias	True	-0.0	identical	3-Phosphoglycerate
+rxn01099	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn01099	cpd00223	C00258	1.0	1.0	alias	True	0.0	identical	Glycerate
+rxn01099	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn01985	cpd03279	C05512	-1.0	-1.0	alias	True	0.24631948817528862	tautomer	Deoxyinosine
+rxn01985	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn01985	cpd00226	C00262	1.0	1.0	alias	True	-0.24631901407333104	tautomer	HYXN
+rxn01985	cpd00509	C00672	1.0	1.0	alias	True	0.0	identical	deoxyribose-1-phosphate
+rxn44278	cpd03884	C06468	1.0	-1.0	alias	True	0.0	identical	D-Psicose
+rxn44278	cpd03880	C06464	-1.0	1.0	alias	True	-0.0	identical	D-Altrose
+rxn01761	cpd00396	C00507	-1.0	-1.0	alias	True	-0.0	identical	L-Rhamnose
+rxn01761	cpd00642	C00861	1.0	1.0	alias	True	0.0	identical	L-Rhamnulose
+rxn03087	cpd02724	C04462	1.0	-1.0	alias	True	-6.6727273915511445	tautomer	N-Succinyl-L-2-amino-6-oxopimelate
+rxn03087	cpd00023	C00025	1.0	-1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn03087	cpd02698	C04421	-1.0	1.0	alias	True	5.472328813308504	residual charge+tautomer	N-Succinyl-L-2,6-diaminopimelate
+rxn03087	cpd00024	C00026	-1.0	1.0	alias	True	-0.0	identical	2-Oxoglutarate
+rxn01792	cpd00644	C00864	-1.0	-1.0	alias	True	6.002694926799829	tautomer	PAN
+rxn01792	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn01792	cpd00408	C00522	1.0	1.0	alias	True	0.0	identical	Pantoate
+rxn01792	cpd00085	C00099	1.0	1.0	alias	True	0.7789370389103208	residual charge	beta-Alanine
+rxn00283	cpd00035	C00041	-1.0	-1.0	alias	True	-1.1656446757781587	residual charge	L-Alanine
+rxn00283	cpd00117	C00133	1.0	1.0	alias	True	1.1656446757781587	residual charge	D-Alanine
+rxn00100	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00100	cpd00655	C00882	-1.0	-1.0	alias	True	13.039865293192822	residual charge+tautomer	Dephospho-CoA
+rxn00100	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00100	cpd00010	C00010	1.0	1.0	alias	True	-13.039863834417554	residual charge+tautomer	CoA
+rxn02756	cpd01876	C02930	-1.0	-1.0	alias	True	-0.0	identical	2-Methyleneglutarate
+rxn02756	cpd01545	C02295	1.0	1.0	alias	True	0.0	identical	Methylitaconate
+rxn02204	cpd01545	C02295	-1.0	-1.0	alias	True	-0.0	identical	Methylitaconate
+rxn02204	cpd00684	C00922	1.0	1.0	alias	True	0.0	identical	Dimethylmaleic acid
+rxn01005	cpd00880	C05385	-1.0	-1.0	alias	True	-0.0	identical	1-Phospho-alpha-D-glucuronate
+rxn01005	cpd00062	C00075	-1.0	-1.0	alias	True	1.055186984643851	tautomer	UTP
+rxn01005	cpd00144	C00167	1.0	1.0	alias	True	-1.055188151664021	tautomer	UDPglucuronate
+rxn01005	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn01019	cpd00146	C00169	-1.0	-1.0	alias	True	4.701865435102486	tautomer	Carbamoylphosphate
+rxn01019	cpd00064	C00077	-1.0	-1.0	alias	True	-1.4831023097722067	residual charge	Ornithine
+rxn01019	cpd00274	C00327	1.0	1.0	alias	True	1.2003953780544419	residual charge	Citrulline
+rxn01019	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn01447	cpd01394	C02043	-1.0	-1.0	alias	True	-0.0	identical	Indolelactate
+rxn01447	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01447	cpd00278	C00331	1.0	1.0	alias	True	0.0	identical	Indolepyruvate
+rxn01447	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn54659	cpd00107	C00123	-1.0	-1.0	alias	True	-1.203551429179616	residual charge	L-Leucine
+rxn54659	cpd01106	C01570	1.0	1.0	alias	True	1.203551429179616	residual charge	D-Leucine
+rxn01620	cpd00806	C01099	-1.0	-1.0	alias	True	-0.0	identical	L-Fuculose1-phosphate
+rxn01620	cpd00095	C00111	1.0	1.0	alias	True	0.0	identical	Glycerone-phosphate
+rxn01620	cpd00334	C00424	1.0	1.0	alias	True	-6.199794788451557e-07	identical	L-Lactaldehyde
+rxn00420	cpd00738	C01005	-1.0	-1.0	alias	True	-1.135465136905458	residual charge	phosphoserine
+rxn00420	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00420	cpd00054	C00065	1.0	1.0	alias	True	1.144820226082151	residual charge	L-Serine
+rxn00420	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn04785	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn04785	cpd09876	C14177	-1.0	-1.0	alias	True	-1.44740671774169	residual charge	Lombricine
+rxn04785	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn04785	cpd09877	C14178	1.0	1.0	alias	True	2.4884908468271942	residual charge	N-Phospholombricine
+rxn00337	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00337	cpd00041	C00049	-1.0	-1.0	alias	True	-1.3113805942280115	residual charge	L-Aspartate
+rxn00337	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00337	cpd01977	C03082	1.0	1.0	alias	True	1.3113794272078416	residual charge	4-Phospho-L-aspartate
+rxn02900	cpd02233	C03557	-1.0	-1.0	alias	True	-1.8097680203089543	residual charge	Ciliatine
+rxn02900	cpd00020	C00022	-1.0	-1.0	alias	True	1.4587752123747118e-07	identical	Pyruvate
+rxn02900	cpd02024	C03167	1.0	1.0	alias	True	0.0	identical	Phosphonoacetaldehyde
+rxn02900	cpd00035	C00041	1.0	1.0	alias	True	1.1656446757781587	residual charge	L-Alanine
+rxn00423	cpd00022	C00024	-1.0	-1.0	alias	True	13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn00423	cpd00054	C00065	-1.0	-1.0	alias	True	-1.144820226082151	residual charge	L-Serine
+rxn00423	cpd00010	C00010	1.0	1.0	alias	True	-13.039863834417554	residual charge+tautomer	CoA
+rxn00423	cpd00722	C00979	1.0	1.0	alias	True	1.1248689582197418	residual charge	O-Acetyl-L-serine
+rxn01643	cpd00346	C00441	-1.0	-1.0	alias	True	-1.2568088699253328	residual charge	L-Aspartate4-semialdehyde
+rxn01643	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn01643	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn01643	cpd01977	C03082	1.0	1.0	alias	True	1.3113794272078416	residual charge	4-Phospho-L-aspartate
+rxn01643	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn00500	cpd00221	C00256	-1.0	-1.0	alias	True	-0.0	identical	D-Lactate
+rxn00500	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00500	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00500	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00973	cpd00260	C00311	1.0	-1.0	alias	True	0.0	identical	Isocitrate
+rxn00973	cpd00137	C00158	-1.0	1.0	alias	True	-0.0	identical	Citrate
+rxn01410	cpd00266	C00318	-1.0	-1.0	alias	True	-0.0	identical	Carnitine
+rxn01410	cpd02543	C04114	1.0	1.0	alias	True	0.0	identical	4-(Trimethylammonio)but-2-enoate
+rxn01410	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn01157	cpd00186	C00217	-1.0	-1.0	alias	True	-1.250793500794505	residual charge	D-Glutamate
+rxn01157	cpd01512	C02237	1.0	1.0	alias	True	-6.684701784618952	tautomer	5-Oxo-D-proline
+rxn01157	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn01479	cpd00052	C00063	-1.0	-1.0	alias	True	-3.9238218230909765	tautomer	CTP
+rxn01479	cpd00285	C00346	-1.0	-1.0	alias	True	-0.10242615329605043	residual charge	Phosphoethanolamine
+rxn01479	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn01479	cpd00444	C00570	1.0	1.0	alias	True	3.225513407194854	residual charge+tautomer	CDPethanolamine
+rxn02320	cpd00807	C01100	-1.0	-1.0	alias	True	-3.089886915159504	residual charge+tautomer	L-histidinol-phosphate
+rxn02320	cpd00024	C00026	-1.0	-1.0	alias	True	-0.0	identical	2-Oxoglutarate
+rxn02320	cpd00930	C01267	1.0	1.0	alias	True	-0.4829090184053154	tautomer	imidazole acetol-phosphate
+rxn02320	cpd00023	C00025	1.0	1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn01100	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn01100	cpd00169	C00197	-1.0	-1.0	alias	True	-0.0	identical	3-Phosphoglycerate
+rxn01100	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn01100	cpd00203	C00236	1.0	1.0	alias	True	0.0	identical	1,3-Bisphospho-D-glycerate
+rxn03876	cpd03763	C06322	-1.0	-1.0	alias	True	13.039866460213046	residual charge+tautomer	Cyclohexa-1,5-dienecarbonyl-CoA
+rxn03876	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn03876	cpd04130	C06749	1.0	1.0	alias	True	-13.039870836538737	residual charge+tautomer	6-Hydroxycyclohex-1-enecarbonyl-CoA
+rxn00326	cpd00040	C00048	-1.0	-1.0	alias	True	3.64693803093678e-07	identical	Glyoxalate
+rxn00326	cpd00010	C00010	-1.0	-1.0	alias	True	13.039863834417554	residual charge+tautomer	CoA
+rxn00326	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn00326	cpd00262	C00313	1.0	1.0	alias	True	-10.468520680531501	residual charge+tautomer	Oxalyl-CoA
+rxn00326	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01745	cpd00386	C00497	-1.0	-1.0	alias	True	-0.0	identical	D-Malate
+rxn01745	cpd00996	C01384	1.0	1.0	alias	True	0.0	identical	Maleate
+rxn01745	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn01999	cpd02616	C04268	-1.0	-1.0	alias	True	-1.5748943379914968	residual charge+tautomer	dTDP-4-amino-4,6-dideoxy-D-glucose
+rxn01999	cpd00024	C00026	-1.0	-1.0	alias	True	-0.0	identical	2-Oxoglutarate
+rxn01999	cpd00521	C11907	1.0	1.0	alias	True	-1.0627892459556074	tautomer	dTDP-4-oxo-6-deoxy-D-glucose
+rxn01999	cpd00023	C00025	1.0	1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn00783	cpd00945	C01286	-1.0	-1.0	alias	True	-0.0	identical	2-Dehydro-3-deoxy-D-galactonate 6-phosphate
+rxn00783	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00783	cpd00102	C00118	1.0	1.0	alias	True	0.0	identical	Glyceraldehyde3-phosphate
+rxn01636	cpd00342	C00437	-1.0	-1.0	alias	True	5.122492687196163	residual charge+tautomer	N-Acetylornithine
+rxn01636	cpd00023	C00025	-1.0	-1.0	alias	True	-1.250793500794505	residual charge	L-Glutamate
+rxn01636	cpd00064	C00077	1.0	1.0	alias	True	1.4831023097722067	residual charge	Ornithine
+rxn01636	cpd00477	C00624	1.0	1.0	alias	True	-5.417981849801699	tautomer	N-Acetyl-L-glutamate
+rxn02263	cpd00751	C01019	-1.0	-1.0	alias	True	-0.0	identical	L-Fucose
+rxn02263	cpd01186	C01721	1.0	1.0	alias	True	0.0	identical	L-Fuculose
+rxn00634	cpd00588	C00794	-1.0	-1.0	alias	True	-0.0	identical	Sorbitol
+rxn00634	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00634	cpd00082	C00095	1.0	1.0	alias	True	0.0	identical	D-Fructose
+rxn00634	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn02202	cpd01705	C03652	-1.0	-1.0	alias	True	-0.0	identical	2,3-Dimethylmalate
+rxn02202	cpd00684	C00922	1.0	1.0	alias	True	0.0	identical	Dimethylmaleic acid
+rxn02202	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn01617	cpd00453	C00583	-1.0	-1.0	alias	True	-0.0	identical	1,2-Propanediol
+rxn01617	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn01617	cpd00334	C00424	1.0	1.0	alias	True	-6.199794788451557e-07	identical	L-Lactaldehyde
+rxn01617	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01780	cpd00404	C00515	-1.0	-1.0	alias	True	-1.4831023097722067	residual charge	D-Ornithine
+rxn01780	cpd02448	C03943	1.0	1.0	alias	True	4.962589471791487	residual charge	2,4-Diaminopentanoate
+rxn02459	cpd02673	C04367	-1.0	-1.0	alias	True	-0.0	identical	3-(3,5-Diiodo-4-hydroxyphenyl)lactate
+rxn02459	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn02459	cpd00915	C01244	1.0	1.0	alias	True	0.0	identical	3,5-Diiodo-4-hydroxyphenylpyruvate
+rxn02459	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01249	cpd00263	C00314	-1.0	-1.0	alias	True	-0.0	identical	Pyridoxol
+rxn01249	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn01249	cpd00215	C00250	1.0	1.0	alias	True	0.0	identical	Pyridoxal
+rxn01249	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01044	cpd00154	C00181	-1.0	-1.0	alias	True	-0.0	identical	Xylose
+rxn01044	cpd00259	C00310	1.0	1.0	alias	True	0.0	identical	D-Lyxulose
+rxn02591	cpd01122	C01595	-1.0	-1.0	alias	True	-0.0	identical	Linoleate
+rxn02591	cpd02510	C04056	1.0	1.0	alias	True	0.0	identical	(9Z,11E)-Octadecadienoic acid
+rxn00493	cpd00066	C00079	-1.0	-1.0	alias	True	-1.2492907799452664	residual charge	L-Phenylalanine
+rxn00493	cpd00024	C00026	-1.0	-1.0	alias	True	-0.0	identical	2-Oxoglutarate
+rxn00493	cpd00143	C00166	1.0	1.0	alias	True	0.0	identical	Phenylpyruvate
+rxn00493	cpd00023	C00025	1.0	1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn02842	cpd01795	C02782	-1.0	-1.0	alias	True	-0.0	identical	2-Deoxy-D-gluconate
+rxn02842	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn02842	cpd02441	C03926	1.0	1.0	alias	True	0.0	identical	3-Dehydro-2-deoxy-D-gluconate
+rxn02842	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00604	cpd00079	C00092	-1.0	-1.0	alias	True	-0.0	identical	D-glucose-6-phosphate
+rxn00604	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn00604	cpd00911	C01236	1.0	1.0	alias	True	0.0	identical	6-phospho-D-glucono-1-5-lactone
+rxn00604	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01292	cpd00224	C00259	-1.0	-1.0	alias	True	-0.0	identical	L-Arabinose
+rxn01292	cpd00397	C00508	1.0	1.0	alias	True	0.0	identical	L-Ribulose
+rxn00302	cpd00038	C00044	-1.0	-1.0	alias	True	-0.5977629156458999	tautomer	GTP
+rxn00302	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00302	cpd03518	C05922	1.0	1.0	alias	True	3.3966577942010843	residual charge+tautomer	Formamidopyrimidine nucleoside triphosphate
+rxn01790	cpd00408	C00522	-1.0	-1.0	alias	True	-0.0	identical	Pantoate
+rxn01790	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn01790	cpd00712	C00966	1.0	1.0	alias	True	0.0	identical	2-Dehydropantoate
+rxn01790	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn02360	cpd00851	C01157	-1.0	-1.0	alias	True	4.645771332954131	residual charge	trans-4-Hydroxy-L-proline
+rxn02360	cpd02175	C03440	1.0	1.0	alias	True	-4.645771332954131	residual charge	cis-4-Hydroxy-D-proline
+rxn00552	cpd00288	C00352	-1.0	-1.0	alias	True	-3.0266547704518216	residual charge	D-Glucosamine phosphate
+rxn00552	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00552	cpd00072	C00085	1.0	1.0	alias	True	0.0	identical	D-fructose-6-phosphate
+rxn00552	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn01996	cpd00891	C01213	-1.0	-1.0	alias	True	11.046480138716701	residual charge+tautomer	L-methylmalonyl-CoA
+rxn01996	cpd00519	C00683	1.0	1.0	alias	True	-11.046480138716701	residual charge+tautomer	D-methylmalonyl-CoA
+rxn00321	cpd00039	C00047	-1.0	-1.0	alias	True	-1.4831032762108018	residual charge	L-Lysine
+rxn00321	cpd00840	C01142	1.0	1.0	alias	True	3.2239934545630016	residual charge	L-beta-Lysine
+rxn01371	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn01371	cpd00250	C00300	-1.0	-1.0	alias	True	-0.4586894927015717	residual charge	Creatine
+rxn01371	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn01371	cpd01550	C02305	1.0	1.0	alias	True	0.9249288584488593	residual charge	Phosphocreatine
+rxn00404	cpd00051	C00062	-1.0	-1.0	alias	True	-1.7887947345099107	residual charge	L-Arginine
+rxn00404	cpd00033	C00037	-1.0	-1.0	alias	True	1.780732120200279	residual charge	Glycine
+rxn00404	cpd00064	C00077	1.0	1.0	alias	True	1.4831023097722067	residual charge	Ornithine
+rxn00404	cpd00451	C00581	1.0	1.0	alias	True	0.3244212115927817	residual charge	Glycocyamine
+rxn01383	cpd00366	C00474	-1.0	-1.0	alias	True	-0.0	identical	Ribitol
+rxn01383	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01383	cpd00258	C00309	1.0	1.0	alias	True	0.0	identical	D-Ribulose
+rxn01383	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01388	cpd00260	C00311	-1.0	-1.0	alias	True	-0.0	identical	Isocitrate
+rxn01388	cpd00331	C00417	1.0	1.0	alias	True	0.0	identical	cis-Aconitate
+rxn01388	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn01621	cpd00831	C01131	-1.0	-1.0	alias	True	-0.0	identical	L-Rhamnulose 1-phosphate
+rxn01621	cpd00095	C00111	1.0	1.0	alias	True	0.0	identical	Glycerone-phosphate
+rxn01621	cpd00334	C00424	1.0	1.0	alias	True	-6.199794788451557e-07	identical	L-Lactaldehyde
+rxn00602	cpd00891	C01213	-1.0	-1.0	alias	True	11.046480138716701	residual charge+tautomer	L-methylmalonyl-CoA
+rxn00602	cpd00078	C00091	1.0	1.0	alias	True	-11.587607856006473	residual charge+tautomer	Succinyl-CoA
+rxn00097	cpd00008	C00008	2.0	-2.0	alias	True	-1.4863285918081435	residual charge	ADP
+rxn00097	cpd00018	C00020	-1.0	1.0	alias	True	-0.05756691810505796	residual charge	AMP
+rxn00097	cpd00002	C00002	-1.0	1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn01646	cpd00133	C00153	1.0	-1.0	alias	True	-1.5641385692939194	tautomer	Nicotinamide
+rxn01646	cpd00475	C00620	1.0	-1.0	alias	True	0.0	identical	Ribose 1-phosphate
+rxn01646	cpd02016	C03150	-1.0	1.0	alias	False	-1.3048051283418765	protonation	N-Ribosylnicotinamide
+rxn01646	cpd00009	C00009	-1.0	1.0	alias	True	-0.0	identical	Phosphate
+rxn00184	cpd00023	C00025	-1.0	-1.0	alias	True	-1.250793500794505	residual charge	L-Glutamate
+rxn00184	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn00184	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00184	cpd00024	C00026	1.0	1.0	alias	True	0.0	identical	2-Oxoglutarate
+rxn00184	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn00184	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn00562	cpd00465	C00603	-1.0	-1.0	alias	True	-0.0	identical	Ureidoglycolate
+rxn00562	cpd00040	C00048	1.0	1.0	alias	True	-3.64693803093678e-07	identical	Glyoxalate
+rxn00562	cpd00073	C00086	1.0	1.0	alias	True	0.0	identical	Urea
+rxn00656	cpd00035	C00041	-1.0	-1.0	alias	True	-1.1656446757781587	residual charge	L-Alanine
+rxn00656	cpd00191	C00222	-1.0	-1.0	alias	True	7.293876061873559e-08	identical	3-Oxopropanoate
+rxn00656	cpd00085	C00099	1.0	1.0	alias	True	0.7789370389103208	residual charge	beta-Alanine
+rxn00656	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00527	cpd00069	C00082	-1.0	-1.0	alias	True	-1.2492910808176658	residual charge	L-Tyrosine
+rxn00527	cpd00024	C00026	-1.0	-1.0	alias	True	-0.0	identical	2-Oxoglutarate
+rxn00527	cpd00868	C01179	1.0	1.0	alias	True	0.0	identical	p-hydroxyphenylpyruvate
+rxn00527	cpd00023	C00025	1.0	1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn03250	cpd03122	C05268	-1.0	-1.0	alias	True	13.039867627233216	residual charge+tautomer	(S)-Hydroxyhexanoyl-CoA
+rxn03250	cpd03125	C05271	1.0	1.0	alias	True	-13.039867043723076	residual charge+tautomer	(2E)-Hexenoyl-CoA
+rxn03250	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn00629	cpd00314	C00392	-1.0	-1.0	alias	True	-0.0	identical	D-Mannitol
+rxn00629	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00629	cpd00082	C00095	1.0	1.0	alias	True	0.0	identical	D-Fructose
+rxn00629	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn02305	cpd02894	C04752	-1.0	-1.0	alias	True	-0.0	identical	4-Amino-2-methyl-5-diphosphomethylpyrimidine
+rxn02305	cpd02654	C04327	-1.0	-1.0	alias	True	-0.0	identical	4-Methyl-5--2-phosphoethyl-thiazole
+rxn02305	cpd00012	C00013	1.0	1.0	alias	True	0.0	identical	PPi
+rxn02305	cpd00793	C01081	1.0	1.0	alias	False	0.19103316458415945	protonation	Thiamine phosphate
+rxn02213	cpd00699	C00944	-1.0	-1.0	alias	True	-0.0	identical	5-Dehydroquinate
+rxn02213	cpd01716	C02637	1.0	1.0	alias	True	0.0	identical	3-Dehydroshikimate
+rxn02213	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn08430	cpd00072	C00085	-1.0	-1.0	alias	True	-0.0	identical	D-fructose-6-phosphate
+rxn08430	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn08430	cpd00082	C00095	1.0	1.0	alias	True	0.0	identical	D-Fructose
+rxn08430	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn36656	cpd01756	C02712	-1.0	-1.0	alias	True	5.417981166000804	tautomer	N-Acetylmethionine
+rxn36656	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn36656	cpd00029	C00033	1.0	1.0	alias	True	0.0	identical	Acetate
+rxn36656	cpd00060	C00073	1.0	1.0	alias	True	1.2243401799101676	residual charge	L-Methionine
+rxn14063	cpd11314	C15673	-1.0	-1.0	alias	True	-0.0	identical	L-Sorbosonate
+rxn14063	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn14063	cpd01793	C02780	1.0	1.0	alias	True	0.0	identical	2,5-diketo-D-gluconate
+rxn14063	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn02651	cpd01138	C01620	-1.0	-1.0	alias	True	-0.0	identical	Threonate
+rxn02651	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn02651	cpd01961	C03064	1.0	1.0	alias	True	0.0	identical	3-Dehydro-L-threonate
+rxn02651	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn20017	cpd01138	C01620	-1.0	-1.0	alias	True	-0.0	identical	Threonate
+rxn20017	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn20017	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn20017	cpd24430	C03064	1.0	1.0	inchikey	True	0.0	identical	3-dehydro-L-threonate
+rxn01649	cpd01217	C01762	-1.0	-1.0	alias	True	-3.7075880790987643	tautomer	Xanthosine
+rxn01649	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn01649	cpd00309	C00385	1.0	1.0	alias	True	3.378852288991953	tautomer	XAN
+rxn01649	cpd00475	C00620	1.0	1.0	alias	True	0.0	identical	Ribose 1-phosphate
+rxn00280	cpd02051	C03210	-1.0	-1.0	alias	True	2.1110736708340228	residual charge	Alanopine
+rxn00280	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00280	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00280	cpd00035	C00041	1.0	1.0	alias	True	1.1656446757781587	residual charge	L-Alanine
+rxn00280	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00280	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn02685	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn02685	cpd01345	C01959	-1.0	-1.0	alias	True	-0.8246302376741607	residual charge	Taurocyamine
+rxn02685	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn02685	cpd02015	C03149	1.0	1.0	alias	True	0.4240866783244193	residual charge	N-Phosphotaurocyamine
+rxn15964	cpd02679	C04377	1.0	-1.0	alias	True	2.946174286063734	residual charge+tautomer	5,10-Methylenetetrahydromethanopterin
+rxn15964	cpd00033	C00037	1.0	-1.0	alias	True	-1.780732120200279	residual charge	Glycine
+rxn15964	cpd00001	C00001	1.0	-1.0	alias	True	0.0	identical	H2O
+rxn15964	cpd00895	C01217	-1.0	1.0	alias	True	-2.8211417845512816	residual charge+tautomer	H4MPT
+rxn15964	cpd00054	C00065	-1.0	1.0	alias	True	-1.144820226082151	residual charge	L-Serine
+rxn01018	cpd00146	C00169	-1.0	-1.0	alias	True	4.701865435102486	tautomer	Carbamoylphosphate
+rxn01018	cpd00041	C00049	-1.0	-1.0	alias	True	-1.3113805942280115	residual charge	L-Aspartate
+rxn01018	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn01018	cpd00343	C00438	1.0	1.0	alias	True	0.0	identical	N-Carbamoyl-L-aspartate
+rxn05026	cpd00794	C01083	-1.0	-1.0	alias	True	-0.0	identical	TRHL
+rxn05026	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn05026	cpd00027	C00031	1.0	1.0	alias	True	0.0	identical	D-Glucose
+rxn05026	cpd00089	C00103	1.0	1.0	alias	True	0.0	identical	Glucose-1-phosphate
+rxn01409	cpd00134	C00154	-1.0	-1.0	alias	True	13.039866387274245	residual charge+tautomer	Palmitoyl-CoA
+rxn01409	cpd00266	C00318	-1.0	-1.0	alias	True	-0.0	identical	Carnitine
+rxn01409	cpd00010	C00010	1.0	1.0	alias	True	-13.039863834417554	residual charge+tautomer	CoA
+rxn01409	cpd01915	C02990	1.0	1.0	alias	True	0.0	identical	L-Palmitoylcarnitine
+rxn45677	cpd01101	C01563	-1.0	-1.0	alias	True	4.3763257729831676e-07	identical	Carbamate
+rxn45677	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn45677	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn45677	cpd00242	C00288	1.0	1.0	alias	True	0.0	identical	H2CO3
+rxn00473	cpd00065	C00078	-1.0	-1.0	alias	True	-1.2492908164146537	residual charge	L-Tryptophan
+rxn00473	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00473	cpd00359	C00463	1.0	1.0	alias	True	0.0	identical	indol
+rxn00473	cpd00020	C00022	1.0	1.0	alias	True	-1.4587752123747118e-07	identical	Pyruvate
+rxn00473	cpd00013	C00014	1.0	1.0	alias	True	5.335632756380916	residual charge	NH3
+rxn00830	cpd00113	C00129	-1.0	-1.0	alias	True	-0.0	identical	Isopentenyldiphosphate
+rxn00830	cpd00202	C00235	1.0	1.0	alias	True	0.0	identical	DMAPP
+rxn00699	cpd01397	C02048	-1.0	-1.0	alias	True	-0.0	identical	Laminariaceae
+rxn00699	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn00699	cpd00027	C00031	1.0	1.0	alias	True	0.0	identical	D-Glucose
+rxn00699	cpd00089	C00103	1.0	1.0	alias	True	0.0	identical	Glucose-1-phosphate
+rxn01016	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn01016	cpd01101	C01563	-1.0	-1.0	alias	True	4.3763257729831676e-07	identical	Carbamate
+rxn01016	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn01016	cpd00146	C00169	1.0	1.0	alias	True	-4.701865435102486	tautomer	Carbamoylphosphate
+rxn01746	cpd00388	C00499	-1.0	-1.0	alias	True	-0.0	identical	Allantoate
+rxn01746	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn01746	cpd00465	C00603	1.0	1.0	alias	True	0.0	identical	Ureidoglycolate
+rxn01746	cpd00073	C00086	1.0	1.0	alias	True	0.0	identical	Urea
+rxn01506	cpd00293	C00357	-1.0	-1.0	alias	True	5.380980453345364	tautomer	N-Acetyl-D-glucosamine 6-phosphate
+rxn01506	cpd02612	C04257	1.0	1.0	alias	True	-5.380980453345364	tautomer	N-Acetylmannosamine 6-phosphate
+rxn00077	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn00077	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00077	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn00077	cpd00006	C00006	1.0	1.0	alias	False	-3.0047286491320713	residual charge+protonation	NADP
+rxn03137	cpd00201	C00234	-1.0	-1.0	alias	True	0.8496954792088298	residual charge+tautomer	10-Formyltetrahydrofolate
+rxn03137	cpd02851	C04677	-1.0	-1.0	alias	True	1.0304414884082143	residual charge+tautomer	AICAR
+rxn03137	cpd00087	C00101	1.0	1.0	alias	True	-0.8496966097596466	residual charge+tautomer	Tetrahydrofolate
+rxn03137	cpd02884	C04734	1.0	1.0	alias	True	0.0	identical	FAICAR
+rxn01834	cpd02182	C03451	-1.0	-1.0	alias	True	10.876567760343526	residual charge+tautomer	(R)-S-Lactoylglutathione
+rxn01834	cpd00042	C00051	1.0	1.0	alias	True	-10.876568526200533	residual charge+tautomer	GSH
+rxn01834	cpd00428	C00546	1.0	1.0	alias	True	-2.1881628864915838e-07	identical	2-Oxopropanal
+rxn01638	cpd02324	C03703	-1.0	-1.0	alias	True	7.717959475106986	tautomer	L-5-Carboxymethylhydantoin
+rxn01638	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn01638	cpd00343	C00438	1.0	1.0	alias	True	0.0	identical	N-Carbamoyl-L-aspartate
+rxn01626	cpd00337	C00429	-1.0	-1.0	alias	True	8.326890354630594	tautomer	Hydrouracil
+rxn01626	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn01626	cpd01720	C02642	1.0	1.0	alias	True	0.0	identical	3-Ureidopropanoate
+rxn01363	cpd00248	C00296	-1.0	-1.0	alias	True	-0.0	identical	Quinate
+rxn01363	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01363	cpd00699	C00944	1.0	1.0	alias	True	0.0	identical	5-Dehydroquinate
+rxn01363	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn00915	cpd00207	C00242	1.0	-1.0	alias	True	6.97013424641772	residual charge+tautomer	Guanine
+rxn00915	cpd00103	C00119	1.0	-1.0	alias	True	0.0	identical	PRPP
+rxn00915	cpd00126	C00144	-1.0	1.0	alias	True	-0.5977608733605755	tautomer	GMP
+rxn00915	cpd00012	C00013	-1.0	1.0	alias	True	-0.0	identical	PPi
+rxn02782	cpd02536	C04105	-1.0	-1.0	alias	True	-0.0	identical	Muconolactone
+rxn02782	cpd01630	C02480	1.0	1.0	alias	True	0.0	identical	cis,cis-Muconate
+rxn02902	cpd02033	C03178	-1.0	-1.0	alias	True	2.3534747063543833	tautomer	Tetrahydroxypteridine
+rxn02902	cpd02112	C03314	1.0	1.0	alias	True	3.6550077653523796	tautomer	Xanthine-8-carboxylate
+rxn00141	cpd00019	C00021	-1.0	-1.0	alias	True	-1.5625889123511831	residual charge	S-Adenosyl-homocysteine
+rxn00141	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn00141	cpd00182	C00212	1.0	1.0	alias	True	-0.13346546238739937	residual charge	Adenosine
+rxn00141	cpd00135	C00155	1.0	1.0	alias	True	1.2243399155071535	residual charge	Homocysteine
+rxn01682	cpd00102	C00118	1.0	-1.0	alias	True	0.0	identical	Glyceraldehyde3-phosphate
+rxn01682	cpd00359	C00463	1.0	-1.0	alias	True	0.0	identical	indol
+rxn01682	cpd02210	C03506	-1.0	1.0	alias	True	-0.0	identical	Indoleglycerol phosphate
+rxn00512	cpd00139	C00160	-1.0	-1.0	alias	True	1.4587752123747118e-07	identical	Glycolate
+rxn00512	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn00512	cpd00040	C00048	1.0	1.0	alias	True	-3.64693803093678e-07	identical	Glyoxalate
+rxn00512	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01726	cpd00022	C00024	-1.0	-1.0	alias	True	13.03986441792764	residual charge+tautomer	Acetyl-CoA
+rxn01726	cpd00266	C00318	-1.0	-1.0	alias	True	-0.0	identical	Carnitine
+rxn01726	cpd00010	C00010	1.0	1.0	alias	True	-13.039863834417554	residual charge+tautomer	CoA
+rxn01726	cpd01682	C02571	1.0	1.0	alias	False	0.8913584648993004	protonation	O-Acetylcarnitine
+rxn01265	cpd00873	C01185	-1.0	-1.0	alias	False	-1.6351799755205865	protonation	Nicotinate ribonucleotide
+rxn01265	cpd00012	C00013	-1.0	-1.0	alias	True	-0.0	identical	PPi
+rxn01265	cpd00218	C00253	1.0	1.0	alias	True	0.0	identical	Niacin
+rxn01265	cpd00103	C00119	1.0	1.0	alias	True	0.0	identical	PRPP
+rxn15726	cpd00795	C01087	-1.0	-1.0	alias	True	-0.0	identical	(R)-2-Hydroxyglutarate
+rxn15726	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn15726	cpd00024	C00026	1.0	1.0	alias	True	0.0	identical	2-Oxoglutarate
+rxn15726	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn02132	cpd01895	C02953	-1.0	-1.0	alias	True	-5.259881758097249	residual charge+tautomer	7,8-Dihydrobiopterin
+rxn02132	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn02132	cpd00622	C00835	1.0	1.0	alias	True	5.259883435688784	residual charge+tautomer	Sepiapterin
+rxn02132	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn01258	cpd00216	C00251	-1.0	-1.0	alias	True	-0.0	identical	Chorismate
+rxn01258	cpd00658	C00885	1.0	1.0	alias	True	0.0	identical	Isochorismate
+rxn49067	cpd02889	C04741	-1.0	-1.0	alias	True	-0.0	identical	Alprostadil
+rxn49067	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn49067	cpd02836	C04654	1.0	1.0	alias	True	0.0	identical	(13E)-11alpha-Hydroxy-9,15-dioxoprost-13-enoate
+rxn49067	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn03840	cpd00216	C00251	-1.0	-1.0	alias	True	-0.0	identical	Chorismate
+rxn03840	cpd00013	C00014	-1.0	-1.0	alias	True	-5.335632756380916	residual charge	NH3
+rxn03840	cpd08210	C11355	1.0	1.0	alias	True	4.963796298316972	residual charge	ADC
+rxn03840	cpd00001	C00001	1.0	1.0	alias	True	0.0	identical	H2O
+rxn02975	cpd02264	C03598	-1.0	-1.0	alias	True	-3.9238186137854005	tautomer	CDPparatose
+rxn02975	cpd02265	C03599	1.0	1.0	alias	True	3.9238186137854005	tautomer	CDPtyvelose
+rxn01485	cpd00288	C00352	1.0	-1.0	alias	True	3.0266547704518216	residual charge	D-Glucosamine phosphate
+rxn01485	cpd03671	C06156	-1.0	1.0	alias	True	-3.328140142087008	residual charge	D-Glucosamine1-phosphate
+rxn00631	cpd00082	C00095	-1.0	-1.0	alias	True	-0.0	identical	D-Fructose
+rxn00631	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn00631	cpd00234	C00273	1.0	1.0	alias	True	0.0	identical	5-Dehydro-D-fructose
+rxn00631	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn02887	cpd02129	C03351	-1.0	-1.0	alias	True	-0.0	identical	3-Hydroxybenzyl alcohol
+rxn02887	cpd00006	C00006	-1.0	-1.0	alias	False	3.0047286491320713	residual charge+protonation	NADP
+rxn02887	cpd01964	C03067	1.0	1.0	alias	True	0.0	identical	3-Hydroxybenzaldehyde
+rxn02887	cpd00005	C00005	1.0	1.0	alias	True	-4.027622726177846	tautomer	NADPH
+rxn00800	cpd02375	C03794	-1.0	-1.0	alias	True	-0.0	identical	Adenylosuccinate
+rxn00800	cpd00106	C00122	1.0	1.0	alias	True	0.0	identical	Fumarate
+rxn00800	cpd00018	C00020	1.0	1.0	alias	True	0.05756691810505796	residual charge	AMP
+rxn03249	cpd03122	C05268	-1.0	-1.0	alias	True	13.039867627233216	residual charge+tautomer	(S)-Hydroxyhexanoyl-CoA
+rxn03249	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn03249	cpd03123	C05269	1.0	1.0	alias	True	-13.039865293192822	residual charge+tautomer	3-Oxohexanoyl-CoA
+rxn03249	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn39373	cpd01947	C03044	-1.0	-1.0	alias	True	-0.0	identical	BDOH
+rxn39373	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn39373	cpd19008	C00810	1.0	1.0	alias	True	0.0	identical	(R)-Acetoin
+rxn39373	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01713	cpd00026	C00029	-1.0	-1.0	alias	True	1.0551928197449179	tautomer	UDP-glucose
+rxn01713	cpd00373	C00482	-1.0	-1.0	alias	True	-0.0	identical	Sinapate
+rxn01713	cpd00014	C00015	1.0	1.0	alias	True	-1.0551922362347785	tautomer	UDP
+rxn01713	cpd00865	C01175	1.0	1.0	alias	True	0.0	identical	1-O-Sinapoyl-beta-D-glucose
+rxn02914	cpd00738	C01005	-1.0	-1.0	alias	True	-1.135465136905458	residual charge	phosphoserine
+rxn02914	cpd00024	C00026	-1.0	-1.0	alias	True	-0.0	identical	2-Oxoglutarate
+rxn02914	cpd02069	C03232	1.0	1.0	alias	True	0.0	identical	3-Phosphonooxypyruvate
+rxn02914	cpd00023	C00025	1.0	1.0	alias	True	1.250793500794505	residual charge	L-Glutamate
+rxn19090	cpd05400	C08492	-1.0	-1.0	alias	True	-0.0	identical	3-Hexenol
+rxn19090	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn19090	cpd15026	C16310	1.0	1.0	alias	True	0.0	identical	3-Hexenal
+rxn19090	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01725	cpd00266	C00318	-1.0	-1.0	alias	True	-0.0	identical	Carnitine
+rxn01725	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01725	cpd01715	C02636	1.0	1.0	alias	False	1.1480080146862508	protonation	3-Dehydrocarnitine
+rxn01725	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn31240	cpd19006	C00668	-1.0	-1.0	alias	True	-0.0	identical	alpha-D-Glucose 6-phosphate
+rxn31240	cpd00863	C01172	1.0	1.0	alias	True	0.0	identical	beta-D-Glucose 6-phosphate
+rxn01548	cpd00311	C00387	-1.0	-1.0	alias	True	-6.676308192440929	residual charge+tautomer	Guanosine
+rxn01548	cpd00009	C00009	-1.0	-1.0	alias	True	-0.0	identical	Phosphate
+rxn01548	cpd00207	C00242	1.0	1.0	alias	True	6.97013424641772	residual charge+tautomer	Guanine
+rxn01548	cpd00475	C00620	1.0	1.0	alias	True	0.0	identical	Ribose 1-phosphate
+rxn04684	cpd00457	C00588	-1.0	-1.0	alias	False	-0.19103256283936565	protonation	Phosphocholine
+rxn04684	cpd00001	C00001	-1.0	-1.0	alias	True	-0.0	identical	H2O
+rxn04684	cpd00098	C00114	1.0	1.0	alias	True	0.0	identical	Choline
+rxn04684	cpd00009	C00009	1.0	1.0	alias	True	0.0	identical	Phosphate
+rxn02095	cpd01171	C01697	-1.0	-1.0	alias	True	-0.0	identical	Dulcose
+rxn02095	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn02095	cpd00589	C00795	1.0	1.0	alias	True	0.0	identical	D-Tagatose
+rxn02095	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn02451	cpd00910	C01235	-1.0	-1.0	alias	True	-0.0	identical	Galactinol
+rxn02451	cpd00382	C00492	-1.0	-1.0	alias	True	-0.0	identical	Melitose
+rxn02451	cpd00121	C00137	1.0	1.0	alias	True	0.0	identical	L-Inositol
+rxn02451	cpd01133	C01613	1.0	1.0	alias	True	0.0	identical	Stachyose
+rxn00643	cpd00083	C00096	-1.0	-1.0	alias	True	-0.5977599980954208	tautomer	GDP-mannose
+rxn00643	cpd01536	C02280	1.0	1.0	alias	True	0.5977599980954208	tautomer	GDP-L-galactose
+rxn02085	cpd00581	C00785	1.0	-1.0	alias	True	-0.6648318945335854	tautomer	Urocanate
+rxn02085	cpd00001	C00001	1.0	-1.0	alias	True	0.0	identical	H2O
+rxn02085	cpd02311	C03680	-1.0	1.0	alias	True	-0.0	identical	4-Imidazolone-5-propanoate
+rxn01530	cpd00365	C00473	-1.0	-1.0	alias	True	-0.0	identical	Retinol
+rxn01530	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01530	cpd00304	C00376	1.0	1.0	alias	True	0.0	identical	Retinal
+rxn01530	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01532	cpd00304	C00376	-1.0	-1.0	alias	True	-0.0	identical	Retinal
+rxn01532	cpd01430	C02110	1.0	1.0	alias	True	0.0	identical	11-cis-Retinal
+rxn04932	cpd01307	C01904	-1.0	-1.0	alias	True	-0.0	identical	D-Lyxitol
+rxn04932	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn04932	cpd00258	C00309	1.0	1.0	alias	True	0.0	identical	D-Ribulose
+rxn04932	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn04082	cpd00808	C01101	-1.0	-1.0	alias	True	-0.0	identical	L-ribulose-5-phosphate
+rxn04082	cpd00198	C00231	1.0	1.0	alias	True	0.0	identical	D-Xylulose5-phosphate
+rxn00897	cpd00122	C00140	-1.0	-1.0	alias	True	5.380981109794182	tautomer	N-Acetyl-D-glucosamine
+rxn00897	cpd00492	C00645	1.0	1.0	alias	True	-5.380981109794182	tautomer	N-Acetyl-D-mannosamine
+rxn03136	cpd02921	C04823	-1.0	-1.0	alias	True	-0.11718779175500552	residual charge+tautomer	SAICAR
+rxn03136	cpd00106	C00122	1.0	1.0	alias	True	0.0	identical	Fumarate
+rxn03136	cpd02851	C04677	1.0	1.0	alias	True	-1.0304414884082143	residual charge+tautomer	AICAR
+rxn01407	cpd10719	C15025	-1.0	-1.0	alias	True	-0.0	identical	D-Carnitine
+rxn01407	cpd00003	C00003	-1.0	-1.0	alias	False	3.0047309831725197	residual charge+protonation	NAD
+rxn01407	cpd01715	C02636	1.0	1.0	alias	False	1.1480080146862508	protonation	3-Dehydrocarnitine
+rxn01407	cpd00004	C00004	1.0	1.0	alias	True	-4.0276198086273665	tautomer	NADH
+rxn01877	cpd00002	C00002	-1.0	-1.0	alias	True	0.3348746947075558	residual charge	ATP
+rxn01877	cpd00451	C00581	-1.0	-1.0	alias	True	-0.3244212115927817	residual charge	Glycocyamine
+rxn01877	cpd00008	C00008	1.0	1.0	alias	True	-0.7431642959040717	residual charge	ADP
+rxn01877	cpd02023	C03166	1.0	1.0	alias	True	0.0	identical	Phosphoguanidinoacetate

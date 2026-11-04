@@ -1,0 +1,12 @@
+flag	n_compounds	pct_of_ok	live_ok_reactions_touching	pct_of_live_ok	training_structures_with_flag
+wildcard	6466	17.53	0	0.0	
+any_charge	11618	31.5	14979	64.73	28
+cation_with_H	9737	26.4	14341	61.97	0
+cation_without_H	2229	6.04	7513	32.47	
+zwitterion	7834	21.24	13522	58.43	
+net_charge	4037	10.94	3198	13.82	
+fix_changes	9753	26.44	14350	62.01	
+fix_any_charge	2252	6.1	7523	32.51	
+imidic acid / lactim (N=C-OH)	5323	14.43	10243	44.26	0
+hydroxy-azine lactim (OH on aromatic C next to n)	1070	2.9	3031	13.1	1
+enol (C=C-OH)	530	1.44	619	2.67	3

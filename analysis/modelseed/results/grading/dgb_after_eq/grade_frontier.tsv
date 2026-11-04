@@ -1,0 +1,6 @@
+source	n_graded	n_gold	n_silver	n_bronze	n_reason_unconfident-corroborated	n_reason_unconfident	n_reason_unconfident-disputed	n_reason_unconfident-unpaired	n_reason_self-certain-unpaired	n_reason_self-certain-corroborated	n_reason_self-confident-corroborated	n_reason_self-confident-unpaired	n_reason_self-confident-disputed	n_reason_self-certain	n_reason_self-certain-disputed	n_reason_self-confident	n_reason_measured
+Group contribution	29443	125	18582	10736	18061.0	4739.0	3288.0	2694.0	378.0	112.0	62.0	62.0	15.0	13.0	10.0	9.0	0.0
+dGPredictor	29081	2484	17050	9547	15695.0	4484.0	4433.0	471.0	2.0	2379.0	1120.0	4.0	159.0	105.0	25.0	204.0	0.0
+dGbyG	27575	3580	17434	6561	11159.0	3406.0	2745.0	130.0	10.0	3334.0	5695.0	21.0	280.0	246.0	46.0	503.0	0.0
+eQuilibrator	21788	4339	13951	3498	5983.0	1639.0	1632.0	2.0	0.0	4177.0	6979.0	0.0	225.0	162.0	31.0	958.0	0.0
+openTECR	801	801	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	801.0

@@ -1,0 +1,9 @@
+status	n	eq_covers	dgp_covers	gc_covers	transport
+ok	23141	17682	22649	20082	1498
+missing_structure	10314	167	298	212	205
+wildcard	9946	4	9	0	281
+null_net	2752	0	0	1929	2710
+unbalanced	1398	13	1346	1142	39
+unbalanced_water	742	0	736	602	1
+compound_failed	90	2	27	2	0
+no_stoichiometry	1	0	0	0	0

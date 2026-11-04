@@ -1,0 +1,4 @@
+subset	n	n_sigma_zero	median_sigma	median_abs_err	mae	rmse	within_tau_pct	median_abs_z	rms_z	within_1sd_pct	within_2sd_pct	median_abs_z_with_meas	within_1sd_with_meas_pct
+all rows	642	29	0.3437	1.0375	2.2367	6.4237	74.4548	2.5807	19.3119	23.0530	42.6791	1.6845	31.6199
+reaction rows	420	29	0.3392	0.9202	1.5361	2.9884	77.3810	2.3296	23.4141	26.1905	46.6667	1.5308	34.7619
+formation rows	222	0	0.3575	1.2632	3.5621	10.1211	68.9189	2.9154	6.4309	17.1171	35.1351	1.9997	25.6757

@@ -1,0 +1,49 @@
+run	source	baseline	with_dGbyG	n
+dgb_last	Group contribution	BRONZE	BRONZE	7118
+dgb_last	Group contribution	BRONZE	GOLD	0
+dgb_last	Group contribution	BRONZE	SILVER	742
+dgb_last	Group contribution	BRONZE	ungraded	0
+dgb_last	Group contribution	GOLD	BRONZE	0
+dgb_last	Group contribution	GOLD	GOLD	75
+dgb_last	Group contribution	GOLD	SILVER	1
+dgb_last	Group contribution	GOLD	ungraded	0
+dgb_last	Group contribution	SILVER	BRONZE	1496
+dgb_last	Group contribution	SILVER	GOLD	0
+dgb_last	Group contribution	SILVER	SILVER	14537
+dgb_last	Group contribution	SILVER	ungraded	0
+dgb_last	Group contribution	ungraded	BRONZE	0
+dgb_last	Group contribution	ungraded	GOLD	0
+dgb_last	Group contribution	ungraded	SILVER	0
+dgb_last	Group contribution	ungraded	ungraded	24414
+dgb_last	eQuilibrator	BRONZE	BRONZE	2162
+dgb_last	eQuilibrator	BRONZE	GOLD	0
+dgb_last	eQuilibrator	BRONZE	SILVER	353
+dgb_last	eQuilibrator	BRONZE	ungraded	0
+dgb_last	eQuilibrator	GOLD	BRONZE	0
+dgb_last	eQuilibrator	GOLD	GOLD	3333
+dgb_last	eQuilibrator	GOLD	SILVER	5
+dgb_last	eQuilibrator	GOLD	ungraded	0
+dgb_last	eQuilibrator	SILVER	BRONZE	756
+dgb_last	eQuilibrator	SILVER	GOLD	197
+dgb_last	eQuilibrator	SILVER	SILVER	11062
+dgb_last	eQuilibrator	SILVER	ungraded	0
+dgb_last	eQuilibrator	ungraded	BRONZE	0
+dgb_last	eQuilibrator	ungraded	GOLD	0
+dgb_last	eQuilibrator	ungraded	SILVER	0
+dgb_last	eQuilibrator	ungraded	ungraded	30515
+dgb_last	dGPredictor	BRONZE	BRONZE	6880
+dgb_last	dGPredictor	BRONZE	GOLD	0
+dgb_last	dGPredictor	BRONZE	SILVER	1672
+dgb_last	dGPredictor	BRONZE	ungraded	0
+dgb_last	dGPredictor	GOLD	BRONZE	0
+dgb_last	dGPredictor	GOLD	GOLD	1798
+dgb_last	dGPredictor	GOLD	SILVER	1
+dgb_last	dGPredictor	GOLD	ungraded	0
+dgb_last	dGPredictor	SILVER	BRONZE	1516
+dgb_last	dGPredictor	SILVER	GOLD	21
+dgb_last	dGPredictor	SILVER	SILVER	12824
+dgb_last	dGPredictor	SILVER	ungraded	0
+dgb_last	dGPredictor	ungraded	BRONZE	0
+dgb_last	dGPredictor	ungraded	GOLD	0
+dgb_last	dGPredictor	ungraded	SILVER	0
+dgb_last	dGPredictor	ungraded	ungraded	23671

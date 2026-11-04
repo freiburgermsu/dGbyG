@@ -1,0 +1,14 @@
+best_grade	reason	baseline	dgb_last	dgb_after_eq	heldout_dgb_last	heldout_dgb_after_eq
+BRONZE	self-confident-disputed	79	174	177	165	168
+BRONZE	unconfident	1888	1870	2416	1883	2409
+BRONZE	unconfident-disputed	2563	3525	2976	3493	2964
+BRONZE	unconfident-unpaired	4260	2339	2339	2339	2339
+GOLD	measured	363	363	363	363	363
+GOLD	self-certain	255	325	325	318	318
+GOLD	self-certain-corroborated	3455	5567	5567	5561	5561
+SILVER	self-certain-disputed	31	59	59	57	57
+SILVER	self-certain-unpaired	370	164	164	164	164
+SILVER	self-confident	804	972	972	946	946
+SILVER	self-confident-corroborated	5501	3951	4318	3997	4367
+SILVER	self-confident-unpaired	56	56	56	56	56
+SILVER	unconfident-corroborated	7713	8128	7761	8151	7781

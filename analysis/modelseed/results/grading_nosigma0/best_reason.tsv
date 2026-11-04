@@ -1,0 +1,14 @@
+best_grade	reason	baseline	dgb_last	dgb_after_eq
+BRONZE	self-confident-disputed	79	174	177
+BRONZE	unconfident	1888	1872	2418
+BRONZE	unconfident-disputed	2563	3528	2979
+BRONZE	unconfident-unpaired	4260	2343	2343
+GOLD	measured	363	363	363
+GOLD	self-certain	255	314	314
+GOLD	self-certain-corroborated	3455	5434	5434
+SILVER	self-certain-disputed	31	50	50
+SILVER	self-certain-unpaired	370	162	162
+SILVER	self-confident	804	972	972
+SILVER	self-confident-corroborated	5501	4016	4383
+SILVER	self-confident-unpaired	56	57	57
+SILVER	unconfident-corroborated	7713	8202	7835

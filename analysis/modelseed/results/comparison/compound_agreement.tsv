@@ -1,0 +1,3 @@
+versus	n	pearson	median_diff	median_abs_diff	within_tau_pct	r2_offset_vs_H_and_charge
+eQuilibrator	16651	0.9955	4.6405	7.9999	20.3111	0.0023
+dGPredictor	30109	0.8850	65.2775	69.8140	3.2515	0.4158

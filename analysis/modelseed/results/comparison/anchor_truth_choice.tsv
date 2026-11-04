@@ -1,0 +1,9 @@
+source	n	mae_vs_anchor	mae_vs_transformed	within_tau_vs_anchor_pct	within_tau_vs_transformed_pct
+eQuilibrator	363	0.8148	0.5074	89.5317	95.3168
+dGPredictor	363	0.5978	0.8849	93.3884	88.7052
+Group contribution	362	6.2551	6.5875	36.7403	35.9116
+dGbyG	363	1.6132	1.4707	71.0744	77.1350
+dGbyG (repaired)	363	0.9570	0.8905	85.9504	87.3278
+dGbyG KEGG structures	363	0.9742	0.7858	86.2259	89.5317
+dGbyG (held-out)	363	2.0483	1.9034	67.4931	71.0744
+dGbyG KEGG structures (held-out)	363	1.4958	1.4085	76.0331	77.6860

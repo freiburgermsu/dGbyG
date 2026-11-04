@@ -1,0 +1,74 @@
+run	source	grade_baseline	grade_with_dGbyG	reason_baseline	reason_with_dGbyG	n
+dgb_last	Group contribution	SILVER	BRONZE	unconfident-corroborated	unconfident	1028
+dgb_last	Group contribution	BRONZE	SILVER	unconfident	unconfident-corroborated	679
+dgb_last	Group contribution	SILVER	BRONZE	unconfident-corroborated	unconfident-disputed	477
+dgb_last	Group contribution	BRONZE	SILVER	unconfident-disputed	unconfident-corroborated	40
+dgb_last	Group contribution	BRONZE	SILVER	unconfident-unpaired	unconfident-corroborated	21
+dgb_last	Group contribution	BRONZE	SILVER	self-confident-disputed	self-confident	2
+dgb_last	Group contribution	GOLD	SILVER	self-certain-corroborated	self-certain-disputed	1
+dgb_last	Group contribution	SILVER	BRONZE	self-confident	self-confident-disputed	1
+dgb_last	Group contribution	SILVER	BRONZE	self-confident-corroborated	self-confident-disputed	1
+dgb_last	Group contribution	SILVER	BRONZE	self-confident-unpaired	self-confident-disputed	1
+dgb_last	dGPredictor	SILVER	BRONZE	unconfident-corroborated	unconfident	1356
+dgb_last	dGPredictor	BRONZE	SILVER	unconfident-unpaired	unconfident-corroborated	1310
+dgb_last	dGPredictor	BRONZE	SILVER	unconfident	unconfident-corroborated	298
+dgb_last	dGPredictor	SILVER	BRONZE	unconfident-corroborated	unconfident-disputed	155
+dgb_last	dGPredictor	BRONZE	SILVER	self-confident-disputed	self-confident	47
+dgb_last	dGPredictor	BRONZE	SILVER	unconfident-disputed	unconfident-corroborated	20
+dgb_last	dGPredictor	SILVER	BRONZE	self-confident-unpaired	self-confident-disputed	9
+dgb_last	dGPredictor	SILVER	GOLD	self-certain-unpaired	self-certain	8
+dgb_last	dGPredictor	SILVER	GOLD	self-certain-disputed	self-certain	7
+dgb_last	dGPredictor	SILVER	GOLD	self-certain-unpaired	self-certain-corroborated	5
+dgb_last	dGPredictor	SILVER	BRONZE	self-confident	self-confident-disputed	2
+dgb_last	dGPredictor	BRONZE	SILVER	self-confident-disputed	self-confident-corroborated	1
+dgb_last	dGPredictor	GOLD	SILVER	self-certain	self-certain-disputed	1
+dgb_last	dGPredictor	SILVER	BRONZE	self-confident-corroborated	self-confident-disputed	1
+dgb_last	dGPredictor	SILVER	GOLD	self-certain-disputed	self-certain-corroborated	1
+dgb_last	eQuilibrator	SILVER	BRONZE	unconfident-corroborated	unconfident-disputed	379
+dgb_last	eQuilibrator	BRONZE	SILVER	unconfident	unconfident-corroborated	337
+dgb_last	eQuilibrator	SILVER	BRONZE	unconfident-corroborated	unconfident	253
+dgb_last	eQuilibrator	SILVER	GOLD	self-certain-unpaired	self-certain-corroborated	199
+dgb_last	eQuilibrator	SILVER	BRONZE	self-confident-corroborated	self-confident-disputed	83
+dgb_last	eQuilibrator	SILVER	BRONZE	self-confident	self-confident-disputed	46
+dgb_last	eQuilibrator	BRONZE	SILVER	self-confident-disputed	self-confident	10
+dgb_last	eQuilibrator	GOLD	SILVER	self-certain-corroborated	self-certain-disputed	9
+dgb_last	eQuilibrator	BRONZE	SILVER	unconfident-unpaired	unconfident-corroborated	4
+dgb_last	eQuilibrator	GOLD	SILVER	self-certain	self-certain-disputed	4
+dgb_last	eQuilibrator	BRONZE	SILVER	unconfident-disputed	unconfident-corroborated	2
+dgb_last	eQuilibrator	SILVER	GOLD	self-certain-disputed	self-certain	1
+dgb_last	eQuilibrator	SILVER	GOLD	self-certain-unpaired	self-certain	1
+heldout_dgb_last	Group contribution	SILVER	BRONZE	unconfident-corroborated	unconfident	996
+heldout_dgb_last	Group contribution	BRONZE	SILVER	unconfident	unconfident-corroborated	676
+heldout_dgb_last	Group contribution	SILVER	BRONZE	unconfident-corroborated	unconfident-disputed	466
+heldout_dgb_last	Group contribution	BRONZE	SILVER	unconfident-disputed	unconfident-corroborated	43
+heldout_dgb_last	Group contribution	BRONZE	SILVER	unconfident-unpaired	unconfident-corroborated	21
+heldout_dgb_last	Group contribution	BRONZE	SILVER	self-confident-disputed	self-confident	2
+heldout_dgb_last	Group contribution	GOLD	SILVER	self-certain-corroborated	self-certain-disputed	1
+heldout_dgb_last	Group contribution	SILVER	BRONZE	self-confident	self-confident-disputed	1
+heldout_dgb_last	Group contribution	SILVER	BRONZE	self-confident-corroborated	self-confident-disputed	1
+heldout_dgb_last	Group contribution	SILVER	BRONZE	self-confident-unpaired	self-confident-disputed	1
+heldout_dgb_last	dGPredictor	SILVER	BRONZE	unconfident-corroborated	unconfident	1323
+heldout_dgb_last	dGPredictor	BRONZE	SILVER	unconfident-unpaired	unconfident-corroborated	1307
+heldout_dgb_last	dGPredictor	BRONZE	SILVER	unconfident	unconfident-corroborated	301
+heldout_dgb_last	dGPredictor	SILVER	BRONZE	unconfident-corroborated	unconfident-disputed	144
+heldout_dgb_last	dGPredictor	BRONZE	SILVER	self-confident-disputed	self-confident	47
+heldout_dgb_last	dGPredictor	BRONZE	SILVER	unconfident-disputed	unconfident-corroborated	20
+heldout_dgb_last	dGPredictor	SILVER	BRONZE	self-confident-unpaired	self-confident-disputed	9
+heldout_dgb_last	dGPredictor	SILVER	GOLD	self-certain-unpaired	self-certain	8
+heldout_dgb_last	dGPredictor	SILVER	GOLD	self-certain-disputed	self-certain	7
+heldout_dgb_last	dGPredictor	SILVER	GOLD	self-certain-unpaired	self-certain-corroborated	5
+heldout_dgb_last	dGPredictor	SILVER	BRONZE	self-confident	self-confident-disputed	3
+heldout_dgb_last	dGPredictor	BRONZE	SILVER	self-confident-disputed	self-confident-corroborated	1
+heldout_dgb_last	dGPredictor	GOLD	SILVER	self-certain	self-certain-disputed	1
+heldout_dgb_last	eQuilibrator	SILVER	BRONZE	unconfident-corroborated	unconfident-disputed	367
+heldout_dgb_last	eQuilibrator	BRONZE	SILVER	unconfident	unconfident-corroborated	341
+heldout_dgb_last	eQuilibrator	SILVER	BRONZE	unconfident-corroborated	unconfident	262
+heldout_dgb_last	eQuilibrator	SILVER	GOLD	self-certain-unpaired	self-certain-corroborated	199
+heldout_dgb_last	eQuilibrator	SILVER	BRONZE	self-confident-corroborated	self-confident-disputed	77
+heldout_dgb_last	eQuilibrator	SILVER	BRONZE	self-confident	self-confident-disputed	40
+heldout_dgb_last	eQuilibrator	BRONZE	SILVER	self-confident-disputed	self-confident	10
+heldout_dgb_last	eQuilibrator	GOLD	SILVER	self-certain-corroborated	self-certain-disputed	9
+heldout_dgb_last	eQuilibrator	BRONZE	SILVER	unconfident-unpaired	unconfident-corroborated	4
+heldout_dgb_last	eQuilibrator	BRONZE	SILVER	unconfident-disputed	unconfident-corroborated	2
+heldout_dgb_last	eQuilibrator	GOLD	SILVER	self-certain	self-certain-disputed	2
+heldout_dgb_last	eQuilibrator	SILVER	GOLD	self-certain-unpaired	self-certain	1

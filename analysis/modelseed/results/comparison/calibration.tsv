@@ -1,0 +1,10 @@
+source	n	n_sigma_zero	rms_z	median_abs_z	within_1sd_pct	within_2sd_pct	median_sigma
+eQuilibrator	363	0	4.9898	1.1937	43.8017	61.1570	0.4300
+dGPredictor	363	0	0.7138	0.1206	91.4601	97.7961	1.6200
+Group contribution	362	0	1.4407	0.6608	71.2707	89.2265	8.6450
+dGbyG	348	15	6.3682	0.6622	62.3563	78.1609	0.8500
+dGbyG (repaired)	345	18	7.6967	1.7885	30.1449	52.7536	0.3800
+dGbyG KEGG structures	345	18	9.1234	2.6430	22.3188	39.4203	0.2300
+dGbyG (held-out)	348	15	4.1570	0.7868	58.3333	74.7126	1.2539
+dGbyG (repaired, held-out)	345	18	5.9917	1.9295	29.8551	51.3043	0.4866
+dGbyG KEGG structures (held-out)	346	17	25.7375	2.6601	22.8324	42.7746	0.3277

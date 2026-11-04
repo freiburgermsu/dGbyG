@@ -1,0 +1,58 @@
+population	operators	truth	strategy	mean_accuracy	sd_accuracy	mean_coverage	full_n	full_answered	full_correct	full_accuracy	commit_n	commit_correct	commit_accuracy
+801_all_anchors	gc_cascade	truth_gc	eq_only	0.8746	0.0174	0.9979	801	798	698	0.8747	147	147	1.0000
+801_all_anchors	gc_cascade	truth_gc	dgp_only	0.9060	0.0151	1.0000	801	801	728	0.9089	142	142	1.0000
+801_all_anchors	gc_cascade	truth_gc	gc_only	0.6007	0.0177	0.9996	801	800	480	0.6000	80	80	1.0000
+801_all_anchors	gc_cascade	truth_gc	dgb_only	0.8247	0.0249	1.0000	801	801	659	0.8227	134	134	1.0000
+801_all_anchors	gc_cascade	truth_gc	priority_plain (EQ>DGP>GC)	0.8737	0.0166	1.0000	801	801	699	0.8727	148	148	1.0000
+801_all_anchors	gc_cascade	truth_gc	EQ>DGB>DGP>GC	0.8737	0.0166	1.0000	801	801	699	0.8727	148	148	1.0000
+801_all_anchors	gc_cascade	truth_gc	DGB>EQ>DGP>GC	0.8247	0.0249	1.0000	801	801	659	0.8227	134	134	1.0000
+801_all_anchors	gc_cascade	truth_gc	EQ>DGP>GC>DGB	0.8737	0.0166	1.0000	801	801	699	0.8727	148	148	1.0000
+801_all_anchors	gc_cascade	truth_gc	null: always '='	0.5419	0.0264	1.0000	801	801	433	0.5406	0	0	
+801_all_anchors	own_rule_set	truth_gc	eq_only	0.6343	0.0255	0.9979	801	798	507	0.6353	74	74	1.0000
+801_all_anchors	own_rule_set	truth_gc	dgp_only	0.6309	0.0247	1.0000	801	801	507	0.6330	47	47	1.0000
+801_all_anchors	own_rule_set	truth_gc	gc_only	0.6007	0.0177	0.9996	801	800	480	0.6000	80	80	1.0000
+801_all_anchors	own_rule_set	truth_gc	dgb_only	0.6786	0.0283	1.0000	801	801	546	0.6816	56	56	1.0000
+801_all_anchors	own_rule_set	truth_gc	priority_plain (EQ>DGP>GC)	0.6338	0.0250	1.0000	801	801	508	0.6342	75	75	1.0000
+801_all_anchors	own_rule_set	truth_gc	EQ>DGB>DGP>GC	0.6330	0.0256	1.0000	801	801	507	0.6330	74	74	1.0000
+801_all_anchors	own_rule_set	truth_gc	DGB>EQ>DGP>GC	0.6786	0.0283	1.0000	801	801	546	0.6816	56	56	1.0000
+801_all_anchors	own_rule_set	truth_gc	EQ>DGP>GC>DGB	0.6338	0.0250	1.0000	801	801	508	0.6342	75	75	1.0000
+801_all_anchors	own_rule_set	truth_gc	null: always '='	0.5419	0.0264	1.0000	801	801	433	0.5406	0	0	
+801_all_anchors	own_rule_set	truth_ri	eq_only	0.9524	0.0114	0.9979	801	798	760	0.9524	70	70	1.0000
+801_all_anchors	own_rule_set	truth_ri	dgp_only	0.8780	0.0194	1.0000	801	801	706	0.8814	47	47	1.0000
+801_all_anchors	own_rule_set	truth_ri	gc_only	0.4000	0.0134	0.9996	801	800	315	0.3937	34	34	1.0000
+801_all_anchors	own_rule_set	truth_ri	dgb_only	0.7050	0.0275	1.0000	801	801	558	0.6966	49	49	1.0000
+801_all_anchors	own_rule_set	truth_ri	priority_plain (EQ>DGP>GC)	0.9512	0.0117	1.0000	801	801	761	0.9501	71	71	1.0000
+801_all_anchors	own_rule_set	truth_ri	EQ>DGB>DGP>GC	0.9504	0.0118	1.0000	801	801	760	0.9488	70	70	1.0000
+801_all_anchors	own_rule_set	truth_ri	DGB>EQ>DGP>GC	0.7050	0.0275	1.0000	801	801	558	0.6966	49	49	1.0000
+801_all_anchors	own_rule_set	truth_ri	EQ>DGP>GC>DGB	0.9512	0.0117	1.0000	801	801	761	0.9501	71	71	1.0000
+801_all_anchors	own_rule_set	truth_ri	null: always '='	0.8824	0.0165	1.0000	801	801	708	0.8839	0	0	
+363_live_anchors	gc_cascade	truth_gc	eq_only	0.8463	0.0363	1.0000	363	363	309	0.8512	55	55	1.0000
+363_live_anchors	gc_cascade	truth_gc	dgp_only	0.9156	0.0212	1.0000	363	363	332	0.9146	54	54	1.0000
+363_live_anchors	gc_cascade	truth_gc	gc_only	0.5649	0.0391	0.9963	363	362	204	0.5635	24	24	1.0000
+363_live_anchors	gc_cascade	truth_gc	dgb_only	0.7927	0.0335	1.0000	363	363	291	0.8017	51	51	1.0000
+363_live_anchors	gc_cascade	truth_gc	priority_plain (EQ>DGP>GC)	0.8463	0.0363	1.0000	363	363	309	0.8512	55	55	1.0000
+363_live_anchors	gc_cascade	truth_gc	EQ>DGB>DGP>GC	0.8463	0.0363	1.0000	363	363	309	0.8512	55	55	1.0000
+363_live_anchors	gc_cascade	truth_gc	DGB>EQ>DGP>GC	0.7927	0.0335	1.0000	363	363	291	0.8017	51	51	1.0000
+363_live_anchors	gc_cascade	truth_gc	EQ>DGP>GC>DGB	0.8463	0.0363	1.0000	363	363	309	0.8512	55	55	1.0000
+363_live_anchors	gc_cascade	truth_gc	null: always '='	0.5326	0.0468	1.0000	363	363	196	0.5399	0	0	
+363_live_anchors	gc_cascade	truth_gc	dgb_heldout_only	0.7514	0.0346	1.0000	363	363	276	0.7603	52	52	1.0000
+363_live_anchors	own_rule_set	truth_gc	eq_only	0.6124	0.0417	1.0000	363	363	224	0.6171	27	27	1.0000
+363_live_anchors	own_rule_set	truth_gc	dgp_only	0.6225	0.0403	1.0000	363	363	228	0.6281	17	17	1.0000
+363_live_anchors	own_rule_set	truth_gc	gc_only	0.5649	0.0391	0.9963	363	362	204	0.5635	24	24	1.0000
+363_live_anchors	own_rule_set	truth_gc	dgb_only	0.6670	0.0463	1.0000	363	363	245	0.6749	22	22	1.0000
+363_live_anchors	own_rule_set	truth_gc	priority_plain (EQ>DGP>GC)	0.6124	0.0417	1.0000	363	363	224	0.6171	27	27	1.0000
+363_live_anchors	own_rule_set	truth_gc	EQ>DGB>DGP>GC	0.6124	0.0417	1.0000	363	363	224	0.6171	27	27	1.0000
+363_live_anchors	own_rule_set	truth_gc	DGB>EQ>DGP>GC	0.6670	0.0463	1.0000	363	363	245	0.6749	22	22	1.0000
+363_live_anchors	own_rule_set	truth_gc	EQ>DGP>GC>DGB	0.6124	0.0417	1.0000	363	363	224	0.6171	27	27	1.0000
+363_live_anchors	own_rule_set	truth_gc	null: always '='	0.5326	0.0468	1.0000	363	363	196	0.5399	0	0	
+363_live_anchors	own_rule_set	truth_gc	dgb_heldout_only	0.6573	0.0474	1.0000	363	363	241	0.6639	23	23	1.0000
+363_live_anchors	own_rule_set	truth_ri	eq_only	0.9555	0.0179	1.0000	363	363	345	0.9504	25	25	1.0000
+363_live_anchors	own_rule_set	truth_ri	dgp_only	0.8826	0.0237	1.0000	363	363	321	0.8843	17	17	1.0000
+363_live_anchors	own_rule_set	truth_ri	gc_only	0.3467	0.0310	0.9963	363	362	131	0.3619	9	9	1.0000
+363_live_anchors	own_rule_set	truth_ri	dgb_only	0.6482	0.0385	1.0000	363	363	245	0.6749	19	19	1.0000
+363_live_anchors	own_rule_set	truth_ri	priority_plain (EQ>DGP>GC)	0.9555	0.0179	1.0000	363	363	345	0.9504	25	25	1.0000
+363_live_anchors	own_rule_set	truth_ri	EQ>DGB>DGP>GC	0.9555	0.0179	1.0000	363	363	345	0.9504	25	25	1.0000
+363_live_anchors	own_rule_set	truth_ri	DGB>EQ>DGP>GC	0.6482	0.0385	1.0000	363	363	245	0.6749	19	19	1.0000
+363_live_anchors	own_rule_set	truth_ri	EQ>DGP>GC>DGB	0.9555	0.0179	1.0000	363	363	345	0.9504	25	25	1.0000
+363_live_anchors	own_rule_set	truth_ri	null: always '='	0.9064	0.0218	1.0000	363	363	328	0.9036	0	0	
+363_live_anchors	own_rule_set	truth_ri	dgb_heldout_only	0.6220	0.0393	1.0000	363	363	233	0.6419	20	20	1.0000

@@ -1,0 +1,5 @@
+source	n	rms_z	p90_abs_z	within_1sd_pct	rms_z_combined	within_1sd_combined_pct	n_sigma_zero
+dGPredictor	16329	1.1394	1.6758	76.3794	1.1003	76.7959	0
+Group contribution	15926	1.4181	1.8703	75.0471	1.3294	75.5934	6
+dGbyG	16131	5.6811	6.0919	51.9187	2.6712	57.0702	411
+dGbyG (repaired)	16126	7.9706	7.8031	29.3811	3.2635	37.8829	427

@@ -1,0 +1,27 @@
+check	expected	got	reproduced
+anchor_accuracy eQuilibrator n	363.0	363.0	True
+anchor_accuracy eQuilibrator mae	0.8148	0.8148	True
+anchor_accuracy eQuilibrator rmse	1.4169	1.4169	True
+anchor_accuracy eQuilibrator median_ae	0.4014	0.4014	True
+anchor_accuracy eQuilibrator within_tau_pct	89.5317	89.5317	True
+anchor_accuracy eQuilibrator pearson	0.9267	0.9267	True
+anchor_accuracy dGPredictor n	363.0	363.0	True
+anchor_accuracy dGPredictor mae	0.5978	0.5978	True
+anchor_accuracy dGPredictor rmse	1.3569	1.3569	True
+anchor_accuracy dGPredictor median_ae	0.1991	0.1991	True
+anchor_accuracy dGPredictor within_tau_pct	93.3884	93.3884	True
+anchor_accuracy dGPredictor pearson	0.9243	0.9243	True
+anchor_accuracy dGbyG n	363.0	363.0	True
+anchor_accuracy dGbyG mae	1.6132	1.6132	True
+anchor_accuracy dGbyG rmse	2.5142	2.5142	True
+anchor_accuracy dGbyG median_ae	0.8955	0.8955	True
+anchor_accuracy dGbyG within_tau_pct	71.0744	71.0744	True
+anchor_accuracy dGbyG pearson	0.776	0.776	True
+dgbyg_dg rebuilt from compound_heads.npy (max |diff|, kcal)	0.0	0.0	True
+dgbyg_sd rebuilt from compound_heads.npy (max |diff|, kcal)	0.0	0.0	True
+rxn01361 dgbyg_dg / dgbyg_sd	-6.23 / 7.0	-6.23 / 7.0	True
+rxn01465 dgbyg_dg / dgbyg_sd	-9.13 / 2.5	-9.13 / 2.5	True
+rxn00187 dgbyg_dg / dgbyg_sd	7.88 / 13.6	7.88 / 13.6	True
+rxn00189 dgbyg_dg / dgbyg_sd	-13.8 / 13.6	-13.8 / 13.6	True
+433 anchor compounds re-predicted from ModelSEED SMILES (max |head diff|, kJ)	0.0	0.000122	True
+re-normalised SMILES == compound_predictions smiles_dgbyg (mismatches)	0	0	True

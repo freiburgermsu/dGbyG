@@ -1,0 +1,177 @@
+basis	margin_kJ	source	measured	call	n
+all_rows	0.0	eQuilibrator	<	<	15
+all_rows	0.0	eQuilibrator	<	>	1
+all_rows	0.0	eQuilibrator	>	>	109
+all_rows	0.0	dGPredictor	<	<	10
+all_rows	0.0	dGPredictor	<	>	2
+all_rows	0.0	dGPredictor	>	>	50
+all_rows	0.0	Group contribution	<	<	25
+all_rows	0.0	Group contribution	<	>	38
+all_rows	0.0	Group contribution	>	<	11
+all_rows	0.0	Group contribution	>	>	97
+all_rows	0.0	dGbyG	<	<	4
+all_rows	0.0	dGbyG	<	>	2
+all_rows	0.0	dGbyG	>	>	116
+all_rows	0.0	dGbyG op_z0 (sensitivity)	<	<	25
+all_rows	0.0	dGbyG op_z0 (sensitivity)	<	>	10
+all_rows	0.0	dGbyG op_z0 (sensitivity)	>	<	1
+all_rows	0.0	dGbyG op_z0 (sensitivity)	>	>	171
+all_rows	0.0	LLMs	<	<	60
+all_rows	0.0	LLMs	<	>	104
+all_rows	0.0	LLMs	>	<	10
+all_rows	0.0	LLMs	>	>	186
+all_rows	5.0	eQuilibrator	<	<	15
+all_rows	5.0	eQuilibrator	<	>	1
+all_rows	5.0	eQuilibrator	>	>	109
+all_rows	5.0	dGPredictor	<	<	9
+all_rows	5.0	dGPredictor	<	>	2
+all_rows	5.0	dGPredictor	>	>	48
+all_rows	5.0	Group contribution	<	<	24
+all_rows	5.0	Group contribution	<	>	28
+all_rows	5.0	Group contribution	>	<	8
+all_rows	5.0	Group contribution	>	>	74
+all_rows	5.0	dGbyG	<	<	3
+all_rows	5.0	dGbyG	>	>	113
+all_rows	5.0	dGbyG op_z0 (sensitivity)	<	<	22
+all_rows	5.0	dGbyG op_z0 (sensitivity)	<	>	6
+all_rows	5.0	dGbyG op_z0 (sensitivity)	>	<	1
+all_rows	5.0	dGbyG op_z0 (sensitivity)	>	>	156
+all_rows	5.0	LLMs	<	<	54
+all_rows	5.0	LLMs	<	>	61
+all_rows	5.0	LLMs	>	<	2
+all_rows	5.0	LLMs	>	>	146
+all_rows	11.7	eQuilibrator	<	<	14
+all_rows	11.7	eQuilibrator	<	>	1
+all_rows	11.7	eQuilibrator	>	>	64
+all_rows	11.7	dGPredictor	<	<	9
+all_rows	11.7	dGPredictor	>	>	41
+all_rows	11.7	Group contribution	<	<	16
+all_rows	11.7	Group contribution	<	>	22
+all_rows	11.7	Group contribution	>	<	1
+all_rows	11.7	Group contribution	>	>	53
+all_rows	11.7	dGbyG	<	<	3
+all_rows	11.7	dGbyG	>	>	52
+all_rows	11.7	dGbyG op_z0 (sensitivity)	<	<	21
+all_rows	11.7	dGbyG op_z0 (sensitivity)	<	>	3
+all_rows	11.7	dGbyG op_z0 (sensitivity)	>	>	89
+all_rows	11.7	LLMs	<	<	42
+all_rows	11.7	LLMs	<	>	44
+all_rows	11.7	LLMs	>	>	71
+live_rows_both_tiers	0.0	eQuilibrator	<	<	7
+live_rows_both_tiers	0.0	eQuilibrator	<	>	1
+live_rows_both_tiers	0.0	eQuilibrator	>	>	49
+live_rows_both_tiers	0.0	dGPredictor	<	<	7
+live_rows_both_tiers	0.0	dGPredictor	<	>	1
+live_rows_both_tiers	0.0	dGPredictor	>	>	19
+live_rows_both_tiers	0.0	Group contribution	<	<	13
+live_rows_both_tiers	0.0	Group contribution	<	>	20
+live_rows_both_tiers	0.0	Group contribution	>	<	8
+live_rows_both_tiers	0.0	Group contribution	>	>	33
+live_rows_both_tiers	0.0	dGbyG	<	<	2
+live_rows_both_tiers	0.0	dGbyG	<	>	2
+live_rows_both_tiers	0.0	dGbyG	>	>	54
+live_rows_both_tiers	0.0	dGbyG op_z0 (sensitivity)	<	<	9
+live_rows_both_tiers	0.0	dGbyG op_z0 (sensitivity)	<	>	8
+live_rows_both_tiers	0.0	dGbyG op_z0 (sensitivity)	>	<	1
+live_rows_both_tiers	0.0	dGbyG op_z0 (sensitivity)	>	>	75
+live_rows_both_tiers	0.0	LLMs	<	<	60
+live_rows_both_tiers	0.0	LLMs	<	>	104
+live_rows_both_tiers	0.0	LLMs	>	<	10
+live_rows_both_tiers	0.0	LLMs	>	>	184
+live_rows_both_tiers	5.0	eQuilibrator	<	<	7
+live_rows_both_tiers	5.0	eQuilibrator	<	>	1
+live_rows_both_tiers	5.0	eQuilibrator	>	>	49
+live_rows_both_tiers	5.0	dGPredictor	<	<	6
+live_rows_both_tiers	5.0	dGPredictor	<	>	1
+live_rows_both_tiers	5.0	dGPredictor	>	>	19
+live_rows_both_tiers	5.0	Group contribution	<	<	12
+live_rows_both_tiers	5.0	Group contribution	<	>	13
+live_rows_both_tiers	5.0	Group contribution	>	<	5
+live_rows_both_tiers	5.0	Group contribution	>	>	23
+live_rows_both_tiers	5.0	dGbyG	<	<	2
+live_rows_both_tiers	5.0	dGbyG	>	>	53
+live_rows_both_tiers	5.0	dGbyG op_z0 (sensitivity)	<	<	9
+live_rows_both_tiers	5.0	dGbyG op_z0 (sensitivity)	<	>	4
+live_rows_both_tiers	5.0	dGbyG op_z0 (sensitivity)	>	<	1
+live_rows_both_tiers	5.0	dGbyG op_z0 (sensitivity)	>	>	69
+live_rows_both_tiers	5.0	LLMs	<	<	54
+live_rows_both_tiers	5.0	LLMs	<	>	61
+live_rows_both_tiers	5.0	LLMs	>	<	2
+live_rows_both_tiers	5.0	LLMs	>	>	144
+live_rows_both_tiers	11.7	eQuilibrator	<	<	6
+live_rows_both_tiers	11.7	eQuilibrator	<	>	1
+live_rows_both_tiers	11.7	eQuilibrator	>	>	23
+live_rows_both_tiers	11.7	dGPredictor	<	<	6
+live_rows_both_tiers	11.7	dGPredictor	>	>	15
+live_rows_both_tiers	11.7	Group contribution	<	<	6
+live_rows_both_tiers	11.7	Group contribution	<	>	10
+live_rows_both_tiers	11.7	Group contribution	>	>	13
+live_rows_both_tiers	11.7	dGbyG	<	<	2
+live_rows_both_tiers	11.7	dGbyG	>	>	20
+live_rows_both_tiers	11.7	dGbyG op_z0 (sensitivity)	<	<	8
+live_rows_both_tiers	11.7	dGbyG op_z0 (sensitivity)	<	>	2
+live_rows_both_tiers	11.7	dGbyG op_z0 (sensitivity)	>	>	33
+live_rows_both_tiers	11.7	LLMs	<	<	42
+live_rows_both_tiers	11.7	LLMs	<	>	44
+live_rows_both_tiers	11.7	LLMs	>	>	70
+live_anchor_363	0.0	eQuilibrator	<	<	6
+live_anchor_363	0.0	eQuilibrator	>	>	27
+live_anchor_363	0.0	dGPredictor	<	<	2
+live_anchor_363	0.0	dGPredictor	>	>	17
+live_anchor_363	0.0	Group contribution	<	<	13
+live_anchor_363	0.0	Group contribution	<	>	15
+live_anchor_363	0.0	Group contribution	>	<	4
+live_anchor_363	0.0	Group contribution	>	>	23
+live_anchor_363	0.0	dGbyG	<	<	2
+live_anchor_363	0.0	dGbyG	<	>	2
+live_anchor_363	0.0	dGbyG	>	>	24
+live_anchor_363	0.0	dGbyG op_z0 (sensitivity)	<	<	8
+live_anchor_363	0.0	dGbyG op_z0 (sensitivity)	<	>	8
+live_anchor_363	0.0	dGbyG op_z0 (sensitivity)	>	<	1
+live_anchor_363	0.0	dGbyG op_z0 (sensitivity)	>	>	37
+live_anchor_363	0.0	LLMs	<	<	44
+live_anchor_363	0.0	LLMs	<	>	52
+live_anchor_363	0.0	LLMs	>	<	4
+live_anchor_363	0.0	LLMs	>	>	78
+live_anchor_363	0.0	dGbyG held-out CV	<	<	3
+live_anchor_363	0.0	dGbyG held-out CV	<	>	3
+live_anchor_363	0.0	dGbyG held-out CV	>	>	25
+live_anchor_363	5.0	eQuilibrator	<	<	6
+live_anchor_363	5.0	eQuilibrator	>	>	27
+live_anchor_363	5.0	dGPredictor	<	<	2
+live_anchor_363	5.0	dGPredictor	>	>	17
+live_anchor_363	5.0	Group contribution	<	<	12
+live_anchor_363	5.0	Group contribution	<	>	12
+live_anchor_363	5.0	Group contribution	>	<	2
+live_anchor_363	5.0	Group contribution	>	>	18
+live_anchor_363	5.0	dGbyG	<	<	2
+live_anchor_363	5.0	dGbyG	>	>	23
+live_anchor_363	5.0	dGbyG op_z0 (sensitivity)	<	<	8
+live_anchor_363	5.0	dGbyG op_z0 (sensitivity)	<	>	4
+live_anchor_363	5.0	dGbyG op_z0 (sensitivity)	>	<	1
+live_anchor_363	5.0	dGbyG op_z0 (sensitivity)	>	>	33
+live_anchor_363	5.0	LLMs	<	<	40
+live_anchor_363	5.0	LLMs	<	>	35
+live_anchor_363	5.0	LLMs	>	<	2
+live_anchor_363	5.0	LLMs	>	>	58
+live_anchor_363	5.0	dGbyG held-out CV	<	<	3
+live_anchor_363	5.0	dGbyG held-out CV	<	>	1
+live_anchor_363	5.0	dGbyG held-out CV	>	>	24
+live_anchor_363	11.7	eQuilibrator	<	<	5
+live_anchor_363	11.7	eQuilibrator	>	>	19
+live_anchor_363	11.7	dGPredictor	<	<	2
+live_anchor_363	11.7	dGPredictor	>	>	15
+live_anchor_363	11.7	Group contribution	<	<	6
+live_anchor_363	11.7	Group contribution	<	>	9
+live_anchor_363	11.7	Group contribution	>	>	10
+live_anchor_363	11.7	dGbyG	<	<	2
+live_anchor_363	11.7	dGbyG	>	>	15
+live_anchor_363	11.7	dGbyG op_z0 (sensitivity)	<	<	7
+live_anchor_363	11.7	dGbyG op_z0 (sensitivity)	<	>	2
+live_anchor_363	11.7	dGbyG op_z0 (sensitivity)	>	>	23
+live_anchor_363	11.7	LLMs	<	<	32
+live_anchor_363	11.7	LLMs	<	>	25
+live_anchor_363	11.7	LLMs	>	>	34
+live_anchor_363	11.7	dGbyG held-out CV	<	<	3
+live_anchor_363	11.7	dGbyG held-out CV	<	>	1
+live_anchor_363	11.7	dGbyG held-out CV	>	>	16

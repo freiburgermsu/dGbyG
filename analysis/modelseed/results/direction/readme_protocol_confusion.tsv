@@ -1,0 +1,161 @@
+population	source	truth	call	n
+801_all_anchors	eQuilibrator	>	>	117
+801_all_anchors	eQuilibrator	>	<	0
+801_all_anchors	eQuilibrator	>	=	4
+801_all_anchors	eQuilibrator	>	?	3
+801_all_anchors	eQuilibrator	>	none	1
+801_all_anchors	eQuilibrator	<	>	0
+801_all_anchors	eQuilibrator	<	<	30
+801_all_anchors	eQuilibrator	<	=	2
+801_all_anchors	eQuilibrator	<	?	1
+801_all_anchors	eQuilibrator	<	none	0
+801_all_anchors	eQuilibrator	=	>	6
+801_all_anchors	eQuilibrator	=	<	2
+801_all_anchors	eQuilibrator	=	=	364
+801_all_anchors	eQuilibrator	=	?	60
+801_all_anchors	eQuilibrator	=	none	1
+801_all_anchors	eQuilibrator	?	>	4
+801_all_anchors	eQuilibrator	?	<	7
+801_all_anchors	eQuilibrator	?	=	11
+801_all_anchors	eQuilibrator	?	?	187
+801_all_anchors	eQuilibrator	?	none	1
+801_all_anchors	dGPredictor	>	>	113
+801_all_anchors	dGPredictor	>	<	0
+801_all_anchors	dGPredictor	>	=	4
+801_all_anchors	dGPredictor	>	?	8
+801_all_anchors	dGPredictor	>	none	0
+801_all_anchors	dGPredictor	<	>	0
+801_all_anchors	dGPredictor	<	<	29
+801_all_anchors	dGPredictor	<	=	3
+801_all_anchors	dGPredictor	<	?	1
+801_all_anchors	dGPredictor	<	none	0
+801_all_anchors	dGPredictor	=	>	5
+801_all_anchors	dGPredictor	=	<	0
+801_all_anchors	dGPredictor	=	=	391
+801_all_anchors	dGPredictor	=	?	37
+801_all_anchors	dGPredictor	=	none	0
+801_all_anchors	dGPredictor	?	>	3
+801_all_anchors	dGPredictor	?	<	0
+801_all_anchors	dGPredictor	?	=	12
+801_all_anchors	dGPredictor	?	?	195
+801_all_anchors	dGPredictor	?	none	0
+801_all_anchors	Group contribution	>	>	66
+801_all_anchors	Group contribution	>	<	0
+801_all_anchors	Group contribution	>	=	23
+801_all_anchors	Group contribution	>	?	36
+801_all_anchors	Group contribution	>	none	0
+801_all_anchors	Group contribution	<	>	0
+801_all_anchors	Group contribution	<	<	14
+801_all_anchors	Group contribution	<	=	3
+801_all_anchors	Group contribution	<	?	16
+801_all_anchors	Group contribution	<	none	0
+801_all_anchors	Group contribution	=	>	33
+801_all_anchors	Group contribution	=	<	11
+801_all_anchors	Group contribution	=	=	240
+801_all_anchors	Group contribution	=	?	149
+801_all_anchors	Group contribution	=	none	0
+801_all_anchors	Group contribution	?	>	15
+801_all_anchors	Group contribution	?	<	7
+801_all_anchors	Group contribution	?	=	27
+801_all_anchors	Group contribution	?	?	160
+801_all_anchors	Group contribution	?	none	1
+801_all_anchors	dGbyG	>	>	107
+801_all_anchors	dGbyG	>	<	0
+801_all_anchors	dGbyG	>	=	8
+801_all_anchors	dGbyG	>	?	10
+801_all_anchors	dGbyG	>	none	0
+801_all_anchors	dGbyG	<	>	0
+801_all_anchors	dGbyG	<	<	27
+801_all_anchors	dGbyG	<	=	3
+801_all_anchors	dGbyG	<	?	3
+801_all_anchors	dGbyG	<	none	0
+801_all_anchors	dGbyG	=	>	15
+801_all_anchors	dGbyG	=	<	1
+801_all_anchors	dGbyG	=	=	358
+801_all_anchors	dGbyG	=	?	59
+801_all_anchors	dGbyG	=	none	0
+801_all_anchors	dGbyG	?	>	8
+801_all_anchors	dGbyG	?	<	0
+801_all_anchors	dGbyG	?	=	35
+801_all_anchors	dGbyG	?	?	167
+801_all_anchors	dGbyG	?	none	0
+363_live_anchors	eQuilibrator	>	>	40
+363_live_anchors	eQuilibrator	>	<	0
+363_live_anchors	eQuilibrator	>	=	1
+363_live_anchors	eQuilibrator	>	?	3
+363_live_anchors	eQuilibrator	>	none	0
+363_live_anchors	eQuilibrator	<	>	0
+363_live_anchors	eQuilibrator	<	<	15
+363_live_anchors	eQuilibrator	<	=	1
+363_live_anchors	eQuilibrator	<	?	1
+363_live_anchors	eQuilibrator	<	none	0
+363_live_anchors	eQuilibrator	=	>	3
+363_live_anchors	eQuilibrator	=	<	1
+363_live_anchors	eQuilibrator	=	=	160
+363_live_anchors	eQuilibrator	=	?	32
+363_live_anchors	eQuilibrator	=	none	0
+363_live_anchors	eQuilibrator	?	>	2
+363_live_anchors	eQuilibrator	?	<	3
+363_live_anchors	eQuilibrator	?	=	7
+363_live_anchors	eQuilibrator	?	?	94
+363_live_anchors	eQuilibrator	?	none	0
+363_live_anchors	dGPredictor	>	>	40
+363_live_anchors	dGPredictor	>	<	0
+363_live_anchors	dGPredictor	>	=	1
+363_live_anchors	dGPredictor	>	?	3
+363_live_anchors	dGPredictor	>	none	0
+363_live_anchors	dGPredictor	<	>	0
+363_live_anchors	dGPredictor	<	<	14
+363_live_anchors	dGPredictor	<	=	2
+363_live_anchors	dGPredictor	<	?	1
+363_live_anchors	dGPredictor	<	none	0
+363_live_anchors	dGPredictor	=	>	2
+363_live_anchors	dGPredictor	=	<	0
+363_live_anchors	dGPredictor	=	=	181
+363_live_anchors	dGPredictor	=	?	13
+363_live_anchors	dGPredictor	=	none	0
+363_live_anchors	dGPredictor	?	>	2
+363_live_anchors	dGPredictor	?	<	0
+363_live_anchors	dGPredictor	?	=	7
+363_live_anchors	dGPredictor	?	?	97
+363_live_anchors	dGPredictor	?	none	0
+363_live_anchors	Group contribution	>	>	18
+363_live_anchors	Group contribution	>	<	0
+363_live_anchors	Group contribution	>	=	8
+363_live_anchors	Group contribution	>	?	18
+363_live_anchors	Group contribution	>	none	0
+363_live_anchors	Group contribution	<	>	0
+363_live_anchors	Group contribution	<	<	6
+363_live_anchors	Group contribution	<	=	3
+363_live_anchors	Group contribution	<	?	8
+363_live_anchors	Group contribution	<	none	0
+363_live_anchors	Group contribution	=	>	15
+363_live_anchors	Group contribution	=	<	6
+363_live_anchors	Group contribution	=	=	100
+363_live_anchors	Group contribution	=	?	75
+363_live_anchors	Group contribution	=	none	0
+363_live_anchors	Group contribution	?	>	5
+363_live_anchors	Group contribution	?	<	5
+363_live_anchors	Group contribution	?	=	15
+363_live_anchors	Group contribution	?	?	80
+363_live_anchors	Group contribution	?	none	1
+363_live_anchors	dGbyG	>	>	38
+363_live_anchors	dGbyG	>	<	0
+363_live_anchors	dGbyG	>	=	1
+363_live_anchors	dGbyG	>	?	5
+363_live_anchors	dGbyG	>	none	0
+363_live_anchors	dGbyG	<	>	0
+363_live_anchors	dGbyG	<	<	13
+363_live_anchors	dGbyG	<	=	3
+363_live_anchors	dGbyG	<	?	1
+363_live_anchors	dGbyG	<	none	0
+363_live_anchors	dGbyG	=	>	7
+363_live_anchors	dGbyG	=	<	0
+363_live_anchors	dGbyG	=	=	156
+363_live_anchors	dGbyG	=	?	33
+363_live_anchors	dGbyG	=	none	0
+363_live_anchors	dGbyG	?	>	4
+363_live_anchors	dGbyG	?	<	0
+363_live_anchors	dGbyG	?	=	18
+363_live_anchors	dGbyG	?	?	84
+363_live_anchors	dGbyG	?	none	0

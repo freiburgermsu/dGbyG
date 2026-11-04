@@ -1,0 +1,6 @@
+run	eQuilibrator	dGPredictor	Group contribution	openTECR	dGbyG
+baseline	16985	7935	2055	363	0.0000
+dgb_last	14818	7769	2188	363	2355.0000
+dgb_after_eq	14818	2494	2014	363	7804.0000
+heldout_dgb_last	14820	7779	2189	363	2342.0000
+heldout_dgb_after_eq	14820	2497	2014	363	7799.0000

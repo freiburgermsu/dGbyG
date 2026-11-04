@@ -1,0 +1,7 @@
+source	both_commit	agree_pct	chance_pct	kappa	fwd_share_all_calls_pct	fwd_share_committed_pct
+eQuilibrator	8084.0000	94.7303	88.2902	0.5500	36.0860	88.9965
+dGPredictor	7057.0000	80.4024	77.4494	0.1310	23.1039	76.2174
+Group contribution	9798.0000	90.9880	87.2728	0.2919	23.8379	87.5668
+dGbyG	7847.0000	94.8133	89.1105	0.5237	31.5112	89.0137
+dGbyG (repaired)	10114.0000	95.6199	89.1664	0.5957	40.6067	89.5007
+LLMs					85.3220	94.3070

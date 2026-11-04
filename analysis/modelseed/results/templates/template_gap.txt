@@ -1,0 +1,31 @@
+== ArchaeaTemplateV6: 8591 distinct reactions (1 not in the database)
+   no eQ/dGP/GC energy: 2037 (23.7%)
+   dGbyG fills 1 (0.0% of the gap); calls {'=': 1}; committed 0, resolved 1
+   still without an energy: 2036; dGbyG status: {'missing structure': 1390, 'R group': 524, 'translocation only': 120, 'no stoichiometry': 1, 'degenerate': 1}
+   gap by template type: conditional 1/1106, gapfilling 0/928, spontaneous 0/3
+   filled: transport 0, ModelSEED status {'OK': 1}
+== Core-V6: 247 distinct reactions (0 not in the database)
+   no eQ/dGP/GC energy: 38 (15.4%)
+   dGbyG fills 0 (0.0% of the gap); calls {}; committed 0, resolved 0
+   still without an energy: 38; dGbyG status: {'missing structure': 18, 'R group': 14, 'translocation only': 6}
+   gap by template type: conditional 0/35, spontaneous 0/2, gapfilling 0/1
+   filled: transport 0, ModelSEED status {}
+== GramNegModelTemplateV7: 8578 distinct reactions (0 not in the database)
+   no eQ/dGP/GC energy: 2039 (23.8%)
+   dGbyG fills 1 (0.0% of the gap); calls {'=': 1}; committed 0, resolved 1
+   still without an energy: 2038; dGbyG status: {'missing structure': 1393, 'R group': 523, 'translocation only': 120, 'no stoichiometry': 1, 'degenerate': 1}
+   gap by template type: conditional 1/1108, gapfilling 0/928, spontaneous 0/3
+   filled: transport 0, ModelSEED status {'OK': 1}
+== GramPosModelTemplateV7: 8578 distinct reactions (0 not in the database)
+   no eQ/dGP/GC energy: 2039 (23.8%)
+   dGbyG fills 1 (0.0% of the gap); calls {'=': 1}; committed 0, resolved 1
+   still without an energy: 2038; dGbyG status: {'missing structure': 1393, 'R group': 523, 'translocation only': 120, 'no stoichiometry': 1, 'degenerate': 1}
+   gap by template type: conditional 1/1108, gapfilling 0/928, spontaneous 0/3
+   filled: transport 0, ModelSEED status {'OK': 1}
+== union of all four: 8597 distinct reactions (1 not in the database)
+   no eQ/dGP/GC energy: 2040 (23.7%)
+   dGbyG fills 1 (0.0% of the gap); calls {'=': 1}; committed 0, resolved 1
+   still without an energy: 2039; dGbyG status: {'missing structure': 1393, 'R group': 524, 'translocation only': 120, 'no stoichiometry': 1, 'degenerate': 1}
+   filled: transport 0, ModelSEED status {'OK': 1}
+   filled sigma: median 0.77 kcal/mol, sigma>5: 0
+   LLM calls on the gap: {'<': 116, '>': 1687, '=': 110, '': 122, '?': 5}

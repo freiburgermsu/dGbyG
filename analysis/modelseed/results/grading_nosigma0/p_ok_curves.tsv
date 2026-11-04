@@ -1,0 +1,265 @@
+run	source	sigma_kcal	p_ok
+baseline	Group contribution	0.61	1.0
+baseline	Group contribution	0.66	0.9818181818181818
+baseline	Group contribution	0.99	0.9818181818181818
+baseline	Group contribution	1.0	0.7368421052631579
+baseline	Group contribution	1.11	0.7368421052631579
+baseline	Group contribution	1.12	0.6538461538461539
+baseline	Group contribution	1.14	0.6538461538461539
+baseline	Group contribution	1.15	0.6312718786464411
+baseline	Group contribution	2.17	0.6312718786464411
+baseline	Group contribution	2.18	0.625
+baseline	Group contribution	2.23	0.625
+baseline	Group contribution	2.24	0.5795297372060858
+baseline	Group contribution	3.33	0.5795297372060858
+baseline	Group contribution	3.34	0.5777777777777777
+baseline	Group contribution	3.45	0.5777777777777777
+baseline	Group contribution	3.46	0.518348623853211
+baseline	Group contribution	4.13	0.518348623853211
+baseline	Group contribution	4.14	0.4383561643835616
+baseline	Group contribution	4.26	0.4383561643835616
+baseline	Group contribution	4.29	0.41933951057258256
+baseline	Group contribution	10.82	0.41933951057258256
+baseline	Group contribution	10.83	0.418848167539267
+baseline	Group contribution	11.2	0.418848167539267
+baseline	Group contribution	11.21	0.411214953271028
+baseline	Group contribution	12.17	0.411214953271028
+baseline	Group contribution	12.18	0.18206024296888002
+baseline	Group contribution	87.61	0.18206024296888002
+baseline	Group contribution	109.3	0.0
+baseline	eQuilibrator	0.04	1.0
+baseline	eQuilibrator	0.08	1.0
+baseline	eQuilibrator	0.09	0.9846153846153847
+baseline	eQuilibrator	0.12	0.9846153846153847
+baseline	eQuilibrator	0.13	0.9042145593869731
+baseline	eQuilibrator	0.36	0.9042145593869731
+baseline	eQuilibrator	0.37	0.8762886597938144
+baseline	eQuilibrator	0.76	0.8762886597938144
+baseline	eQuilibrator	0.77	0.5555555555555556
+baseline	eQuilibrator	0.78	0.5555555555555556
+baseline	dGPredictor	1.48	0.9957424161788185
+baseline	dGPredictor	1.49	0.9957424161788185
+baseline	dGPredictor	1.5	0.9335260115606936
+baseline	dGPredictor	1.54	0.9335260115606936
+baseline	dGPredictor	1.55	0.8586572438162544
+baseline	dGPredictor	1.58	0.8586572438162544
+baseline	dGPredictor	1.59	0.8132036847492323
+baseline	dGPredictor	2.1	0.8132036847492323
+baseline	dGPredictor	2.11	0.4604904632152589
+baseline	dGPredictor	5.81	0.4604904632152589
+baseline	dGPredictor	5.83	0.40540540540540543
+baseline	dGPredictor	5.88	0.40540540540540543
+baseline	dGPredictor	5.89	0.3206971677559913
+baseline	dGPredictor	12.32	0.3206971677559913
+baseline	dGPredictor	12.33	0.2781456953642384
+baseline	dGPredictor	12.71	0.2781456953642384
+baseline	dGPredictor	12.72	0.2102177554438861
+baseline	dGPredictor	15.29	0.2102177554438861
+baseline	dGPredictor	15.31	0.1621346023113529
+baseline	dGPredictor	23.26	0.1621346023113529
+baseline	dGPredictor	23.28	0.10569105691056911
+baseline	dGPredictor	23.77	0.10569105691056911
+baseline	dGPredictor	23.79	0.0875
+baseline	dGPredictor	24.35	0.0875
+baseline	dGPredictor	24.38	0.08203530633437175
+baseline	dGPredictor	45.36	0.08203530633437175
+baseline	dGPredictor	45.45	0.0625
+baseline	dGPredictor	56.75	0.0625
+baseline	dGPredictor	58.33	0.0
+baseline	dGPredictor	162.04	0.0
+dgb_last	Group contribution	0.61	1.0
+dgb_last	Group contribution	0.66	0.9818181818181818
+dgb_last	Group contribution	0.99	0.9818181818181818
+dgb_last	Group contribution	1.0	0.7368421052631579
+dgb_last	Group contribution	1.11	0.7368421052631579
+dgb_last	Group contribution	1.12	0.6538461538461539
+dgb_last	Group contribution	1.14	0.6538461538461539
+dgb_last	Group contribution	1.15	0.6312718786464411
+dgb_last	Group contribution	2.17	0.6312718786464411
+dgb_last	Group contribution	2.18	0.625
+dgb_last	Group contribution	2.23	0.625
+dgb_last	Group contribution	2.24	0.5795297372060858
+dgb_last	Group contribution	3.33	0.5795297372060858
+dgb_last	Group contribution	3.34	0.5777777777777777
+dgb_last	Group contribution	3.45	0.5777777777777777
+dgb_last	Group contribution	3.46	0.518348623853211
+dgb_last	Group contribution	4.13	0.518348623853211
+dgb_last	Group contribution	4.14	0.4383561643835616
+dgb_last	Group contribution	4.26	0.4383561643835616
+dgb_last	Group contribution	4.29	0.41933951057258256
+dgb_last	Group contribution	10.82	0.41933951057258256
+dgb_last	Group contribution	10.83	0.418848167539267
+dgb_last	Group contribution	11.2	0.418848167539267
+dgb_last	Group contribution	11.21	0.411214953271028
+dgb_last	Group contribution	12.17	0.411214953271028
+dgb_last	Group contribution	12.18	0.18206024296888002
+dgb_last	Group contribution	87.61	0.18206024296888002
+dgb_last	Group contribution	109.3	0.0
+dgb_last	eQuilibrator	0.04	1.0
+dgb_last	eQuilibrator	0.08	1.0
+dgb_last	eQuilibrator	0.09	0.9846153846153847
+dgb_last	eQuilibrator	0.12	0.9846153846153847
+dgb_last	eQuilibrator	0.13	0.9042145593869731
+dgb_last	eQuilibrator	0.36	0.9042145593869731
+dgb_last	eQuilibrator	0.37	0.8762886597938144
+dgb_last	eQuilibrator	0.76	0.8762886597938144
+dgb_last	eQuilibrator	0.77	0.5555555555555556
+dgb_last	eQuilibrator	0.78	0.5555555555555556
+dgb_last	dGPredictor	1.48	0.9957424161788185
+dgb_last	dGPredictor	1.49	0.9957424161788185
+dgb_last	dGPredictor	1.5	0.9335260115606936
+dgb_last	dGPredictor	1.54	0.9335260115606936
+dgb_last	dGPredictor	1.55	0.8586572438162544
+dgb_last	dGPredictor	1.58	0.8586572438162544
+dgb_last	dGPredictor	1.59	0.8132036847492323
+dgb_last	dGPredictor	2.1	0.8132036847492323
+dgb_last	dGPredictor	2.11	0.4604904632152589
+dgb_last	dGPredictor	5.81	0.4604904632152589
+dgb_last	dGPredictor	5.83	0.40540540540540543
+dgb_last	dGPredictor	5.88	0.40540540540540543
+dgb_last	dGPredictor	5.89	0.3206971677559913
+dgb_last	dGPredictor	12.32	0.3206971677559913
+dgb_last	dGPredictor	12.33	0.2781456953642384
+dgb_last	dGPredictor	12.71	0.2781456953642384
+dgb_last	dGPredictor	12.72	0.2102177554438861
+dgb_last	dGPredictor	15.29	0.2102177554438861
+dgb_last	dGPredictor	15.31	0.1621346023113529
+dgb_last	dGPredictor	23.26	0.1621346023113529
+dgb_last	dGPredictor	23.28	0.10569105691056911
+dgb_last	dGPredictor	23.77	0.10569105691056911
+dgb_last	dGPredictor	23.79	0.0875
+dgb_last	dGPredictor	24.35	0.0875
+dgb_last	dGPredictor	24.38	0.08203530633437175
+dgb_last	dGPredictor	45.36	0.08203530633437175
+dgb_last	dGPredictor	45.45	0.0625
+dgb_last	dGPredictor	56.75	0.0625
+dgb_last	dGPredictor	58.33	0.0
+dgb_last	dGPredictor	162.04	0.0
+dgb_last	dGbyG	0.04	0.9632107023411371
+dgb_last	dGbyG	0.07	0.9632107023411371
+dgb_last	dGbyG	0.08	0.9041095890410958
+dgb_last	dGbyG	0.44	0.9041095890410958
+dgb_last	dGbyG	0.45	0.8429522752497225
+dgb_last	dGbyG	0.78	0.8429522752497225
+dgb_last	dGbyG	0.79	0.7455197132616488
+dgb_last	dGbyG	1.01	0.7455197132616488
+dgb_last	dGbyG	1.02	0.7305389221556886
+dgb_last	dGbyG	1.14	0.7305389221556886
+dgb_last	dGbyG	1.15	0.6666666666666666
+dgb_last	dGbyG	1.17	0.6666666666666666
+dgb_last	dGbyG	1.18	0.6521739130434783
+dgb_last	dGbyG	1.22	0.6521739130434783
+dgb_last	dGbyG	1.23	0.625
+dgb_last	dGbyG	1.35	0.625
+dgb_last	dGbyG	1.36	0.5104990455413143
+dgb_last	dGbyG	5.91	0.5104990455413143
+dgb_last	dGbyG	5.92	0.5009560229445507
+dgb_last	dGbyG	6.24	0.5009560229445507
+dgb_last	dGbyG	6.25	0.4690909090909091
+dgb_last	dGbyG	7.33	0.4690909090909091
+dgb_last	dGbyG	7.39	0.4583333333333333
+dgb_last	dGbyG	8.89	0.4583333333333333
+dgb_last	dGbyG	8.9	0.3404255319148936
+dgb_last	dGbyG	9.61	0.3404255319148936
+dgb_last	dGbyG	9.63	0.07965686274509803
+dgb_last	dGbyG	14.3	0.07965686274509803
+dgb_last	dGbyG	14.36	0.0
+dgb_last	dGbyG	27.2	0.0
+dgb_after_eq	Group contribution	0.61	1.0
+dgb_after_eq	Group contribution	0.66	0.9818181818181818
+dgb_after_eq	Group contribution	0.99	0.9818181818181818
+dgb_after_eq	Group contribution	1.0	0.7368421052631579
+dgb_after_eq	Group contribution	1.11	0.7368421052631579
+dgb_after_eq	Group contribution	1.12	0.6538461538461539
+dgb_after_eq	Group contribution	1.14	0.6538461538461539
+dgb_after_eq	Group contribution	1.15	0.6312718786464411
+dgb_after_eq	Group contribution	2.17	0.6312718786464411
+dgb_after_eq	Group contribution	2.18	0.625
+dgb_after_eq	Group contribution	2.23	0.625
+dgb_after_eq	Group contribution	2.24	0.5795297372060858
+dgb_after_eq	Group contribution	3.33	0.5795297372060858
+dgb_after_eq	Group contribution	3.34	0.5777777777777777
+dgb_after_eq	Group contribution	3.45	0.5777777777777777
+dgb_after_eq	Group contribution	3.46	0.518348623853211
+dgb_after_eq	Group contribution	4.13	0.518348623853211
+dgb_after_eq	Group contribution	4.14	0.4383561643835616
+dgb_after_eq	Group contribution	4.26	0.4383561643835616
+dgb_after_eq	Group contribution	4.29	0.41933951057258256
+dgb_after_eq	Group contribution	10.82	0.41933951057258256
+dgb_after_eq	Group contribution	10.83	0.418848167539267
+dgb_after_eq	Group contribution	11.2	0.418848167539267
+dgb_after_eq	Group contribution	11.21	0.411214953271028
+dgb_after_eq	Group contribution	12.17	0.411214953271028
+dgb_after_eq	Group contribution	12.18	0.18206024296888002
+dgb_after_eq	Group contribution	87.61	0.18206024296888002
+dgb_after_eq	Group contribution	109.3	0.0
+dgb_after_eq	eQuilibrator	0.04	1.0
+dgb_after_eq	eQuilibrator	0.08	1.0
+dgb_after_eq	eQuilibrator	0.09	0.9846153846153847
+dgb_after_eq	eQuilibrator	0.12	0.9846153846153847
+dgb_after_eq	eQuilibrator	0.13	0.9042145593869731
+dgb_after_eq	eQuilibrator	0.36	0.9042145593869731
+dgb_after_eq	eQuilibrator	0.37	0.8762886597938144
+dgb_after_eq	eQuilibrator	0.76	0.8762886597938144
+dgb_after_eq	eQuilibrator	0.77	0.5555555555555556
+dgb_after_eq	eQuilibrator	0.78	0.5555555555555556
+dgb_after_eq	dGPredictor	1.48	0.9957424161788185
+dgb_after_eq	dGPredictor	1.49	0.9957424161788185
+dgb_after_eq	dGPredictor	1.5	0.9335260115606936
+dgb_after_eq	dGPredictor	1.54	0.9335260115606936
+dgb_after_eq	dGPredictor	1.55	0.8586572438162544
+dgb_after_eq	dGPredictor	1.58	0.8586572438162544
+dgb_after_eq	dGPredictor	1.59	0.8132036847492323
+dgb_after_eq	dGPredictor	2.1	0.8132036847492323
+dgb_after_eq	dGPredictor	2.11	0.4604904632152589
+dgb_after_eq	dGPredictor	5.81	0.4604904632152589
+dgb_after_eq	dGPredictor	5.83	0.40540540540540543
+dgb_after_eq	dGPredictor	5.88	0.40540540540540543
+dgb_after_eq	dGPredictor	5.89	0.3206971677559913
+dgb_after_eq	dGPredictor	12.32	0.3206971677559913
+dgb_after_eq	dGPredictor	12.33	0.2781456953642384
+dgb_after_eq	dGPredictor	12.71	0.2781456953642384
+dgb_after_eq	dGPredictor	12.72	0.2102177554438861
+dgb_after_eq	dGPredictor	15.29	0.2102177554438861
+dgb_after_eq	dGPredictor	15.31	0.1621346023113529
+dgb_after_eq	dGPredictor	23.26	0.1621346023113529
+dgb_after_eq	dGPredictor	23.28	0.10569105691056911
+dgb_after_eq	dGPredictor	23.77	0.10569105691056911
+dgb_after_eq	dGPredictor	23.79	0.0875
+dgb_after_eq	dGPredictor	24.35	0.0875
+dgb_after_eq	dGPredictor	24.38	0.08203530633437175
+dgb_after_eq	dGPredictor	45.36	0.08203530633437175
+dgb_after_eq	dGPredictor	45.45	0.0625
+dgb_after_eq	dGPredictor	56.75	0.0625
+dgb_after_eq	dGPredictor	58.33	0.0
+dgb_after_eq	dGPredictor	162.04	0.0
+dgb_after_eq	dGbyG	0.04	0.9632107023411371
+dgb_after_eq	dGbyG	0.07	0.9632107023411371
+dgb_after_eq	dGbyG	0.08	0.9041095890410958
+dgb_after_eq	dGbyG	0.44	0.9041095890410958
+dgb_after_eq	dGbyG	0.45	0.8429522752497225
+dgb_after_eq	dGbyG	0.78	0.8429522752497225
+dgb_after_eq	dGbyG	0.79	0.7455197132616488
+dgb_after_eq	dGbyG	1.01	0.7455197132616488
+dgb_after_eq	dGbyG	1.02	0.7305389221556886
+dgb_after_eq	dGbyG	1.14	0.7305389221556886
+dgb_after_eq	dGbyG	1.15	0.6666666666666666
+dgb_after_eq	dGbyG	1.17	0.6666666666666666
+dgb_after_eq	dGbyG	1.18	0.6521739130434783
+dgb_after_eq	dGbyG	1.22	0.6521739130434783
+dgb_after_eq	dGbyG	1.23	0.625
+dgb_after_eq	dGbyG	1.35	0.625
+dgb_after_eq	dGbyG	1.36	0.5104990455413143
+dgb_after_eq	dGbyG	5.91	0.5104990455413143
+dgb_after_eq	dGbyG	5.92	0.5009560229445507
+dgb_after_eq	dGbyG	6.24	0.5009560229445507
+dgb_after_eq	dGbyG	6.25	0.4690909090909091
+dgb_after_eq	dGbyG	7.33	0.4690909090909091
+dgb_after_eq	dGbyG	7.39	0.4583333333333333
+dgb_after_eq	dGbyG	8.89	0.4583333333333333
+dgb_after_eq	dGbyG	8.9	0.3404255319148936
+dgb_after_eq	dGbyG	9.61	0.3404255319148936
+dgb_after_eq	dGbyG	9.63	0.07965686274509803
+dgb_after_eq	dGbyG	14.3	0.07965686274509803
+dgb_after_eq	dGbyG	14.36	0.0
+dgb_after_eq	dGbyG	27.2	0.0

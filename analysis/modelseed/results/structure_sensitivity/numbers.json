@@ -1,0 +1,298 @@
+{
+ "baseline_reproduced": true,
+ "anchors": 363,
+ "orientation": {
+  "same": 334,
+  "reversed": 29
+ },
+ "orientation_fallback": 0,
+ "kegg_reaction_api_added_water": 0,
+ "in_training_kegg_key": {
+  "exact": 363
+ },
+ "in_training_ms_key": {
+  "no": 263,
+  "exact": 89,
+  "skeleton": 11
+ },
+ "common": {
+  "eQuilibrator": {
+   "subset": "common (eQ, dGP, dGbyG x2)",
+   "source": "eQuilibrator",
+   "n": 363,
+   "pearson": 0.9267,
+   "spearman": 0.9418,
+   "mae": 0.8148,
+   "median_ae": 0.4014,
+   "rmse": 1.4169,
+   "bias": 0.279,
+   "within_tau_pct": 89.5317,
+   "sign_agree_pct": 89.8072
+  },
+  "dGPredictor": {
+   "subset": "common (eQ, dGP, dGbyG x2)",
+   "source": "dGPredictor",
+   "n": 363,
+   "pearson": 0.9243,
+   "spearman": 0.9459,
+   "mae": 0.5978,
+   "median_ae": 0.1991,
+   "rmse": 1.3569,
+   "bias": -0.0672,
+   "within_tau_pct": 93.3884,
+   "sign_agree_pct": 91.7355
+  },
+  "dGbyG_ModelSEED": {
+   "subset": "common (eQ, dGP, dGbyG x2)",
+   "source": "dGbyG_ModelSEED",
+   "n": 363,
+   "pearson": 0.776,
+   "spearman": 0.7817,
+   "mae": 1.6132,
+   "median_ae": 0.8955,
+   "rmse": 2.5142,
+   "bias": 0.0728,
+   "within_tau_pct": 71.0744,
+   "sign_agree_pct": 79.6143
+  },
+  "dGbyG_KEGG": {
+   "subset": "common (eQ, dGP, dGbyG x2)",
+   "source": "dGbyG_KEGG",
+   "n": 363,
+   "pearson": 0.9018,
+   "spearman": 0.9,
+   "mae": 0.9742,
+   "median_ae": 0.5964,
+   "rmse": 1.5031,
+   "bias": 0.2507,
+   "within_tau_pct": 86.2259,
+   "sign_agree_pct": 83.4711
+  }
+ },
+ "gap_gt1": 141,
+ "gap_gt2": 44,
+ "abs_error_reduction_pct": 39.61,
+ "compound_pairs": 433,
+ "compound_pairs_diff_gt1": 143,
+ "causes_diff_gt1": {
+  "residual charge+tautomer": 37,
+  "tautomer": 50,
+  "residual charge": 51,
+  "residual charge+protonation": 2,
+  "protonation": 3
+ },
+ "gap_share_by_cause_net_pct": {
+  "identical": 0.0,
+  "protonation": 0.66,
+  "residual charge": 15.53,
+  "residual charge+protonation": 27.94,
+  "residual charge+tautomer": 5.69,
+  "stereo": 0.0,
+  "tautomer": 50.18
+ },
+ "census": {
+  "wildcard": {
+   "n_compounds": 6466,
+   "live_ok_reactions_touching": 0
+  },
+  "any_charge": {
+   "n_compounds": 11618,
+   "live_ok_reactions_touching": 14979
+  },
+  "cation_with_H": {
+   "n_compounds": 9737,
+   "live_ok_reactions_touching": 14341
+  },
+  "cation_without_H": {
+   "n_compounds": 2229,
+   "live_ok_reactions_touching": 7513
+  },
+  "zwitterion": {
+   "n_compounds": 7834,
+   "live_ok_reactions_touching": 13522
+  },
+  "net_charge": {
+   "n_compounds": 4037,
+   "live_ok_reactions_touching": 3198
+  },
+  "fix_changes": {
+   "n_compounds": 9753,
+   "live_ok_reactions_touching": 14350
+  },
+  "fix_any_charge": {
+   "n_compounds": 2252,
+   "live_ok_reactions_touching": 7523
+  },
+  "imidic acid / lactim (N=C-OH)": {
+   "n_compounds": 5323,
+   "live_ok_reactions_touching": 10243
+  },
+  "hydroxy-azine lactim (OH on aromatic C next to n)": {
+   "n_compounds": 1070,
+   "live_ok_reactions_touching": 3031
+  },
+  "enol (C=C-OH)": {
+   "n_compounds": 530,
+   "live_ok_reactions_touching": 619
+  }
+ },
+ "census_kegg": {
+  "identical": 9587,
+  "residual charge": 2053,
+  "tautomer": 1344,
+  "residual charge+tautomer": 1127,
+  "stereo": 551,
+  "residual charge+stereo": 209,
+  "isomer/C-H tautomer": 181,
+  "protonation": 81,
+  "residual charge+protonation": 31,
+  "different constitution": 21,
+  "residual charge+isomer/C-H tautomer": 20,
+  "residual charge+different constitution": 7
+ },
+ "nh4_sigma_kcal": 13.618,
+ "nh4_reactions": {
+  "n": 576,
+  "median_sd": 10.765,
+  "median_sd_other": 2.57,
+  "pct_sd_ge_13": 44.6
+ },
+ "sigma_by_charge_flag": {
+  "cation_with_H": {
+   "n": 9737,
+   "median_sd": 10.62,
+   "pct_sd_gt5": 99.86
+  },
+  "no charge left": {
+   "n": 25270,
+   "median_sd": 5.249,
+   "pct_sd_gt5": 52.14
+  },
+  "any charge left": {
+   "n": 11618,
+   "median_sd": 10.487,
+   "pct_sd_gt5": 99.29
+  }
+ },
+ "calibration": {
+  "ms_native": {
+   "n": 348,
+   "n_sigma_zero": 15,
+   "rms_z": 6.368,
+   "median_abs_z": 0.662,
+   "within_1sd_pct": 62.36,
+   "within_2sd_pct": 78.16,
+   "median_sigma": 0.77
+  },
+  "kegg_native": {
+   "n": 345,
+   "n_sigma_zero": 18,
+   "rms_z": 9.123,
+   "median_abs_z": 2.643,
+   "within_1sd_pct": 22.32,
+   "within_2sd_pct": 39.42,
+   "median_sigma": 0.22
+  },
+  "ms_fix_amide": {
+   "n": 345,
+   "n_sigma_zero": 18,
+   "rms_z": 7.697,
+   "median_abs_z": 1.788,
+   "within_1sd_pct": 30.14,
+   "within_2sd_pct": 52.75,
+   "median_sigma": 0.34
+  },
+  "ms_fix_tautks": {
+   "n": 344,
+   "n_sigma_zero": 19,
+   "rms_z": 7.916,
+   "median_abs_z": 2.182,
+   "within_1sd_pct": 25.58,
+   "within_2sd_pct": 45.93,
+   "median_sigma": 0.34
+  },
+  "kegg_fix_tautks": {
+   "n": 344,
+   "n_sigma_zero": 19,
+   "rms_z": 9.193,
+   "median_abs_z": 2.811,
+   "within_1sd_pct": 20.64,
+   "within_2sd_pct": 36.63,
+   "median_sigma": 0.23
+  }
+ },
+ "remedy": {
+  "ms_native": {
+   "mae": 1.6132,
+   "rmse": 2.5142,
+   "gap_to_kegg_native": 0.9721
+  },
+  "kegg_native": {
+   "mae": 0.9742,
+   "rmse": 1.5031,
+   "gap_to_kegg_native": 0.0
+  },
+  "ms_fix": {
+   "mae": 1.6378,
+   "rmse": 2.5403,
+   "gap_to_kegg_native": 0.8452
+  },
+  "kegg_fix": {
+   "mae": 0.9742,
+   "rmse": 1.5031,
+   "gap_to_kegg_native": 0.0
+  },
+  "ms_taut": {
+   "mae": 1.3685,
+   "rmse": 2.1936,
+   "gap_to_kegg_native": 1.119
+  },
+  "kegg_taut": {
+   "mae": 1.1714,
+   "rmse": 1.8884,
+   "gap_to_kegg_native": 0.2686
+  },
+  "ms_tautks": {
+   "mae": 1.3659,
+   "rmse": 2.19,
+   "gap_to_kegg_native": 1.1133
+  },
+  "kegg_tautks": {
+   "mae": 1.1688,
+   "rmse": 1.8843,
+   "gap_to_kegg_native": 0.2629
+  },
+  "ms_fix_taut": {
+   "mae": 1.1214,
+   "rmse": 1.8285,
+   "gap_to_kegg_native": 0.4291
+  },
+  "kegg_fix_taut": {
+   "mae": 1.1714,
+   "rmse": 1.8884,
+   "gap_to_kegg_native": 0.2686
+  },
+  "ms_fix_tautks": {
+   "mae": 1.1187,
+   "rmse": 1.8242,
+   "gap_to_kegg_native": 0.4233
+  },
+  "kegg_fix_tautks": {
+   "mae": 1.1688,
+   "rmse": 1.8843,
+   "gap_to_kegg_native": 0.2629
+  },
+  "ms_fix_amide": {
+   "mae": 0.957,
+   "rmse": 1.4756,
+   "gap_to_kegg_native": 0.2612
+  },
+  "kegg_fix_amide": {
+   "mae": 0.9742,
+   "rmse": 1.5031,
+   "gap_to_kegg_native": 0.0
+  }
+ },
+ "inferences": 930,
+ "runtime_s": 2426
+}

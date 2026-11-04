@@ -1,0 +1,36 @@
+metric	expected	got	ok
+live best_grade GOLD	4073	4073	True
+live best_grade SILVER	14475	14475	True
+live best_grade BRONZE	8790	8790	True
+live best_grade graded	27338	27338	True
+M12 predictors-alone GOLD n	172	172	True
+M12 predictors-alone GOLD within 2 kcal	0.93	0.9302	True
+M12 predictors-alone SILVER n	186	186	True
+M12 predictors-alone SILVER within 2 kcal	0.892	0.8925	True
+M12 predictors-alone BRONZE n	5	5	True
+validation_cv Group contribution GOLD (n, median, <=2)	36 0.429 1.000	36 0.429 1.000	True
+validation_cv Group contribution SILVER (n, median, <=2)	2643 2.628 0.453	2643 2.628 0.453	True
+validation_cv Group contribution BRONZE (n, median, <=2)	521 11.677 0.044	521 11.677 0.044	True
+validation_cv eQuilibrator GOLD (n, median, <=2)	1098 0.377 0.925	1098 0.377 0.925	True
+validation_cv eQuilibrator SILVER (n, median, <=2)	2026 0.379 0.901	2026 0.379 0.901	True
+validation_cv eQuilibrator BRONZE (n, median, <=2)	68 1.989 0.559	68 1.989 0.559	True
+validation_cv dGPredictor GOLD (n, median, <=2)	1401 0.370 0.969	1401 0.370 0.969	True
+validation_cv dGPredictor SILVER (n, median, <=2)	1725 0.068 0.954	1725 0.068 0.954	True
+validation_cv dGPredictor BRONZE (n, median, <=2)	78 5.158 0.231	78 5.158 0.231	True
+p_ok model GC (n_anchor, n_proxy)	800 11032	800 11032	True
+p_ok model EQ (n_anchor, n_proxy)	798 0	798 0	True
+p_ok model DGP (n_anchor, n_proxy)	801 11304	801 11304	True
+reaction_grades.tsv rows (committed vs reproduced)	55996	55996	True
+reaction_grades.tsv best_grade mismatches	0	0	True
+reaction_grades.tsv best_source mismatches	0	0	True
+reaction_grades.tsv n_src mismatches	0	0	True
+reaction_grades.tsv max |birge diff|	0.0	0.0	True
+S03 table GOLD measured	363	363	True
+S03 table GOLD self-certain	3710	3710	True
+S03 table SILVER self-certain disputed	31	31	True
+S03 table SILVER self-certain unpaired	370	370	True
+S03 table SILVER self-confident	6361	6361	True
+S03 table SILVER unconfident corroborated	7713	7713	True
+S03 table BRONZE self-confident disputed	79	79	True
+S03 table BRONZE unconfident disputed	2563	2563	True
+S03 table BRONZE unconfident	6148	6148	True

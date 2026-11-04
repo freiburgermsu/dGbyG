@@ -1,0 +1,6 @@
+run	GOLD	SILVER	BRONZE	graded
+baseline	4073	14475	8790	27338
+dgb_last	6255	13330	7908	27493
+dgb_after_eq	6255	13330	7908	27493
+heldout_dgb_last	6242	13371	7880	27493
+heldout_dgb_after_eq	6242	13371	7880	27493

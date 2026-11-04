@@ -1,0 +1,33 @@
+subset	source	n	pearson	spearman	mae	median_ae	rmse	bias	within_tau_pct	sign_agree_pct
+own coverage	eQuilibrator	363	0.9267	0.9418	0.8148	0.4014	1.4169	0.279	89.5317	89.8072
+own coverage	dGPredictor	363	0.9243	0.9459	0.5978	0.1991	1.3569	-0.0672	93.3884	91.7355
+own coverage	Group contribution	362	0.1021	0.0686	6.2551	5.313	9.0257	-2.3152	36.7403	45.3039
+own coverage	dGbyG_ModelSEED	363	0.776	0.7817	1.6132	0.8955	2.5142	0.0728	71.0744	79.6143
+own coverage	dGbyG_KEGG	363	0.9018	0.9	0.9742	0.5964	1.5031	0.2507	86.2259	83.4711
+own coverage	dGbyG_ModelSEED_fix	363	0.8141	0.822	1.6378	0.7956	2.5403	0.5079	69.4215	81.5427
+own coverage	dGbyG_ModelSEED_fix_amide	363	0.8976	0.8986	0.957	0.5547	1.4756	0.0784	85.9504	83.4711
+own coverage	dGbyG_ModelSEED_fix_tautks	363	0.8516	0.8748	1.1187	0.6558	1.8242	0.0107	85.124	82.3691
+common (eQ, dGP, dGbyG x2)	eQuilibrator	363	0.9267	0.9418	0.8148	0.4014	1.4169	0.279	89.5317	89.8072
+common (eQ, dGP, dGbyG x2)	dGPredictor	363	0.9243	0.9459	0.5978	0.1991	1.3569	-0.0672	93.3884	91.7355
+common (eQ, dGP, dGbyG x2)	Group contribution	362	0.1021	0.0686	6.2551	5.313	9.0257	-2.3152	36.7403	45.3039
+common (eQ, dGP, dGbyG x2)	dGbyG_ModelSEED	363	0.776	0.7817	1.6132	0.8955	2.5142	0.0728	71.0744	79.6143
+common (eQ, dGP, dGbyG x2)	dGbyG_KEGG	363	0.9018	0.9	0.9742	0.5964	1.5031	0.2507	86.2259	83.4711
+common (eQ, dGP, dGbyG x2)	dGbyG_ModelSEED_fix	363	0.8141	0.822	1.6378	0.7956	2.5403	0.5079	69.4215	81.5427
+common (eQ, dGP, dGbyG x2)	dGbyG_ModelSEED_fix_amide	363	0.8976	0.8986	0.957	0.5547	1.4756	0.0784	85.9504	83.4711
+common (eQ, dGP, dGbyG x2)	dGbyG_ModelSEED_fix_tautks	363	0.8516	0.8748	1.1187	0.6558	1.8242	0.0107	85.124	82.3691
+common, in dGbyG training (KEGG key exact/skeleton)	eQuilibrator	363	0.9267	0.9418	0.8148	0.4014	1.4169	0.279	89.5317	89.8072
+common, in dGbyG training (KEGG key exact/skeleton)	dGPredictor	363	0.9243	0.9459	0.5978	0.1991	1.3569	-0.0672	93.3884	91.7355
+common, in dGbyG training (KEGG key exact/skeleton)	Group contribution	362	0.1021	0.0686	6.2551	5.313	9.0257	-2.3152	36.7403	45.3039
+common, in dGbyG training (KEGG key exact/skeleton)	dGbyG_ModelSEED	363	0.776	0.7817	1.6132	0.8955	2.5142	0.0728	71.0744	79.6143
+common, in dGbyG training (KEGG key exact/skeleton)	dGbyG_KEGG	363	0.9018	0.9	0.9742	0.5964	1.5031	0.2507	86.2259	83.4711
+common, in dGbyG training (KEGG key exact/skeleton)	dGbyG_ModelSEED_fix	363	0.8141	0.822	1.6378	0.7956	2.5403	0.5079	69.4215	81.5427
+common, in dGbyG training (KEGG key exact/skeleton)	dGbyG_ModelSEED_fix_amide	363	0.8976	0.8986	0.957	0.5547	1.4756	0.0784	85.9504	83.4711
+common, in dGbyG training (KEGG key exact/skeleton)	dGbyG_ModelSEED_fix_tautks	363	0.8516	0.8748	1.1187	0.6558	1.8242	0.0107	85.124	82.3691
+common, non-transport	eQuilibrator	347	0.9186	0.937	0.838	0.4177	1.446	0.2897	89.049	89.6254
+common, non-transport	dGPredictor	347	0.9135	0.9418	0.5954	0.1697	1.3793	-0.0682	93.0836	91.6427
+common, non-transport	Group contribution	346	0.069	0.0242	6.4025	5.5777	9.1734	-2.3947	35.2601	43.9306
+common, non-transport	dGbyG_ModelSEED	347	0.7546	0.7651	1.6592	0.9443	2.5617	0.066	70.0288	78.9625
+common, non-transport	dGbyG_KEGG	347	0.8891	0.8915	0.9989	0.6237	1.5268	0.26	86.1671	82.9971
+common, non-transport	dGbyG_ModelSEED_fix	347	0.7967	0.808	1.6932	0.8681	2.5872	0.518	68.2997	80.9798
+common, non-transport	dGbyG_ModelSEED_fix_amide	347	0.884	0.8903	0.9809	0.579	1.498	0.0832	85.5908	82.9971
+common, non-transport	dGbyG_ModelSEED_fix_tautks	347	0.8325	0.8648	1.15	0.6761	1.8567	0.0124	84.7262	81.8444

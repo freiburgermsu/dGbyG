@@ -1,0 +1,6 @@
+path	n	n_sigma_zero	rms_z	median_abs_z	within_1sd_pct	within_2sd_pct	median_sigma
+ms_native	348	15	6.368	0.662	62.36	78.16	0.77
+kegg_native	345	18	9.123	2.643	22.32	39.42	0.22
+ms_fix_amide	345	18	7.697	1.788	30.14	52.75	0.34
+ms_fix_tautks	344	19	7.916	2.182	25.58	45.93	0.34
+kegg_fix_tautks	344	19	9.193	2.811	20.64	36.63	0.23

@@ -1,0 +1,42 @@
+A. Grouped 10-fold CV of dGbyG (20 heads per fold), kJ/mol; paper Table S4 dGbyG: Pearson 0.997, MAE 9.18, RMSE 25.88
+  all rows        n=671  Pearson 0.9973  MAE  9.01  RMSE 26.29  median|e| 4.12
+  reaction rows   n=449  Pearson 0.7299  MAE  6.10  RMSE 12.10  median|e| 3.53
+  formation rows  n=222  Pearson 0.9972  MAE 14.90  RMSE 42.35  median|e| 5.29
+
+B. Anchors: 363 live, 348 non-degenerate (dGbyG sigma > 0 at 2 dp); kcal/mol
+  source                          n   MAE within 2 | MAE vs transformed within 2
+  eQuilibrator                  348  0.85    89.1% |               0.53    95.1%
+  dGPredictor                   348  0.62    93.1% |               0.92    88.2%
+  Group contribution            347  6.51    34.0% |               6.86    33.1%
+  dGbyG                         348  1.67    69.8% |               1.52    76.1%
+  dGbyG KEGG structures         348  1.00    85.6% |               0.81    89.1%
+  dGbyG (held-out)              348  2.12    66.1% |               1.97    69.8%
+  dGbyG KEGG (held-out)         348  1.55    75.0% |               1.46    76.7%
+  dGbyG repaired (held-out)     348  1.44    74.4% |               1.43    75.6%
+  raw anchors vs transformed targets: MAE 0.50, 16.7% differ by > 1; measured entirely within pH 6.5-7.5: 118 of 348
+  novelty class (non-degenerate)        n      KEGG in-sample       KEGG held-out  ModelSEED held-out   repaired held-out        eQuilibrator         dGPredictor
+  predicted exactly 0                     3                0.02                0.02                0.52                0.02                0.45                0.35
+  indistinguishable twin in training     83                1.06                1.12                1.75                1.17                0.73                0.54
+  all formation energies in training     51                0.65                0.90                1.02                0.90                0.54                0.78
+  novel to the fold model               211                1.08                1.89                2.56                1.69                0.97                0.61
+
+C. Direction accuracy by quartile of eQuilibrator's own sigma (798 anchor records, full set)
+  README protocol (GC cascade)
+    Q1 (smallest)  n=200  median sigma 0.10  eQuilibrator  94.5%  dGPredictor  96.0%
+    Q2             n=199  median sigma 0.29  eQuilibrator  83.4%  dGPredictor  85.4%
+    Q3             n=199  median sigma 0.44  eQuilibrator  84.4%  dGPredictor  88.9%
+    Q4             n=200  median sigma 0.76  eQuilibrator  87.5%  dGPredictor  94.0%
+  shipped rule sets vs RI-rule truth
+    Q1 (smallest)  n=200  median sigma 0.10  eQuilibrator  91.0%  dGPredictor  89.5%
+    Q2             n=199  median sigma 0.29  eQuilibrator  98.0%  dGPredictor  85.9%
+    Q3             n=199  median sigma 0.44  eQuilibrator  95.5%  dGPredictor  89.4%
+    Q4             n=200  median sigma 0.76  eQuilibrator  96.5%  dGPredictor  88.5%
+
+D. Magnitude source selection, 20 x 70/30 splits of 801 anchors (optimize_thermo_source_assignment.py functions, /home/freiburger/Documents/ModelSEEDDatabase-dgbyg); |chosen - measured|, kcal/mol. Docstring claim: argmin 1.03 vs always-eQuilibrator 1.75
+  always dGPredictor             n=241.0  mean 0.66 +/- 0.10  median 0.23
+  always eQuilibrator            n=240.4  mean 0.74 +/- 0.04  median 0.38
+  dev priority (EQ>GC, then ML)  n=241.0  mean 0.76 +/- 0.06  median 0.38
+  argmin expected error          n=241.0  mean 0.78 +/- 0.11  median 0.36
+  always group contribution      n=240.6  mean 6.10 +/- 0.39  median 4.36
+  argmin expected error beats always eQuilibrator in 10 of 20 splits
+  argmin expected error beats always dGPredictor in 1 of 20 splits
